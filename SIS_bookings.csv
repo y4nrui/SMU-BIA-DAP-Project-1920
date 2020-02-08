@@ -1,0 +1,807 @@
+,0,1,2,3
+0,Day,Facility,Booking Time,Purpose
+1,"8 February 2020, Saturday",SIS Class Rm B1-1,08:30-12:30,Student
+2,"8 February 2020, Saturday",SIS GSR 2-1,13:00-17:00,Student
+3,"8 February 2020, Saturday",SIS GSR 2-5,10:00-14:00,Student
+4,"8 February 2020, Saturday",SIS GSR 2-6,13:00-17:00,Student
+5,"8 February 2020, Saturday",SIS GSR 3-1,10:30-14:30,Student
+6,"8 February 2020, Saturday",SIS GSR 3-2,09:00-13:00,Student
+7,"8 February 2020, Saturday",SIS GSR 3-3,15:30-17:00,Student
+8,"8 February 2020, Saturday",SIS GSR 3-5,13:00-17:00,Student
+9,"8 February 2020, Saturday",SIS GSR 3-6,13:00-17:00,Student
+10,"8 February 2020, Saturday",SIS Seminar Rm B1-1,08:00-09:00,Student
+11,"8 February 2020, Saturday",SIS Seminar Rm B1-1,09:00-09:30,Faculty
+12,"8 February 2020, Saturday",SIS Seminar Rm B1-1,09:30-10:00,Faculty
+13,"8 February 2020, Saturday",SIS Seminar Rm B1-1,10:00-10:30,Faculty
+14,"8 February 2020, Saturday",SIS Seminar Rm B1-1,10:30-11:00,Faculty
+15,"8 February 2020, Saturday",SIS Seminar Rm B1-1,11:00-11:30,Faculty
+16,"8 February 2020, Saturday",SIS Seminar Rm B1-1,11:30-12:00,Faculty
+17,"8 February 2020, Saturday",SIS Seminar Rm B1-1,13:30-17:00,SIS PG by Course Work
+18,"8 February 2020, Saturday",SIS Seminar Room 2-1,09:00-12:30,SIS PG by Course Work
+19,"8 February 2020, Saturday",SIS Seminar Room 2-2,08:30-14:00,Institute of Innovation and Entrepreneurship
+20,"8 February 2020, Saturday",SIS Seminar Room 2-3,08:00-17:00,Office of the Dean
+21,"8 February 2020, Saturday",SIS Seminar Room 2-4,13:30-17:00,Faculty
+22,"8 February 2020, Saturday",SIS Seminar Room 3-3,09:00-12:30,SIS PG by Course Work
+23,"7 February 2020, Friday",SIS Class Rm B1-1,08:00-13:45,Learning Space Technology Services
+24,"7 February 2020, Friday",SIS Class Rm B1-1,14:00-19:30,Creative Experience and Partnerships Team
+25,"7 February 2020, Friday",SIS Class Rm B1-1,19:30-22:30,Student
+26,"7 February 2020, Friday",SIS GSR 2-1,09:00-12:30,Student
+27,"7 February 2020, Friday",SIS GSR 2-1,14:00-17:00,SIS Instructors
+28,"7 February 2020, Friday",SIS GSR 2-1,17:00-20:00,Student
+29,"7 February 2020, Friday",SIS GSR 2-2,09:00-12:00,Student
+30,"7 February 2020, Friday",SIS GSR 2-2,12:00-13:00,Student
+31,"7 February 2020, Friday",SIS GSR 2-2,13:00-17:00,Student
+32,"7 February 2020, Friday",SIS GSR 2-2,18:00-21:30,Student
+33,"7 February 2020, Friday",SIS GSR 2-3,10:30-11:30,Student
+34,"7 February 2020, Friday",SIS GSR 2-3,12:30-13:30,Student
+35,"7 February 2020, Friday",SIS GSR 2-3,14:00-15:00,Student
+36,"7 February 2020, Friday",SIS GSR 2-3,15:30-16:30,Student
+37,"7 February 2020, Friday",SIS GSR 2-3,16:30-18:00,Student
+38,"7 February 2020, Friday",SIS GSR 2-4,11:30-15:30,Student
+39,"7 February 2020, Friday",SIS GSR 2-4,15:30-19:30,Student
+40,"7 February 2020, Friday",SIS GSR 2-5,11:00-14:00,Student
+41,"7 February 2020, Friday",SIS GSR 2-5,14:00-17:00,Student
+42,"7 February 2020, Friday",SIS GSR 2-5,17:00-20:00,Student
+43,"7 February 2020, Friday",SIS GSR 2-6,08:30-12:30,Student
+44,"7 February 2020, Friday",SIS GSR 2-6,12:30-16:30,Student
+45,"7 February 2020, Friday",SIS GSR 2-6,16:30-18:30,Student
+46,"7 February 2020, Friday",SIS GSR 2-7,12:00-16:00,Student
+47,"7 February 2020, Friday",SIS GSR 2-7,16:00-20:00,Student
+48,"7 February 2020, Friday",SIS GSR 3-1,09:30-12:00,Student
+49,"7 February 2020, Friday",SIS GSR 3-1,12:00-15:30,Student
+50,"7 February 2020, Friday",SIS GSR 3-1,15:30-19:30,Student
+51,"7 February 2020, Friday",SIS GSR 3-1,19:30-22:00,Student
+52,"7 February 2020, Friday",SIS GSR 3-2,11:30-15:30,Student
+53,"7 February 2020, Friday",SIS GSR 3-2,15:30-19:30,Student
+54,"7 February 2020, Friday",SIS GSR 3-3,12:00-16:00,Student
+55,"7 February 2020, Friday",SIS GSR 3-3,16:00-20:00,Student
+56,"7 February 2020, Friday",SIS GSR 3-4,10:00-12:00,Student
+57,"7 February 2020, Friday",SIS GSR 3-4,12:00-16:00,Student
+58,"7 February 2020, Friday",SIS GSR 3-4,16:00-20:00,Student
+59,"7 February 2020, Friday",SIS GSR 3-5,12:00-16:00,Student
+60,"7 February 2020, Friday",SIS GSR 3-5,16:00-19:00,Student
+61,"7 February 2020, Friday",SIS GSR 3-6,09:00-13:00,Student
+62,"7 February 2020, Friday",SIS GSR 3-6,13:00-16:00,Student
+63,"7 February 2020, Friday",SIS GSR 3-6,16:00-20:00,Student
+64,"7 February 2020, Friday",SIS Seminar Rm B1-1,08:00-11:30,Timetabling & Course Enrolment
+65,"7 February 2020, Friday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+66,"7 February 2020, Friday",SIS Seminar Rm B1-1,15:30-18:45,Learning Space Technology Services
+67,"7 February 2020, Friday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+68,"7 February 2020, Friday",SIS Seminar Room 2-1,08:00-11:30,Timetabling & Course Enrolment
+69,"7 February 2020, Friday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+70,"7 February 2020, Friday",SIS Seminar Room 2-1,15:30-18:30,Student
+71,"7 February 2020, Friday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+72,"7 February 2020, Friday",SIS Seminar Room 2-2,08:00-11:30,Faculty
+73,"7 February 2020, Friday",SIS Seminar Room 2-2,12:00-15:15,Student
+74,"7 February 2020, Friday",SIS Seminar Room 2-2,15:30-18:30,Student
+75,"7 February 2020, Friday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+76,"7 February 2020, Friday",SIS Seminar Room 2-3,12:00-15:30,Faculty
+77,"7 February 2020, Friday",SIS Seminar Room 2-3,15:30-18:30,Student
+78,"7 February 2020, Friday",SIS Seminar Room 2-4,08:00-11:30,Student
+79,"7 February 2020, Friday",SIS Seminar Room 2-4,12:00-15:30,Faculty
+80,"7 February 2020, Friday",SIS Seminar Room 2-4,15:30-19:30,Student
+81,"7 February 2020, Friday",SIS Seminar Room 3-1,08:00-11:30,Timetabling & Course Enrolment
+82,"7 February 2020, Friday",SIS Seminar Room 3-1,12:00-15:45,Student
+83,"7 February 2020, Friday",SIS Seminar Room 3-1,16:00-18:45,Student
+84,"7 February 2020, Friday",SIS Seminar Room 3-1,19:00-22:30,SIS PG by Course Work
+85,"7 February 2020, Friday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+86,"7 February 2020, Friday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+87,"7 February 2020, Friday",SIS Seminar Room 3-2,15:30-18:30,Student
+88,"7 February 2020, Friday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+89,"7 February 2020, Friday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+90,"7 February 2020, Friday",SIS Seminar Room 3-3,15:30-22:30,Student
+91,"7 February 2020, Friday",SIS Seminar Room 3-4,08:00-11:30,Timetabling & Course Enrolment
+92,"7 February 2020, Friday",SIS Seminar Room 3-4,11:30-13:45,Student
+93,"7 February 2020, Friday",SIS Seminar Room 3-4,14:00-19:00,Conference
+94,"6 February 2020, Thursday",SIS Class Rm B1-1,09:30-18:30,Student
+95,"6 February 2020, Thursday",SIS Class Rm B1-1,19:00-22:00,Student
+96,"6 February 2020, Thursday",SIS GSR 2-1,09:00-12:00,Student
+97,"6 February 2020, Thursday",SIS GSR 2-1,12:00-16:00,Student
+98,"6 February 2020, Thursday",SIS GSR 2-1,16:00-20:00,Student
+99,"6 February 2020, Thursday",SIS GSR 2-2,08:30-12:00,Student
+100,"6 February 2020, Thursday",SIS GSR 2-2,12:00-15:30,Student
+101,"6 February 2020, Thursday",SIS GSR 2-2,15:30-19:30,Student
+102,"6 February 2020, Thursday",SIS GSR 2-3,08:30-11:30,Student
+103,"6 February 2020, Thursday",SIS GSR 2-3,11:30-15:30,Student
+104,"6 February 2020, Thursday",SIS GSR 2-3,15:30-19:00,Student
+105,"6 February 2020, Thursday",SIS GSR 2-3,19:00-22:00,Student
+106,"6 February 2020, Thursday",SIS GSR 2-4,11:30-15:30,Student
+107,"6 February 2020, Thursday",SIS GSR 2-4,15:30-19:30,Student
+108,"6 February 2020, Thursday",SIS GSR 2-5,11:00-14:00,Student
+109,"6 February 2020, Thursday",SIS GSR 2-5,14:00-17:00,Student
+110,"6 February 2020, Thursday",SIS GSR 2-5,17:00-20:00,Student
+111,"6 February 2020, Thursday",SIS GSR 2-6,11:00-12:00,Student
+112,"6 February 2020, Thursday",SIS GSR 2-6,12:00-15:30,Student
+113,"6 February 2020, Thursday",SIS GSR 2-6,16:00-19:00,Student
+114,"6 February 2020, Thursday",SIS GSR 2-7,11:30-15:30,Student
+115,"6 February 2020, Thursday",SIS GSR 2-7,15:30-19:00,Student
+116,"6 February 2020, Thursday",SIS GSR 2-7,19:00-22:00,Student
+117,"6 February 2020, Thursday",SIS GSR 3-1,12:00-16:00,Student
+118,"6 February 2020, Thursday",SIS GSR 3-1,16:00-20:00,Student
+119,"6 February 2020, Thursday",SIS GSR 3-2,11:30-14:00,Student
+120,"6 February 2020, Thursday",SIS GSR 3-2,14:00-15:00,Student
+121,"6 February 2020, Thursday",SIS GSR 3-2,15:00-19:00,Student
+122,"6 February 2020, Thursday",SIS GSR 3-2,19:00-22:30,Student
+123,"6 February 2020, Thursday",SIS GSR 3-3,10:00-12:00,Student
+124,"6 February 2020, Thursday",SIS GSR 3-3,12:00-15:00,Student
+125,"6 February 2020, Thursday",SIS GSR 3-3,15:00-17:30,Student
+126,"6 February 2020, Thursday",SIS GSR 3-3,18:00-22:00,Student
+127,"6 February 2020, Thursday",SIS GSR 3-4,09:30-12:00,Student
+128,"6 February 2020, Thursday",SIS GSR 3-4,12:00-15:00,Student
+129,"6 February 2020, Thursday",SIS GSR 3-4,15:00-19:00,Student
+130,"6 February 2020, Thursday",SIS GSR 3-4,19:00-21:30,Student
+131,"6 February 2020, Thursday",SIS GSR 3-5,08:30-10:00,Student
+132,"6 February 2020, Thursday",SIS GSR 3-5,12:00-15:30,Student
+133,"6 February 2020, Thursday",SIS GSR 3-5,15:30-19:30,Student
+134,"6 February 2020, Thursday",SIS GSR 3-5,20:00-22:30,Student
+135,"6 February 2020, Thursday",SIS GSR 3-6,11:30-15:30,Student
+136,"6 February 2020, Thursday",SIS GSR 3-6,15:30-19:00,Student
+137,"6 February 2020, Thursday",SIS GSR 3-6,19:00-22:30,Student
+138,"6 February 2020, Thursday",SIS Seminar Rm B1-1,08:00-11:30,Faculty
+139,"6 February 2020, Thursday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+140,"6 February 2020, Thursday",SIS Seminar Rm B1-1,15:30-19:00,Faculty
+141,"6 February 2020, Thursday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+142,"6 February 2020, Thursday",SIS Seminar Room 2-1,08:00-11:30,Faculty
+143,"6 February 2020, Thursday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+144,"6 February 2020, Thursday",SIS Seminar Room 2-1,15:30-19:00,Faculty
+145,"6 February 2020, Thursday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+146,"6 February 2020, Thursday",SIS Seminar Room 2-2,12:00-15:30,Faculty
+147,"6 February 2020, Thursday",SIS Seminar Room 2-2,15:30-19:00,Faculty
+148,"6 February 2020, Thursday",SIS Seminar Room 2-2,19:00-22:30,SIS PG by Course Work
+149,"6 February 2020, Thursday",SIS Seminar Room 2-3,08:00-11:30,Timetabling & Course Enrolment
+150,"6 February 2020, Thursday",SIS Seminar Room 2-3,12:00-15:30,SIS Instructors
+151,"6 February 2020, Thursday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+152,"6 February 2020, Thursday",SIS Seminar Room 2-3,19:00-22:30,Office of the Dean
+153,"6 February 2020, Thursday",SIS Seminar Room 2-4,08:00-11:30,Faculty
+154,"6 February 2020, Thursday",SIS Seminar Room 2-4,12:00-15:30,Faculty
+155,"6 February 2020, Thursday",SIS Seminar Room 2-4,15:30-19:00,Faculty
+156,"6 February 2020, Thursday",SIS Seminar Room 3-1,08:00-11:30,Faculty
+157,"6 February 2020, Thursday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+158,"6 February 2020, Thursday",SIS Seminar Room 3-1,15:30-19:00,Living Analytics Research Centre
+159,"6 February 2020, Thursday",SIS Seminar Room 3-1,19:00-22:30,Student
+160,"6 February 2020, Thursday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+161,"6 February 2020, Thursday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+162,"6 February 2020, Thursday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+163,"6 February 2020, Thursday",SIS Seminar Room 3-3,08:00-11:30,School of Information Systems
+164,"6 February 2020, Thursday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+165,"6 February 2020, Thursday",SIS Seminar Room 3-3,15:30-19:00,Faculty
+166,"6 February 2020, Thursday",SIS Seminar Room 3-4,08:00-11:30,Faculty
+167,"6 February 2020, Thursday",SIS Seminar Room 3-4,12:00-15:30,Timetabling & Course Enrolment
+168,"6 February 2020, Thursday",SIS Seminar Room 3-4,15:30-19:00,Faculty
+169,"6 February 2020, Thursday",SIS Seminar Room 3-4,19:00-22:30,Student
+170,"5 February 2020, Wednesday",SIS Class Rm B1-1,08:00-11:30,Learning Space Technology Services
+171,"5 February 2020, Wednesday",SIS Class Rm B1-1,12:00-16:00,Student
+172,"5 February 2020, Wednesday",SIS Class Rm B1-1,16:00-22:30,Learning Space Technology Services
+173,"5 February 2020, Wednesday",SIS GSR 2-1,09:00-12:00,Student
+174,"5 February 2020, Wednesday",SIS GSR 2-1,12:00-13:30,Student
+175,"5 February 2020, Wednesday",SIS GSR 2-1,13:30-17:30,Student
+176,"5 February 2020, Wednesday",SIS GSR 2-1,19:00-22:30,Student
+177,"5 February 2020, Wednesday",SIS GSR 2-2,10:00-12:00,Student
+178,"5 February 2020, Wednesday",SIS GSR 2-2,12:00-16:00,Student
+179,"5 February 2020, Wednesday",SIS GSR 2-2,16:00-19:00,Student
+180,"5 February 2020, Wednesday",SIS GSR 2-2,19:00-22:00,Student
+181,"5 February 2020, Wednesday",SIS GSR 2-3,11:30-15:30,Student
+182,"5 February 2020, Wednesday",SIS GSR 2-3,15:30-19:30,Student
+183,"5 February 2020, Wednesday",SIS GSR 2-3,19:30-22:30,Student
+184,"5 February 2020, Wednesday",SIS GSR 2-4,11:30-15:30,Student
+185,"5 February 2020, Wednesday",SIS GSR 2-4,15:30-18:30,Student
+186,"5 February 2020, Wednesday",SIS GSR 2-4,19:00-21:00,Student
+187,"5 February 2020, Wednesday",SIS GSR 2-5,11:00-14:00,Student
+188,"5 February 2020, Wednesday",SIS GSR 2-5,14:00-17:00,Student
+189,"5 February 2020, Wednesday",SIS GSR 2-5,17:00-20:00,Student
+190,"5 February 2020, Wednesday",SIS GSR 2-6,09:30-12:30,Student
+191,"5 February 2020, Wednesday",SIS GSR 2-6,12:30-15:30,Student
+192,"5 February 2020, Wednesday",SIS GSR 2-6,15:30-18:00,Student
+193,"5 February 2020, Wednesday",SIS GSR 2-6,18:00-22:00,Student
+194,"5 February 2020, Wednesday",SIS GSR 2-7,12:00-16:00,Student
+195,"5 February 2020, Wednesday",SIS GSR 2-7,16:00-20:00,Student
+196,"5 February 2020, Wednesday",SIS GSR 3-1,12:00-16:00,Student
+197,"5 February 2020, Wednesday",SIS GSR 3-1,16:00-20:00,Student
+198,"5 February 2020, Wednesday",SIS GSR 3-2,09:00-12:00,Student
+199,"5 February 2020, Wednesday",SIS GSR 3-2,12:00-16:00,Student
+200,"5 February 2020, Wednesday",SIS GSR 3-2,16:30-20:30,Student
+201,"5 February 2020, Wednesday",SIS GSR 3-3,11:30-15:30,Student
+202,"5 February 2020, Wednesday",SIS GSR 3-3,15:30-19:30,Student
+203,"5 February 2020, Wednesday",SIS GSR 3-4,11:00-12:00,Student
+204,"5 February 2020, Wednesday",SIS GSR 3-4,12:00-16:00,Student
+205,"5 February 2020, Wednesday",SIS GSR 3-4,16:30-20:30,Student
+206,"5 February 2020, Wednesday",SIS GSR 3-4,20:30-22:30,Student
+207,"5 February 2020, Wednesday",SIS GSR 3-5,11:30-15:30,Student
+208,"5 February 2020, Wednesday",SIS GSR 3-5,15:30-19:00,Student
+209,"5 February 2020, Wednesday",SIS GSR 3-5,19:00-22:00,Student
+210,"5 February 2020, Wednesday",SIS GSR 3-6,11:30-15:30,Student
+211,"5 February 2020, Wednesday",SIS GSR 3-6,15:30-19:00,Student
+212,"5 February 2020, Wednesday",SIS Seminar Rm B1-1,08:00-11:30,Faculty
+213,"5 February 2020, Wednesday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+214,"5 February 2020, Wednesday",SIS Seminar Rm B1-1,15:30-19:00,Timetabling & Course Enrolment
+215,"5 February 2020, Wednesday",SIS Seminar Room 2-1,08:00-11:30,Faculty
+216,"5 February 2020, Wednesday",SIS Seminar Room 2-1,12:00-15:30,School of Information Systems
+217,"5 February 2020, Wednesday",SIS Seminar Room 2-1,15:30-19:00,Faculty
+218,"5 February 2020, Wednesday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+219,"5 February 2020, Wednesday",SIS Seminar Room 2-2,08:00-11:45,SIS Instructors
+220,"5 February 2020, Wednesday",SIS Seminar Room 2-2,12:00-15:30,Faculty
+221,"5 February 2020, Wednesday",SIS Seminar Room 2-2,15:30-19:00,Faculty
+222,"5 February 2020, Wednesday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+223,"5 February 2020, Wednesday",SIS Seminar Room 2-3,12:00-15:30,Faculty
+224,"5 February 2020, Wednesday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+225,"5 February 2020, Wednesday",SIS Seminar Room 2-3,19:00-22:30,Office of the Dean
+226,"5 February 2020, Wednesday",SIS Seminar Room 2-4,08:00-11:30,Faculty
+227,"5 February 2020, Wednesday",SIS Seminar Room 2-4,12:00-15:30,Timetabling & Course Enrolment
+228,"5 February 2020, Wednesday",SIS Seminar Room 2-4,15:30-19:00,Faculty
+229,"5 February 2020, Wednesday",SIS Seminar Room 2-4,19:00-22:00,Institute of Innovation and Entrepreneurship
+230,"5 February 2020, Wednesday",SIS Seminar Room 3-1,09:30-11:30,SIS Instructors
+231,"5 February 2020, Wednesday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+232,"5 February 2020, Wednesday",SIS Seminar Room 3-1,15:30-19:00,Faculty
+233,"5 February 2020, Wednesday",SIS Seminar Room 3-1,19:00-21:00,Student
+234,"5 February 2020, Wednesday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+235,"5 February 2020, Wednesday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+236,"5 February 2020, Wednesday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+237,"5 February 2020, Wednesday",SIS Seminar Room 3-2,19:00-22:30,SIS PG by Course Work
+238,"5 February 2020, Wednesday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+239,"5 February 2020, Wednesday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+240,"5 February 2020, Wednesday",SIS Seminar Room 3-3,15:30-19:00,Faculty
+241,"5 February 2020, Wednesday",SIS Seminar Room 3-3,19:00-22:30,Student
+242,"5 February 2020, Wednesday",SIS Seminar Room 3-4,08:00-11:30,Faculty
+243,"5 February 2020, Wednesday",SIS Seminar Room 3-4,12:00-15:30,Faculty
+244,"5 February 2020, Wednesday",SIS Seminar Room 3-4,15:30-19:00,Timetabling & Course Enrolment
+245,"5 February 2020, Wednesday",SIS Seminar Room 3-4,19:00-22:30,Faculty
+246,"4 February 2020, Tuesday",SIS Class Rm B1-1,08:00-11:30,Learning Space Technology Services
+247,"4 February 2020, Tuesday",SIS Class Rm B1-1,12:00-15:30,Faculty
+248,"4 February 2020, Tuesday",SIS Class Rm B1-1,15:30-19:00,Faculty
+249,"4 February 2020, Tuesday",SIS Class Rm B1-1,19:00-22:30,Student
+250,"4 February 2020, Tuesday",SIS GSR 2-1,11:30-15:30,Student
+251,"4 February 2020, Tuesday",SIS GSR 2-1,15:30-16:30,Student
+252,"4 February 2020, Tuesday",SIS GSR 2-1,16:30-19:00,Student
+253,"4 February 2020, Tuesday",SIS GSR 2-1,19:00-22:00,Student
+254,"4 February 2020, Tuesday",SIS GSR 2-2,11:30-15:30,Student
+255,"4 February 2020, Tuesday",SIS GSR 2-2,15:30-16:00,Student
+256,"4 February 2020, Tuesday",SIS GSR 2-2,16:00-20:00,Student
+257,"4 February 2020, Tuesday",SIS GSR 2-3,12:00-16:00,Student
+258,"4 February 2020, Tuesday",SIS GSR 2-3,16:00-19:00,Student
+259,"4 February 2020, Tuesday",SIS GSR 2-4,11:00-12:00,Student
+260,"4 February 2020, Tuesday",SIS GSR 2-4,12:00-15:00,Student
+261,"4 February 2020, Tuesday",SIS GSR 2-4,15:00-18:00,Student
+262,"4 February 2020, Tuesday",SIS GSR 2-4,19:00-22:00,Student
+263,"4 February 2020, Tuesday",SIS GSR 2-5,11:00-14:00,Student
+264,"4 February 2020, Tuesday",SIS GSR 2-5,14:00-17:00,Student
+265,"4 February 2020, Tuesday",SIS GSR 2-5,17:00-20:00,Student
+266,"4 February 2020, Tuesday",SIS GSR 2-6,09:00-12:00,Student
+267,"4 February 2020, Tuesday",SIS GSR 2-6,12:00-15:30,Student
+268,"4 February 2020, Tuesday",SIS GSR 2-6,15:30-18:30,Student
+269,"4 February 2020, Tuesday",SIS GSR 2-6,18:30-20:00,Student
+270,"4 February 2020, Tuesday",SIS GSR 2-7,12:00-16:00,Student
+271,"4 February 2020, Tuesday",SIS GSR 2-7,16:00-18:00,Student
+272,"4 February 2020, Tuesday",SIS GSR 2-7,18:00-22:00,Student
+273,"4 February 2020, Tuesday",SIS GSR 3-1,11:00-19:00,SIS Research Centre (Extenal Funded)
+274,"4 February 2020, Tuesday",SIS GSR 3-1,19:00-22:00,Student
+275,"4 February 2020, Tuesday",SIS GSR 3-2,09:00-12:00,Student
+276,"4 February 2020, Tuesday",SIS GSR 3-2,12:00-16:00,Student
+277,"4 February 2020, Tuesday",SIS GSR 3-2,16:00-20:00,Student
+278,"4 February 2020, Tuesday",SIS GSR 3-3,09:00-12:00,Student
+279,"4 February 2020, Tuesday",SIS GSR 3-3,12:00-16:00,Student
+280,"4 February 2020, Tuesday",SIS GSR 3-3,16:00-20:00,Student
+281,"4 February 2020, Tuesday",SIS GSR 3-3,20:00-22:30,Student
+282,"4 February 2020, Tuesday",SIS GSR 3-4,11:30-15:30,Student
+283,"4 February 2020, Tuesday",SIS GSR 3-4,15:30-18:00,Student
+284,"4 February 2020, Tuesday",SIS GSR 3-4,18:30-22:00,Student
+285,"4 February 2020, Tuesday",SIS GSR 3-5,11:00-12:00,Student
+286,"4 February 2020, Tuesday",SIS GSR 3-5,12:00-15:30,Student
+287,"4 February 2020, Tuesday",SIS GSR 3-5,15:30-17:30,Student
+288,"4 February 2020, Tuesday",SIS GSR 3-5,17:30-19:00,Student
+289,"4 February 2020, Tuesday",SIS GSR 3-5,19:00-22:30,Student
+290,"4 February 2020, Tuesday",SIS GSR 3-6,11:30-15:30,Student
+291,"4 February 2020, Tuesday",SIS GSR 3-6,15:30-19:00,Student
+292,"4 February 2020, Tuesday",SIS Seminar Rm B1-1,08:00-11:30,Learning Space Technology Services
+293,"4 February 2020, Tuesday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+294,"4 February 2020, Tuesday",SIS Seminar Rm B1-1,15:30-19:00,Student
+295,"4 February 2020, Tuesday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+296,"4 February 2020, Tuesday",SIS Seminar Room 2-1,08:00-11:30,Faculty
+297,"4 February 2020, Tuesday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+298,"4 February 2020, Tuesday",SIS Seminar Room 2-1,15:30-19:00,Faculty
+299,"4 February 2020, Tuesday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+300,"4 February 2020, Tuesday",SIS Seminar Room 2-2,09:00-11:45,Student
+301,"4 February 2020, Tuesday",SIS Seminar Room 2-2,12:00-15:30,Faculty
+302,"4 February 2020, Tuesday",SIS Seminar Room 2-2,15:30-19:00,Faculty
+303,"4 February 2020, Tuesday",SIS Seminar Room 2-2,19:00-22:30,Student
+304,"4 February 2020, Tuesday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+305,"4 February 2020, Tuesday",SIS Seminar Room 2-3,12:00-15:30,Faculty
+306,"4 February 2020, Tuesday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+307,"4 February 2020, Tuesday",SIS Seminar Room 2-3,19:00-22:30,Office of the Dean
+308,"4 February 2020, Tuesday",SIS Seminar Room 2-4,08:00-11:45,SIS Instructors
+309,"4 February 2020, Tuesday",SIS Seminar Room 2-4,12:00-15:30,Timetabling & Course Enrolment
+310,"4 February 2020, Tuesday",SIS Seminar Room 2-4,15:30-19:00,Faculty
+311,"4 February 2020, Tuesday",SIS Seminar Room 2-4,19:00-22:30,Student
+312,"4 February 2020, Tuesday",SIS Seminar Room 3-1,08:00-11:30,Faculty
+313,"4 February 2020, Tuesday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+314,"4 February 2020, Tuesday",SIS Seminar Room 3-1,15:30-19:00,Faculty
+315,"4 February 2020, Tuesday",SIS Seminar Room 3-1,19:00-22:30,SIS PG by Course Work
+316,"4 February 2020, Tuesday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+317,"4 February 2020, Tuesday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+318,"4 February 2020, Tuesday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+319,"4 February 2020, Tuesday",SIS Seminar Room 3-2,19:00-22:30,SIS PG by Course Work
+320,"4 February 2020, Tuesday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+321,"4 February 2020, Tuesday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+322,"4 February 2020, Tuesday",SIS Seminar Room 3-3,15:30-19:00,Faculty
+323,"4 February 2020, Tuesday",SIS Seminar Room 3-3,19:00-22:00,Student
+324,"4 February 2020, Tuesday",SIS Seminar Room 3-4,08:00-11:30,Faculty
+325,"4 February 2020, Tuesday",SIS Seminar Room 3-4,12:00-15:30,Faculty
+326,"4 February 2020, Tuesday",SIS Seminar Room 3-4,15:30-19:00,Faculty
+327,"4 February 2020, Tuesday",SIS Seminar Room 3-4,19:00-22:30,Student
+328,"3 February 2020, Monday",SIS Class Rm B1-1,08:00-11:30,Faculty
+329,"3 February 2020, Monday",SIS Class Rm B1-1,12:00-15:30,Faculty
+330,"3 February 2020, Monday",SIS Class Rm B1-1,15:30-18:45,Learning Space Technology Services
+331,"3 February 2020, Monday",SIS Class Rm B1-1,19:00-22:00,Student
+332,"3 February 2020, Monday",SIS GSR 2-1,10:00-12:00,Student
+333,"3 February 2020, Monday",SIS GSR 2-1,12:00-15:00,Student
+334,"3 February 2020, Monday",SIS GSR 2-1,15:00-19:00,Student
+335,"3 February 2020, Monday",SIS GSR 2-2,10:30-12:00,Student
+336,"3 February 2020, Monday",SIS GSR 2-2,12:00-15:00,Student
+337,"3 February 2020, Monday",SIS GSR 2-2,15:30-19:00,Student
+338,"3 February 2020, Monday",SIS GSR 2-3,11:30-15:30,Student
+339,"3 February 2020, Monday",SIS GSR 2-3,15:30-19:00,Student
+340,"3 February 2020, Monday",SIS GSR 2-4,09:30-11:30,Student
+341,"3 February 2020, Monday",SIS GSR 2-4,12:00-15:30,Student
+342,"3 February 2020, Monday",SIS GSR 2-4,15:30-18:30,Student
+343,"3 February 2020, Monday",SIS GSR 2-4,19:00-22:00,Student
+344,"3 February 2020, Monday",SIS GSR 2-5,11:00-14:00,Student
+345,"3 February 2020, Monday",SIS GSR 2-5,14:00-17:00,Student
+346,"3 February 2020, Monday",SIS GSR 2-5,17:00-20:00,Student
+347,"3 February 2020, Monday",SIS GSR 2-6,11:30-15:30,Student
+348,"3 February 2020, Monday",SIS GSR 2-6,15:30-19:30,Student
+349,"3 February 2020, Monday",SIS GSR 2-6,19:30-22:00,Student
+350,"3 February 2020, Monday",SIS GSR 2-7,09:00-12:00,Student
+351,"3 February 2020, Monday",SIS GSR 2-7,12:00-16:00,Student
+352,"3 February 2020, Monday",SIS GSR 2-7,16:00-19:30,Student
+353,"3 February 2020, Monday",SIS GSR 3-1,11:30-15:30,Student
+354,"3 February 2020, Monday",SIS GSR 3-1,16:00-20:00,Student
+355,"3 February 2020, Monday",SIS GSR 3-1,20:00-22:30,Student
+356,"3 February 2020, Monday",SIS GSR 3-2,10:00-12:00,Student
+357,"3 February 2020, Monday",SIS GSR 3-2,12:00-16:00,Student
+358,"3 February 2020, Monday",SIS GSR 3-2,16:30-18:00,Student
+359,"3 February 2020, Monday",SIS GSR 3-2,18:00-21:00,Student
+360,"3 February 2020, Monday",SIS GSR 3-3,09:00-11:00,Student
+361,"3 February 2020, Monday",SIS GSR 3-3,11:30-15:00,Student
+362,"3 February 2020, Monday",SIS GSR 3-3,15:00-19:00,Student
+363,"3 February 2020, Monday",SIS GSR 3-3,19:00-22:30,Student
+364,"3 February 2020, Monday",SIS GSR 3-4,12:00-16:00,Student
+365,"3 February 2020, Monday",SIS GSR 3-4,16:00-20:00,Student
+366,"3 February 2020, Monday",SIS GSR 3-5,09:30-12:00,Student
+367,"3 February 2020, Monday",SIS GSR 3-5,12:00-15:30,Student
+368,"3 February 2020, Monday",SIS GSR 3-5,15:30-19:00,Student
+369,"3 February 2020, Monday",SIS GSR 3-5,19:00-21:00,Student
+370,"3 February 2020, Monday",SIS GSR 3-6,08:30-12:30,Student
+371,"3 February 2020, Monday",SIS GSR 3-6,12:30-16:00,Student
+372,"3 February 2020, Monday",SIS GSR 3-6,16:00-18:00,Student
+373,"3 February 2020, Monday",SIS GSR 3-6,18:00-19:00,Student
+374,"3 February 2020, Monday",SIS GSR 3-6,19:00-22:30,Student
+375,"3 February 2020, Monday",SIS Seminar Rm B1-1,08:00-11:30,Learning Space Technology Services
+376,"3 February 2020, Monday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+377,"3 February 2020, Monday",SIS Seminar Rm B1-1,15:30-18:45,Learning Space Technology Services
+378,"3 February 2020, Monday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+379,"3 February 2020, Monday",SIS Seminar Room 2-1,08:00-11:30,Learning Space Technology Services
+380,"3 February 2020, Monday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+381,"3 February 2020, Monday",SIS Seminar Room 2-1,15:30-19:00,School of Information Systems
+382,"3 February 2020, Monday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+383,"3 February 2020, Monday",SIS Seminar Room 2-2,13:30-18:30,Conference
+384,"3 February 2020, Monday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+385,"3 February 2020, Monday",SIS Seminar Room 2-3,12:00-15:30,Faculty
+386,"3 February 2020, Monday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+387,"3 February 2020, Monday",SIS Seminar Room 2-3,19:00-22:30,Office of the Dean
+388,"3 February 2020, Monday",SIS Seminar Room 2-4,11:30-13:45,Student
+389,"3 February 2020, Monday",SIS Seminar Room 2-4,14:00-16:00,Student
+390,"3 February 2020, Monday",SIS Seminar Room 2-4,16:00-18:45,Student
+391,"3 February 2020, Monday",SIS Seminar Room 2-4,19:00-21:30,Student
+392,"3 February 2020, Monday",SIS Seminar Room 3-1,08:00-11:30,School of Information Systems
+393,"3 February 2020, Monday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+394,"3 February 2020, Monday",SIS Seminar Room 3-1,15:30-19:00,Faculty
+395,"3 February 2020, Monday",SIS Seminar Room 3-1,19:00-22:30,SIS PG by Course Work
+396,"3 February 2020, Monday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+397,"3 February 2020, Monday",SIS Seminar Room 3-2,12:00-15:00,Student
+398,"3 February 2020, Monday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+399,"3 February 2020, Monday",SIS Seminar Room 3-2,19:00-22:30,SIS PG by Course Work
+400,"3 February 2020, Monday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+401,"3 February 2020, Monday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+402,"3 February 2020, Monday",SIS Seminar Room 3-3,15:30-19:00,Faculty
+403,"3 February 2020, Monday",SIS Seminar Room 3-3,19:00-22:30,Student
+404,"3 February 2020, Monday",SIS Seminar Room 3-4,12:00-15:30,Timetabling & Course Enrolment
+405,"3 February 2020, Monday",SIS Seminar Room 3-4,15:30-18:45,Student
+406,"3 February 2020, Monday",SIS Seminar Room 3-4,19:00-22:30,Student
+407,"2 February 2020, Sunday",SIS Class Rm B1-1,10:30-14:30,Student
+408,"2 February 2020, Sunday",SIS Class Rm B1-1,14:30-17:00,Student
+409,"2 February 2020, Sunday",SIS GSR 2-1,12:30-16:30,Student
+410,"2 February 2020, Sunday",SIS GSR 2-2,09:30-13:30,Student
+411,"2 February 2020, Sunday",SIS GSR 2-4,13:00-17:00,Student
+412,"2 February 2020, Sunday",SIS GSR 2-5,14:30-17:00,Student
+413,"2 February 2020, Sunday",SIS GSR 2-6,11:00-15:00,Student
+414,"2 February 2020, Sunday",SIS GSR 2-7,11:00-15:00,Student
+415,"2 February 2020, Sunday",SIS GSR 3-1,12:00-16:00,Student
+416,"1 February 2020, Saturday",SIS Class Rm B1-1,08:00-11:30,Faculty
+417,"1 February 2020, Saturday",SIS Class Rm B1-1,12:00-15:30,Faculty
+418,"1 February 2020, Saturday",SIS GSR 2-1,11:30-15:30,Student
+419,"1 February 2020, Saturday",SIS GSR 2-1,15:30-17:00,Student
+420,"1 February 2020, Saturday",SIS GSR 2-2,13:00-17:00,Student
+421,"1 February 2020, Saturday",SIS GSR 2-3,12:00-15:30,Student
+422,"1 February 2020, Saturday",SIS GSR 2-4,10:00-12:00,Student
+423,"1 February 2020, Saturday",SIS GSR 2-4,12:00-15:00,Student
+424,"1 February 2020, Saturday",SIS GSR 2-4,15:30-17:00,Student
+425,"1 February 2020, Saturday",SIS GSR 2-5,13:00-17:00,Student
+426,"1 February 2020, Saturday",SIS GSR 2-6,09:30-11:30,Student
+427,"1 February 2020, Saturday",SIS GSR 2-6,11:30-15:30,Student
+428,"1 February 2020, Saturday",SIS GSR 2-6,15:30-17:00,Student
+429,"1 February 2020, Saturday",SIS GSR 2-7,12:00-16:00,Student
+430,"1 February 2020, Saturday",SIS GSR 3-1,09:30-12:30,Student
+431,"1 February 2020, Saturday",SIS GSR 3-1,12:30-13:30,Student
+432,"1 February 2020, Saturday",SIS GSR 3-1,14:30-15:00,Student
+433,"1 February 2020, Saturday",SIS GSR 3-1,15:00-17:00,Student
+434,"1 February 2020, Saturday",SIS GSR 3-2,11:00-14:00,Student
+435,"1 February 2020, Saturday",SIS GSR 3-2,14:30-17:00,Student
+436,"1 February 2020, Saturday",SIS GSR 3-3,09:00-12:00,Student
+437,"1 February 2020, Saturday",SIS GSR 3-3,13:00-17:00,Student
+438,"1 February 2020, Saturday",SIS GSR 3-4,08:30-12:00,Student
+439,"1 February 2020, Saturday",SIS GSR 3-4,15:00-17:00,Student
+440,"1 February 2020, Saturday",SIS GSR 3-5,12:00-15:30,Student
+441,"1 February 2020, Saturday",SIS GSR 3-5,15:30-17:00,Student
+442,"1 February 2020, Saturday",SIS GSR 3-6,13:30-15:30,Student
+443,"1 February 2020, Saturday",SIS Seminar Rm B1-1,08:00-11:30,Faculty
+444,"1 February 2020, Saturday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+445,"1 February 2020, Saturday",SIS Seminar Room 2-1,09:00-11:45,Student
+446,"1 February 2020, Saturday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+447,"1 February 2020, Saturday",SIS Seminar Room 2-1,15:30-19:00,School of Information Systems
+448,"1 February 2020, Saturday",SIS Seminar Room 2-2,09:00-18:00,SMU Academy
+449,"1 February 2020, Saturday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+450,"1 February 2020, Saturday",SIS Seminar Room 2-3,12:00-15:30,Faculty
+451,"1 February 2020, Saturday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+452,"1 February 2020, Saturday",SIS Seminar Room 2-4,09:00-12:30,SIS PG by Course Work
+453,"1 February 2020, Saturday",SIS Seminar Room 2-4,13:30-17:00,Faculty
+454,"1 February 2020, Saturday",SIS Seminar Room 3-1,08:00-11:30,School of Information Systems
+455,"1 February 2020, Saturday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+456,"1 February 2020, Saturday",SIS Seminar Room 3-1,15:30-19:00,Faculty
+457,"1 February 2020, Saturday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+458,"1 February 2020, Saturday",SIS Seminar Room 3-2,13:00-15:15,Student
+459,"1 February 2020, Saturday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+460,"1 February 2020, Saturday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+461,"1 February 2020, Saturday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+462,"1 February 2020, Saturday",SIS Seminar Room 3-3,15:30-19:00,Faculty
+463,"1 February 2020, Saturday",SIS Seminar Room 3-3,19:00-22:30,Student
+464,"1 February 2020, Saturday",SIS Seminar Room 3-4,10:00-11:45,Student
+465,"1 February 2020, Saturday",SIS Seminar Room 3-4,12:00-15:30,Timetabling & Course Enrolment
+466,"1 February 2020, Saturday",SIS Seminar Room 3-4,15:30-17:00,Student
+467,"31 January 2020, Friday",SIS Class Rm B1-1,08:00-13:45,Office of Safety & Security
+468,"31 January 2020, Friday",SIS Class Rm B1-1,14:00-19:30,Creative Experience and Partnerships Team
+469,"31 January 2020, Friday",SIS GSR 2-1,10:00-14:00,Student
+470,"31 January 2020, Friday",SIS GSR 2-1,14:00-17:00,SIS Instructors
+471,"31 January 2020, Friday",SIS GSR 2-2,11:00-14:00,Student
+472,"31 January 2020, Friday",SIS GSR 2-2,14:00-17:00,Student
+473,"31 January 2020, Friday",SIS GSR 2-2,17:00-20:00,Student
+474,"31 January 2020, Friday",SIS GSR 2-3,11:30-15:30,Student
+475,"31 January 2020, Friday",SIS GSR 2-3,15:30-17:30,Student
+476,"31 January 2020, Friday",SIS GSR 2-4,09:30-12:30,Student
+477,"31 January 2020, Friday",SIS GSR 2-4,12:30-14:00,Student
+478,"31 January 2020, Friday",SIS GSR 2-4,14:00-17:00,Student
+479,"31 January 2020, Friday",SIS GSR 2-5,09:30-12:00,Student
+480,"31 January 2020, Friday",SIS GSR 2-5,12:30-16:00,Student
+481,"31 January 2020, Friday",SIS GSR 2-5,16:30-18:30,Student
+482,"31 January 2020, Friday",SIS GSR 2-6,08:30-12:00,Student
+483,"31 January 2020, Friday",SIS GSR 2-6,12:00-15:30,Student
+484,"31 January 2020, Friday",SIS GSR 2-6,15:30-18:30,Student
+485,"31 January 2020, Friday",SIS GSR 2-7,12:00-16:00,Student
+486,"31 January 2020, Friday",SIS GSR 2-7,16:00-18:00,Student
+487,"31 January 2020, Friday",SIS GSR 2-7,18:00-21:00,Student
+488,"31 January 2020, Friday",SIS GSR 3-1,09:00-11:00,Student
+489,"31 January 2020, Friday",SIS GSR 3-1,12:00-16:00,Student
+490,"31 January 2020, Friday",SIS GSR 3-1,16:00-20:00,Student
+491,"31 January 2020, Friday",SIS GSR 3-2,12:00-16:00,Student
+492,"31 January 2020, Friday",SIS GSR 3-2,16:00-18:00,Student
+493,"31 January 2020, Friday",SIS GSR 3-2,18:30-20:30,Student
+494,"31 January 2020, Friday",SIS GSR 3-3,12:00-16:00,Student
+495,"31 January 2020, Friday",SIS GSR 3-3,16:00-20:00,Student
+496,"31 January 2020, Friday",SIS GSR 3-3,22:00-22:30,Student
+497,"31 January 2020, Friday",SIS GSR 3-4,12:00-16:00,Student
+498,"31 January 2020, Friday",SIS GSR 3-4,16:00-19:00,Student
+499,"31 January 2020, Friday",SIS GSR 3-5,11:00-15:00,Student
+500,"31 January 2020, Friday",SIS GSR 3-5,15:30-19:30,Student
+501,"31 January 2020, Friday",SIS GSR 3-5,19:30-22:30,Student
+502,"31 January 2020, Friday",SIS GSR 3-6,09:00-13:00,Student
+503,"31 January 2020, Friday",SIS GSR 3-6,13:00-17:00,Student
+504,"31 January 2020, Friday",SIS GSR 3-6,17:30-20:30,Student
+505,"31 January 2020, Friday",SIS Seminar Rm B1-1,08:00-11:30,Timetabling & Course Enrolment
+506,"31 January 2020, Friday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+507,"31 January 2020, Friday",SIS Seminar Rm B1-1,15:30-18:30,Faculty
+508,"31 January 2020, Friday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+509,"31 January 2020, Friday",SIS Seminar Room 2-1,08:00-11:30,Timetabling & Course Enrolment
+510,"31 January 2020, Friday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+511,"31 January 2020, Friday",SIS Seminar Room 2-1,15:30-18:45,Learning Space Technology Services
+512,"31 January 2020, Friday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+513,"31 January 2020, Friday",SIS Seminar Room 2-2,08:00-11:30,Faculty
+514,"31 January 2020, Friday",SIS Seminar Room 2-2,13:00-15:15,Student
+515,"31 January 2020, Friday",SIS Seminar Room 2-2,15:30-18:30,Student
+516,"31 January 2020, Friday",SIS Seminar Room 2-2,19:00-22:30,SMU Academy
+517,"31 January 2020, Friday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+518,"31 January 2020, Friday",SIS Seminar Room 2-3,12:00-15:30,Faculty
+519,"31 January 2020, Friday",SIS Seminar Room 2-3,15:30-19:30,Student
+520,"31 January 2020, Friday",SIS Seminar Room 2-3,19:30-22:30,Student
+521,"31 January 2020, Friday",SIS Seminar Room 2-4,08:00-11:30,Student
+522,"31 January 2020, Friday",SIS Seminar Room 2-4,12:00-15:30,Faculty
+523,"31 January 2020, Friday",SIS Seminar Room 2-4,15:30-18:30,Student
+524,"31 January 2020, Friday",SIS Seminar Room 3-1,08:00-11:30,Timetabling & Course Enrolment
+525,"31 January 2020, Friday",SIS Seminar Room 3-1,12:00-15:15,Student
+526,"31 January 2020, Friday",SIS Seminar Room 3-1,15:30-18:30,Student
+527,"31 January 2020, Friday",SIS Seminar Room 3-1,19:00-22:30,SIS PG by Course Work
+528,"31 January 2020, Friday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+529,"31 January 2020, Friday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+530,"31 January 2020, Friday",SIS Seminar Room 3-2,15:30-18:30,Student
+531,"31 January 2020, Friday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+532,"31 January 2020, Friday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+533,"31 January 2020, Friday",SIS Seminar Room 3-3,15:30-18:30,Student
+534,"31 January 2020, Friday",SIS Seminar Room 3-4,08:00-11:30,Timetabling & Course Enrolment
+535,"31 January 2020, Friday",SIS Seminar Room 3-4,15:30-19:30,Student
+536,"30 January 2020, Thursday",SIS Class Rm B1-1,00:00-10:30,Student
+537,"30 January 2020, Thursday",SIS Class Rm B1-1,11:00-18:45,Learning Space Technology Services
+538,"30 January 2020, Thursday",SIS Class Rm B1-1,19:00-22:00,Student
+539,"30 January 2020, Thursday",SIS GSR 2-1,09:30-13:30,Student
+540,"30 January 2020, Thursday",SIS GSR 2-1,14:00-16:00,Student
+541,"30 January 2020, Thursday",SIS GSR 2-1,16:00-20:00,Student
+542,"30 January 2020, Thursday",SIS GSR 2-2,11:00-14:00,Student
+543,"30 January 2020, Thursday",SIS GSR 2-2,14:00-17:00,Student
+544,"30 January 2020, Thursday",SIS GSR 2-2,17:00-20:00,Student
+545,"30 January 2020, Thursday",SIS GSR 2-3,09:00-11:30,Student
+546,"30 January 2020, Thursday",SIS GSR 2-3,11:30-15:30,Student
+547,"30 January 2020, Thursday",SIS GSR 2-3,15:30-17:30,Student
+548,"30 January 2020, Thursday",SIS GSR 2-3,19:00-22:30,Student
+549,"30 January 2020, Thursday",SIS GSR 2-4,11:30-15:30,Student
+550,"30 January 2020, Thursday",SIS GSR 2-4,15:30-19:30,Student
+551,"30 January 2020, Thursday",SIS GSR 2-5,10:00-12:00,Student
+552,"30 January 2020, Thursday",SIS GSR 2-5,12:00-15:30,Student
+553,"30 January 2020, Thursday",SIS GSR 2-5,15:30-19:00,Student
+554,"30 January 2020, Thursday",SIS GSR 2-5,19:00-22:00,Student
+555,"30 January 2020, Thursday",SIS GSR 2-6,11:30-15:30,Student
+556,"30 January 2020, Thursday",SIS GSR 2-6,15:30-19:00,Student
+557,"30 January 2020, Thursday",SIS GSR 2-6,19:00-22:30,Student
+558,"30 January 2020, Thursday",SIS GSR 2-7,10:00-12:00,Student
+559,"30 January 2020, Thursday",SIS GSR 2-7,12:00-15:30,Student
+560,"30 January 2020, Thursday",SIS GSR 2-7,15:30-19:30,Student
+561,"30 January 2020, Thursday",SIS GSR 3-1,09:00-12:00,Student
+562,"30 January 2020, Thursday",SIS GSR 3-1,12:00-16:00,Student
+563,"30 January 2020, Thursday",SIS GSR 3-1,16:00-20:00,Student
+564,"30 January 2020, Thursday",SIS GSR 3-2,08:30-12:00,Student
+565,"30 January 2020, Thursday",SIS GSR 3-2,12:30-16:30,Student
+566,"30 January 2020, Thursday",SIS GSR 3-2,16:30-19:00,Student
+567,"30 January 2020, Thursday",SIS GSR 3-3,09:00-11:30,Student
+568,"30 January 2020, Thursday",SIS GSR 3-3,12:00-16:00,Student
+569,"30 January 2020, Thursday",SIS GSR 3-3,16:00-19:00,Student
+570,"30 January 2020, Thursday",SIS GSR 3-3,19:00-22:00,Student
+571,"30 January 2020, Thursday",SIS GSR 3-4,09:30-12:00,Student
+572,"30 January 2020, Thursday",SIS GSR 3-4,12:00-15:00,Student
+573,"30 January 2020, Thursday",SIS GSR 3-4,15:30-19:00,Student
+574,"30 January 2020, Thursday",SIS GSR 3-4,19:00-22:30,Student
+575,"30 January 2020, Thursday",SIS GSR 3-5,10:00-13:00,Student
+576,"30 January 2020, Thursday",SIS GSR 3-5,13:00-15:30,Student
+577,"30 January 2020, Thursday",SIS GSR 3-5,15:30-19:00,Student
+578,"30 January 2020, Thursday",SIS GSR 3-5,20:00-21:30,Student
+579,"30 January 2020, Thursday",SIS GSR 3-6,11:30-15:30,Student
+580,"30 January 2020, Thursday",SIS GSR 3-6,15:30-19:00,Student
+581,"30 January 2020, Thursday",SIS GSR 3-6,19:00-22:00,Student
+582,"30 January 2020, Thursday",SIS Seminar Rm B1-1,08:00-11:30,Faculty
+583,"30 January 2020, Thursday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+584,"30 January 2020, Thursday",SIS Seminar Rm B1-1,15:30-19:00,Faculty
+585,"30 January 2020, Thursday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+586,"30 January 2020, Thursday",SIS Seminar Room 2-1,08:00-11:30,Faculty
+587,"30 January 2020, Thursday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+588,"30 January 2020, Thursday",SIS Seminar Room 2-1,15:30-19:00,Faculty
+589,"30 January 2020, Thursday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+590,"30 January 2020, Thursday",SIS Seminar Room 2-2,12:00-15:30,Faculty
+591,"30 January 2020, Thursday",SIS Seminar Room 2-2,15:30-19:00,Faculty
+592,"30 January 2020, Thursday",SIS Seminar Room 2-2,19:00-22:30,SMU Academy
+593,"30 January 2020, Thursday",SIS Seminar Room 2-3,08:00-11:30,Timetabling & Course Enrolment
+594,"30 January 2020, Thursday",SIS Seminar Room 2-3,12:00-15:30,SIS Instructors
+595,"30 January 2020, Thursday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+596,"30 January 2020, Thursday",SIS Seminar Room 2-3,19:00-22:30,Office of the Dean
+597,"30 January 2020, Thursday",SIS Seminar Room 2-4,08:00-11:30,Faculty
+598,"30 January 2020, Thursday",SIS Seminar Room 2-4,12:00-15:30,Faculty
+599,"30 January 2020, Thursday",SIS Seminar Room 2-4,15:30-19:00,Faculty
+600,"30 January 2020, Thursday",SIS Seminar Room 3-1,08:00-11:30,Faculty
+601,"30 January 2020, Thursday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+602,"30 January 2020, Thursday",SIS Seminar Room 3-1,15:30-19:00,Living Analytics Research Centre
+603,"30 January 2020, Thursday",SIS Seminar Room 3-1,19:00-22:00,Student
+604,"30 January 2020, Thursday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+605,"30 January 2020, Thursday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+606,"30 January 2020, Thursday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+607,"30 January 2020, Thursday",SIS Seminar Room 3-2,19:00-22:30,Student
+608,"30 January 2020, Thursday",SIS Seminar Room 3-3,08:00-11:30,School of Information Systems
+609,"30 January 2020, Thursday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+610,"30 January 2020, Thursday",SIS Seminar Room 3-3,15:30-19:00,Faculty
+611,"30 January 2020, Thursday",SIS Seminar Room 3-3,19:00-22:00,Student
+612,"30 January 2020, Thursday",SIS Seminar Room 3-4,08:00-11:30,Faculty
+613,"30 January 2020, Thursday",SIS Seminar Room 3-4,12:00-15:30,Timetabling & Course Enrolment
+614,"30 January 2020, Thursday",SIS Seminar Room 3-4,15:30-19:00,Faculty
+615,"30 January 2020, Thursday",SIS Seminar Room 3-4,19:00-22:30,Student
+616,"29 January 2020, Wednesday",SIS Class Rm B1-1,08:00-14:00,Office of Safety & Security
+617,"29 January 2020, Wednesday",SIS Class Rm B1-1,14:00-16:00,Student
+618,"29 January 2020, Wednesday",SIS Class Rm B1-1,17:00-19:30,Student Leadership
+619,"29 January 2020, Wednesday",SIS Class Rm B1-1,19:30-21:30,Student Leadership
+620,"29 January 2020, Wednesday",SIS Class Rm B1-1,21:30-00:00,Student
+621,"29 January 2020, Wednesday",SIS Class Rm B1-1,09:00-12:00,Student
+622,"29 January 2020, Wednesday",SIS Class Rm B1-1,12:30-16:30,Student
+623,"29 January 2020, Wednesday",SIS Class Rm B1-1,17:00-20:00,Student
+624,"29 January 2020, Wednesday",SIS GSR 2-1,11:30-15:30,Student
+625,"29 January 2020, Wednesday",SIS GSR 2-1,15:30-18:30,Student
+626,"29 January 2020, Wednesday",SIS GSR 2-1,18:30-21:00,Student
+627,"29 January 2020, Wednesday",SIS GSR 2-2,09:00-12:00,Student
+628,"29 January 2020, Wednesday",SIS GSR 2-2,12:00-16:00,Student
+629,"29 January 2020, Wednesday",SIS GSR 2-2,16:00-20:00,Student
+630,"29 January 2020, Wednesday",SIS GSR 2-3,09:00-12:00,Student
+631,"29 January 2020, Wednesday",SIS GSR 2-3,12:00-15:00,Student
+632,"29 January 2020, Wednesday",SIS GSR 2-3,15:00-19:00,Student
+633,"29 January 2020, Wednesday",SIS GSR 2-4,10:00-12:00,Student
+634,"29 January 2020, Wednesday",SIS GSR 2-4,12:00-16:00,Student
+635,"29 January 2020, Wednesday",SIS GSR 2-4,16:00-19:00,Student
+636,"29 January 2020, Wednesday",SIS GSR 2-5,11:30-15:00,Student
+637,"29 January 2020, Wednesday",SIS GSR 2-5,15:00-19:00,Student
+638,"29 January 2020, Wednesday",SIS GSR 2-6,09:00-12:30,Student
+639,"29 January 2020, Wednesday",SIS GSR 2-6,12:30-15:30,Student
+640,"29 January 2020, Wednesday",SIS GSR 2-6,15:30-19:00,Student
+641,"29 January 2020, Wednesday",SIS GSR 2-7,10:00-12:00,Student
+642,"29 January 2020, Wednesday",SIS GSR 2-7,12:00-15:00,Student
+643,"29 January 2020, Wednesday",SIS GSR 2-7,15:30-19:30,Student
+644,"29 January 2020, Wednesday",SIS GSR 3-1,10:00-12:00,Student
+645,"29 January 2020, Wednesday",SIS GSR 3-1,12:30-15:30,Student
+646,"29 January 2020, Wednesday",SIS GSR 3-1,15:30-19:30,Student
+647,"29 January 2020, Wednesday",SIS GSR 3-2,11:30-15:30,Student
+648,"29 January 2020, Wednesday",SIS GSR 3-2,15:30-19:30,Student
+649,"29 January 2020, Wednesday",SIS GSR 3-2,19:30-21:30,Student
+650,"29 January 2020, Wednesday",SIS GSR 3-3,12:00-16:00,Student
+651,"29 January 2020, Wednesday",SIS GSR 3-3,16:00-17:00,Student
+652,"29 January 2020, Wednesday",SIS GSR 3-3,17:00-19:00,Student
+653,"29 January 2020, Wednesday",SIS GSR 3-4,12:00-16:00,Student
+654,"29 January 2020, Wednesday",SIS GSR 3-4,16:00-20:00,Student
+655,"29 January 2020, Wednesday",SIS GSR 3-4,20:00-22:00,Student
+656,"29 January 2020, Wednesday",SIS GSR 3-5,12:00-16:00,Student
+657,"29 January 2020, Wednesday",SIS GSR 3-5,16:00-18:00,Student
+658,"29 January 2020, Wednesday",SIS GSR 3-5,19:00-22:30,Student
+659,"29 January 2020, Wednesday",SIS GSR 3-6,08:00-11:30,Faculty
+660,"29 January 2020, Wednesday",SIS GSR 3-6,12:00-15:30,Faculty
+661,"29 January 2020, Wednesday",SIS GSR 3-6,15:30-19:00,Timetabling & Course Enrolment
+662,"29 January 2020, Wednesday",SIS GSR 3-6,19:30-21:30,Faculty
+663,"29 January 2020, Wednesday",SIS Seminar Rm B1-1,08:00-11:30,Faculty
+664,"29 January 2020, Wednesday",SIS Seminar Rm B1-1,12:00-15:30,School of Information Systems
+665,"29 January 2020, Wednesday",SIS Seminar Rm B1-1,15:30-19:00,Faculty
+666,"29 January 2020, Wednesday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+667,"29 January 2020, Wednesday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+668,"29 January 2020, Wednesday",SIS Seminar Room 2-1,15:30-19:00,Faculty
+669,"29 January 2020, Wednesday",SIS Seminar Room 2-1,19:00-22:30,Student
+670,"29 January 2020, Wednesday",SIS Seminar Room 2-2,08:00-11:30,Faculty
+671,"29 January 2020, Wednesday",SIS Seminar Room 2-2,12:00-15:30,Faculty
+672,"29 January 2020, Wednesday",SIS Seminar Room 2-2,15:30-19:00,Faculty
+673,"29 January 2020, Wednesday",SIS Seminar Room 2-2,19:00-22:30,Office of the Dean
+674,"29 January 2020, Wednesday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+675,"29 January 2020, Wednesday",SIS Seminar Room 2-3,12:00-15:30,Timetabling & Course Enrolment
+676,"29 January 2020, Wednesday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+677,"29 January 2020, Wednesday",SIS Seminar Room 2-3,19:00-22:00,Student
+678,"29 January 2020, Wednesday",SIS Seminar Room 2-4,12:00-15:30,Faculty
+679,"29 January 2020, Wednesday",SIS Seminar Room 2-4,15:30-19:00,Faculty
+680,"29 January 2020, Wednesday",SIS Seminar Room 2-4,19:00-21:00,Student
+681,"29 January 2020, Wednesday",SIS Seminar Room 3-1,08:00-11:30,Faculty
+682,"29 January 2020, Wednesday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+683,"29 January 2020, Wednesday",SIS Seminar Room 3-1,15:30-19:00,Faculty
+684,"29 January 2020, Wednesday",SIS Seminar Room 3-1,19:00-22:30,SIS PG by Course Work
+685,"29 January 2020, Wednesday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+686,"29 January 2020, Wednesday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+687,"29 January 2020, Wednesday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+688,"29 January 2020, Wednesday",SIS Seminar Room 3-2,19:00-22:30,Student
+689,"29 January 2020, Wednesday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+690,"29 January 2020, Wednesday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+691,"29 January 2020, Wednesday",SIS Seminar Room 3-3,15:30-19:00,Timetabling & Course Enrolment
+692,"29 January 2020, Wednesday",SIS Seminar Room 3-3,19:00-22:30,Faculty
+693,"28 January 2020, Tuesday",SIS Class Rm B1-1,12:00-15:30,Faculty
+694,"28 January 2020, Tuesday",SIS Class Rm B1-1,15:30-19:00,Faculty
+695,"28 January 2020, Tuesday",SIS Class Rm B1-1,19:00-22:30,Student
+696,"28 January 2020, Tuesday",SIS GSR 2-1,10:00-12:00,Student
+697,"28 January 2020, Tuesday",SIS GSR 2-1,12:00-16:00,Student
+698,"28 January 2020, Tuesday",SIS GSR 2-1,16:30-18:30,Student
+699,"28 January 2020, Tuesday",SIS GSR 2-1,19:00-22:00,Student
+700,"28 January 2020, Tuesday",SIS GSR 2-2,11:00-14:00,Student
+701,"28 January 2020, Tuesday",SIS GSR 2-2,14:00-17:00,Student
+702,"28 January 2020, Tuesday",SIS GSR 2-2,17:00-20:00,Student
+703,"28 January 2020, Tuesday",SIS GSR 2-3,09:00-12:00,Student
+704,"28 January 2020, Tuesday",SIS GSR 2-3,12:00-15:00,Student
+705,"28 January 2020, Tuesday",SIS GSR 2-3,15:00-19:00,Student
+706,"28 January 2020, Tuesday",SIS GSR 2-4,11:30-15:30,Student
+707,"28 January 2020, Tuesday",SIS GSR 2-4,16:00-20:00,Student
+708,"28 January 2020, Tuesday",SIS GSR 2-5,12:00-15:30,Student
+709,"28 January 2020, Tuesday",SIS GSR 2-5,15:30-18:00,Student
+710,"28 January 2020, Tuesday",SIS GSR 2-5,18:00-22:00,Student
+711,"28 January 2020, Tuesday",SIS GSR 2-6,11:30-15:30,Student
+712,"28 January 2020, Tuesday",SIS GSR 2-6,15:30-18:30,Student
+713,"28 January 2020, Tuesday",SIS GSR 2-6,19:30-22:30,Student
+714,"28 January 2020, Tuesday",SIS GSR 2-7,12:00-16:00,Student
+715,"28 January 2020, Tuesday",SIS GSR 2-7,16:00-20:00,Student
+716,"28 January 2020, Tuesday",SIS GSR 3-1,11:00-12:00,Student
+717,"28 January 2020, Tuesday",SIS GSR 3-1,12:00-16:00,Student
+718,"28 January 2020, Tuesday",SIS GSR 3-1,16:00-20:00,Student
+719,"28 January 2020, Tuesday",SIS GSR 3-2,09:30-12:00,Student
+720,"28 January 2020, Tuesday",SIS GSR 3-2,12:00-15:00,Student
+721,"28 January 2020, Tuesday",SIS GSR 3-2,15:00-16:00,Student
+722,"28 January 2020, Tuesday",SIS GSR 3-2,16:00-20:00,Student
+723,"28 January 2020, Tuesday",SIS GSR 3-3,12:00-16:00,Student
+724,"28 January 2020, Tuesday",SIS GSR 3-3,16:00-20:00,Student
+725,"28 January 2020, Tuesday",SIS GSR 3-4,11:00-12:00,Student
+726,"28 January 2020, Tuesday",SIS GSR 3-4,12:00-15:30,Student
+727,"28 January 2020, Tuesday",SIS GSR 3-4,16:00-20:00,Student
+728,"28 January 2020, Tuesday",SIS GSR 3-4,20:30-22:30,Student
+729,"28 January 2020, Tuesday",SIS GSR 3-5,11:30-15:30,Student
+730,"28 January 2020, Tuesday",SIS GSR 3-5,15:30-18:30,Student
+731,"28 January 2020, Tuesday",SIS GSR 3-5,18:30-22:30,Student
+732,"28 January 2020, Tuesday",SIS GSR 3-6,11:30-15:30,Student
+733,"28 January 2020, Tuesday",SIS GSR 3-6,15:30-19:00,Student
+734,"28 January 2020, Tuesday",SIS GSR 3-6,19:00-22:00,Student
+735,"28 January 2020, Tuesday",SIS Seminar Rm B1-1,12:00-15:30,Faculty
+736,"28 January 2020, Tuesday",SIS Seminar Rm B1-1,15:30-19:00,Student
+737,"28 January 2020, Tuesday",SIS Seminar Rm B1-1,19:00-22:30,SIS PG by Course Work
+738,"28 January 2020, Tuesday",SIS Seminar Room 2-1,08:00-11:30,Faculty
+739,"28 January 2020, Tuesday",SIS Seminar Room 2-1,12:00-15:30,Faculty
+740,"28 January 2020, Tuesday",SIS Seminar Room 2-1,15:30-19:00,Faculty
+741,"28 January 2020, Tuesday",SIS Seminar Room 2-1,19:00-22:30,SIS PG by Course Work
+742,"28 January 2020, Tuesday",SIS Seminar Room 2-2,10:00-11:45,International Student Exchange Programme (Inbound/Outbound) and Short term Study Programme
+743,"28 January 2020, Tuesday",SIS Seminar Room 2-2,12:00-15:30,Faculty
+744,"28 January 2020, Tuesday",SIS Seminar Room 2-2,15:30-19:00,Faculty
+745,"28 January 2020, Tuesday",SIS Seminar Room 2-2,19:00-22:30,Student
+746,"28 January 2020, Tuesday",SIS Seminar Room 2-3,08:00-11:30,Faculty
+747,"28 January 2020, Tuesday",SIS Seminar Room 2-3,12:00-15:30,Faculty
+748,"28 January 2020, Tuesday",SIS Seminar Room 2-3,15:30-19:00,Faculty
+749,"28 January 2020, Tuesday",SIS Seminar Room 2-3,19:00-22:30,Office of the Dean
+750,"28 January 2020, Tuesday",SIS Seminar Room 2-4,12:00-15:30,Timetabling & Course Enrolment
+751,"28 January 2020, Tuesday",SIS Seminar Room 2-4,15:30-19:00,Faculty
+752,"28 January 2020, Tuesday",SIS Seminar Room 3-1,08:00-11:30,Faculty
+753,"28 January 2020, Tuesday",SIS Seminar Room 3-1,12:00-15:30,Faculty
+754,"28 January 2020, Tuesday",SIS Seminar Room 3-1,15:30-19:00,Faculty
+755,"28 January 2020, Tuesday",SIS Seminar Room 3-1,19:00-22:30,SIS PG by Course Work
+756,"28 January 2020, Tuesday",SIS Seminar Room 3-2,08:00-11:30,Faculty
+757,"28 January 2020, Tuesday",SIS Seminar Room 3-2,12:00-15:30,Faculty
+758,"28 January 2020, Tuesday",SIS Seminar Room 3-2,15:30-19:00,Faculty
+759,"28 January 2020, Tuesday",SIS Seminar Room 3-2,19:00-22:30,SIS PG by Course Work
+760,"28 January 2020, Tuesday",SIS Seminar Room 3-3,08:00-11:30,Faculty
+761,"28 January 2020, Tuesday",SIS Seminar Room 3-3,12:00-15:30,Faculty
+762,"28 January 2020, Tuesday",SIS Seminar Room 3-3,15:30-19:00,Faculty
+763,"28 January 2020, Tuesday",SIS Seminar Room 3-3,19:00-22:30,Student
+764,"28 January 2020, Tuesday",SIS Seminar Room 3-4,08:00-11:30,Faculty
+765,"28 January 2020, Tuesday",SIS Seminar Room 3-4,12:00-15:30,Faculty
+766,"28 January 2020, Tuesday",SIS Seminar Room 3-4,15:30-19:00,Faculty
+767,"28 January 2020, Tuesday",SIS Seminar Room 3-4,19:00-22:30,Student
+768,"27 January 2020, Monday",SIS Class Rm B1-1,08:00-11:30,Faculty
+769,"27 January 2020, Monday",SIS Class Rm B1-1,12:00-15:30,Faculty
+770,"27 January 2020, Monday",SIS Class Rm B1-1,11:30-15:00,Student
+771,"27 January 2020, Monday",SIS GSR 2-1,10:00-13:00,Student
+772,"27 January 2020, Monday",SIS GSR 2-1,13:00-16:00,Student
+773,"27 January 2020, Monday",SIS GSR 2-2,09:30-13:30,Student
+774,"27 January 2020, Monday",SIS GSR 2-3,10:00-14:00,Student
+775,"27 January 2020, Monday",SIS GSR 2-3,14:00-17:00,Student
+776,"27 January 2020, Monday",SIS GSR 2-4,12:00-15:00,Student
+777,"27 January 2020, Monday",SIS GSR 2-6,13:00-17:00,Student
+778,"27 January 2020, Monday",SIS GSR 2-7,10:00-13:00,Student
+779,"27 January 2020, Monday",SIS GSR 2-7,13:00-17:00,Student
+780,"27 January 2020, Monday",SIS GSR 3-2,13:00-17:00,Student
+781,"27 January 2020, Monday",SIS GSR 3-4,10:00-13:30,Student
+782,"27 January 2020, Monday",SIS GSR 3-4,14:00-17:00,Student
+783,"27 January 2020, Monday",SIS GSR 3-5,09:00-12:00,Student
+784,"27 January 2020, Monday",SIS GSR 3-5,12:00-15:30,Student
+785,"27 January 2020, Monday",SIS GSR 3-6,12:00-15:30,Faculty
+786,"27 January 2020, Monday",SIS GSR 3-6,12:00-15:30,Faculty
+787,"27 January 2020, Monday",SIS GSR 3-6,15:30-19:00,School of Information Systems
+788,"27 January 2020, Monday",SIS GSR 3-6,08:00-11:30,Faculty
+789,"27 January 2020, Monday",SIS GSR 3-6,12:00-15:30,Faculty
+790,"27 January 2020, Monday",SIS GSR 3-6,15:30-19:00,Faculty
+791,"27 January 2020, Monday",SIS GSR 3-6,19:00-22:30,Office of the Dean
+792,"27 January 2020, Monday",SIS GSR 3-6,08:00-11:30,School of Information Systems
+793,"27 January 2020, Monday",SIS GSR 3-6,12:00-15:30,Faculty
+794,"27 January 2020, Monday",SIS GSR 3-6,15:30-19:00,Faculty
+795,"27 January 2020, Monday",SIS GSR 3-6,08:00-11:30,Faculty
+796,"27 January 2020, Monday",SIS GSR 3-6,15:30-19:00,Faculty
+797,"27 January 2020, Monday",SIS GSR 3-6,08:00-11:30,Faculty
+798,"27 January 2020, Monday",SIS GSR 3-6,12:00-15:30,Faculty
+799,"27 January 2020, Monday",SIS GSR 3-6,15:30-19:00,Faculty
+800,"27 January 2020, Monday",SIS GSR 3-6,19:00-22:30,Student
+801,"27 January 2020, Monday",SIS GSR 3-6,12:00-15:30,Timetabling & Course Enrolment
+802,"27 January 2020, Monday",SIS GSR 3-6,19:00-22:30,Student
+803,"26 January 2020, Sunday",SIS GSR 3-5,14:30-17:00,Student
+804,"25 January 2020, Saturday",SIS GSR 3-6,13:30-17:00,Faculty
+805,"25 January 2020, Saturday",SIS GSR 3-6,13:30-17:00,Faculty
