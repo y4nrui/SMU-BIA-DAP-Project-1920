@@ -1,0 +1,716 @@
+,Day,Facility,Booking Time,Booking Status,Booking Reference Number,Booked for User Name,Booked for User Org Unit,Booked for User Email Address,Use Type,Purpose of Booking
+0,"25 February 2020, Tuesday",SOL-2.07-GS,11:00-15:00,Confirmed,BK-20200211-000299,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+1,"25 February 2020, Tuesday",SOL-2.07-GS,15:30-19:30,Confirmed,BK-20200212-000591,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+2,"25 February 2020, Tuesday",SOL-2.08-GS,09:30-13:00,Confirmed,BK-20200223-000102,LEE ZHAN RUI XAVIER,Student,xavier.lee.2019@business.smu.edu.sg,AdHoc,Project
+3,"25 February 2020, Tuesday",SOL-2.08-GS,13:00-15:00,Confirmed,BK-20200220-001079,LOW YEE KOONG,Student,yklow.2017@economics.smu.edu.sg,Academic,meeting
+4,"25 February 2020, Tuesday",SOL-2.08-GS,15:00-19:00,Confirmed,BK-20200219-000675,"WU SHICHEN, HENRY",Student,henry.wu.2018@economics.smu.edu.sg,AdHoc,law
+5,"25 February 2020, Tuesday",SOL-2.08-GS,19:00-22:30,Confirmed,BK-20200225-000941,YINGJIE TANG,Student,yj.tang.2019@maf.smu.edu.sg,AdHoc,/
+6,"25 February 2020, Tuesday",SOL-2.12-GS,10:00-13:00,Confirmed,BK-20200221-000988,RYAN TEH GIN,Student,ryanteh.2017@business.smu.edu.sg,AdHoc,study
+7,"25 February 2020, Tuesday",SOL-2.12-GS,13:00-16:00,Confirmed,BK-20200219-000536,SU ZHIREN,Student,zhiren.su.2017@law.smu.edu.sg,AdHoc,fsr meeting
+8,"25 February 2020, Tuesday",SOL-2.12-GS,16:00-20:00,Confirmed,BK-20200220-001387,"SIAU LI TING, ANNA",Student,anna.siau.2017@law.smu.edu.sg,AdHoc,meeting
+9,"25 February 2020, Tuesday",SOL-2.13-GS,11:00-15:00,Confirmed,BK-20200211-000683,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+10,"25 February 2020, Tuesday",SOL-2.13-GS,15:00-18:30,Confirmed,BK-20200213-000047,LAM PIK KEE BIANCA,Student,bianca.lam.2019@accountancy.smu.edu.sg,AdHoc,Study/Meeting
+11,"25 February 2020, Tuesday",SOL-2.13-GS,18:30-22:30,Confirmed,BK-20200224-000996,TAN KOK WAH JOHNATHAN,Student,kwtan.2017@sis.smu.edu.sg,AdHoc,stdy
+12,"25 February 2020, Tuesday",SOL-2.14-GS,10:00-13:30,Confirmed,BK-20200220-000860,JOELYN CHUA PEI XUAN,Student,joelyn.chua.2017@accountancy.smu.edu.sg,AdHoc,meeting
+13,"25 February 2020, Tuesday",SOL-2.14-GS,13:30-17:30,Confirmed,BK-20200211-000045,KOH YI WEN,Student,yiwen.koh.2018@jd.smu.edu.sg,AdHoc,Research
+14,"25 February 2020, Tuesday",SOL-2.14-GS,19:00-22:00,Confirmed,BK-20200222-000320,GU YAO,Student,yao.gu.2016@economics.smu.edu.sg,Academic,meeting
+15,"25 February 2020, Tuesday",SOL-3.03-GS,08:30-19:00,Confirmed,BK-20200210-000883,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+16,"25 February 2020, Tuesday",SOL-3.04-GS,08:30-19:00,Confirmed,BK-20200210-000885,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+17,"25 February 2020, Tuesday",SOL-3.05-GS,08:30-19:00,Confirmed,BK-20200210-000889,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+18,"25 February 2020, Tuesday",SOL-3.06-GS,08:30-19:00,Confirmed,BK-20200210-000893,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+19,"25 February 2020, Tuesday",SOL-3.06-GS,19:00-20:30,Confirmed,BK-20200225-001034,YONG HWEE SHI,Student,hsyong.2019@economics.smu.edu.sg,AdHoc,Study
+20,"25 February 2020, Tuesday",SOL-3.06-GS,20:30-22:30,Confirmed,BK-20200225-001054,"GAN JUN WEI, DARYL",Student,daryl.gan.2017@business.smu.edu.sg,AdHoc,study
+21,"25 February 2020, Tuesday",SOL-3.07-GS,08:30-19:00,Confirmed,BK-20200210-000896,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+22,"25 February 2020, Tuesday",SOL-3.08-GS,08:30-19:00,Confirmed,BK-20200210-000901,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+23,"25 February 2020, Tuesday",SOL-B1.02-GS,10:00-14:00,Confirmed,BK-20200219-001202,LEE JING VILENE,Student,vilene.lee.2019@business.smu.edu.sg,Academic,study
+24,"25 February 2020, Tuesday",SOL-B1.02-GS,14:00-18:00,Confirmed,BK-20200211-000021,VICTOR TANG,Student,victor.tang.2017@law.smu.edu.sg,AdHoc,study
+25,"25 February 2020, Tuesday",SOL-B1.02-GS,18:00-22:00,Confirmed,BK-20200222-000341,PHANG JYE,Student,jye.phang.2019@business.smu.edu.sg,AdHoc,study
+26,"25 February 2020, Tuesday",SOL-B1.03-GS,09:00-13:00,Confirmed,BK-20200221-001073,"LAM WEI TING, NICOLE",Student,nicole.lam.2018@business.smu.edu.sg,AdHoc,idk
+27,"25 February 2020, Tuesday",SOL-B1.03-GS,13:00-16:00,Confirmed,BK-20200212-001250,"CHIA SHUE QI, AMANDA",Student,amanda.chia.2018@law.smu.edu.sg,Academic,acad
+28,"25 February 2020, Tuesday",SOL-B1.03-GS,16:00-18:30,Confirmed,BK-20200224-000667,LEE BING HAN SHAWN,Student,bhlee.2018@business.smu.edu.sg,AdHoc,Meeting
+29,"25 February 2020, Tuesday",SOL-B1.03-GS,18:30-21:30,Confirmed,BK-20200222-000097,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Study
+30,"25 February 2020, Tuesday",SOL-B1.04-GS,11:00-15:00,Confirmed,BK-20200211-000012,WONG QUAN YONG,Student,qywong.2018@socsc.smu.edu.sg,AdHoc,Study
+31,"25 February 2020, Tuesday",SOL-B1.04-GS,15:00-19:00,Confirmed,BK-20200211-000025,CHEN XUXIANG,Student,xuxiangchen.2019@business.smu.edu.sg,AdHoc,Study
+32,"25 February 2020, Tuesday",SOL-B1.05-GS,09:00-12:00,Confirmed,BK-20200222-000225,SHAWN ANG DE XIAN,Student,shawn.ang.2017@law.smu.edu.sg,AdHoc,LAWASIA Meeting
+33,"25 February 2020, Tuesday",SOL-B1.05-GS,12:00-16:00,Confirmed,BK-20200211-000964,MONICA GOEY,Student,monica.goey.2017@socsc.smu.edu.sg,AdHoc,meet
+34,"25 February 2020, Tuesday",SOL-B1.05-GS,17:00-21:00,Confirmed,BK-20200211-001034,JOEL LIM WEE KIAT,Student,joel.lim.2017@sis.smu.edu.sg,AdHoc,Study
+35,"25 February 2020, Tuesday",SOL-B1.06-GS,10:30-14:30,Confirmed,BK-20200211-000192,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+36,"25 February 2020, Tuesday",SOL-B1.06-GS,15:00-19:00,Confirmed,BK-20200211-000194,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+37,"25 February 2020, Tuesday",SOL-B1.07-GS,11:00-15:00,Confirmed,BK-20200211-000696,"TAN HWA QI, VICTORIA",Student,victoriatan.2018@economics.smu.edu.sg,AdHoc,meeting
+38,"25 February 2020, Tuesday",SOL-B1.07-GS,15:30-19:30,Confirmed,BK-20200211-000902,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Meeting
+39,"25 February 2020, Tuesday",SOL-B1.08-GS,11:30-15:30,Confirmed,BK-20200211-000727,ANG PING CHYI,Student,pcang.2018@accountancy.smu.edu.sg,AdHoc,study
+40,"25 February 2020, Tuesday",SOL-B1.08-GS,16:00-20:00,Confirmed,BK-20200211-000731,MARCUS CHIANG TING ERN,Student,techiang.2017@business.smu.edu.sg,AdHoc,work
+41,"25 February 2020, Tuesday",SOL-B1.10-GS,08:30-12:30,Confirmed,BK-20200222-000508,JOSHUA WONG YEUNG NGUON,Student,joshua.wong.2019@sis.smu.edu.sg,AdHoc,study
+42,"25 February 2020, Tuesday",SOL-B1.10-GS,12:30-16:30,Confirmed,BK-20200214-000599,JUSTIN CHEN ZHI YANG,Student,justinchen.2018@business.smu.edu.sg,AdHoc,study
+43,"25 February 2020, Tuesday",SOL-B1.10-GS,16:30-20:30,Confirmed,BK-20200224-000247,HAMIZAN ALI BIN AZMEE,Student,hamizanalia.2017@sis.smu.edu.sg,AdHoc,Setup for Internet of Television
+44,"25 February 2020, Tuesday",SOL-B1.11-GS,11:00-14:00,Confirmed,BK-20200221-000598,KOH KAI SHENG,Student,kskoh.2018@business.smu.edu.sg,AdHoc,study
+45,"25 February 2020, Tuesday",SOL-B1.11-GS,14:00-18:00,Confirmed,BK-20200221-001067,SEAH JIA MIN,Student,jiamin.seah.2018@economics.smu.edu.sg,AdHoc,Meeting
+46,"25 February 2020, Tuesday",SOL-B1.11-GS,18:00-20:00,Confirmed,BK-20200222-000346,CLARISSE LAI JING XUAN,Student,clarisselai.2018@accountancy.smu.edu.sg,AdHoc,meeting
+47,"25 February 2020, Tuesday",SOL-B1.11-GS,20:00-22:00,Confirmed,BK-20200217-001203,KANG YI QI,Student,yiqi.kang.2017@sis.smu.edu.sg,AdHoc,meeting
+48,"25 February 2020, Tuesday",SOL-B1.12-GS,11:30-15:30,Confirmed,BK-20200206-001104,Kayaking Team,Student,kayaking@sa.smu.edu.sg,Co-Curricular,Meeting
+49,"25 February 2020, Tuesday",SOL-B1.12-GS,16:00-20:00,Confirmed,BK-20200220-001007,DARRYL CHUA WEN XUAN,Student,darryl.chua.2019@economics.smu.edu.sg,AdHoc,Study
+50,"24 February 2020, Monday",SOL-2.07-GS,11:30-15:30,Confirmed,BK-20200210-000266,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+51,"24 February 2020, Monday",SOL-2.07-GS,16:00-20:00,Confirmed,BK-20200210-000345,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+52,"24 February 2020, Monday",SOL-2.08-GS,11:00-15:00,Confirmed,BK-20200219-000863,TAN JUN HUI,Student,junhui.tan.2017@sis.smu.edu.sg,AdHoc,Study
+53,"24 February 2020, Monday",SOL-2.08-GS,15:30-19:00,Confirmed,BK-20200219-000920,"LIN, MEILING",Student,meiling.lin.2017@sis.smu.edu.sg,AdHoc,study
+54,"24 February 2020, Monday",SOL-2.12-GS,12:30-15:30,Confirmed,BK-20200219-001157,KONG KEI @OKABE KEI,Student,kei.kong.2019@accountancy.smu.edu.sg,AdHoc,meeting
+55,"24 February 2020, Monday",SOL-2.12-GS,15:30-19:30,Confirmed,BK-20200220-000656,NATALIE SHAUNA TAN,Student,natalietan.2019@business.smu.edu.sg,AdHoc,Meeting
+56,"24 February 2020, Monday",SOL-2.12-GS,19:30-22:00,Confirmed,BK-20200220-000657,SHIRLYNN TAN XUE YING,Student,shirlynntan.2019@business.smu.edu.sg,AdHoc,meeting
+57,"24 February 2020, Monday",SOL-2.13-GS,10:00-12:00,Confirmed,BK-20200217-001349,LOW YAN LIN,Student,yanlin.low.2016@law.smu.edu.sg,Academic,Advocacy practice
+58,"24 February 2020, Monday",SOL-2.13-GS,13:00-17:00,Confirmed,BK-20200219-000677,NADINE VICTORIA NEO SU HUI,Student,nadine.neo.2016@law.smu.edu.sg,AdHoc,meeting
+59,"24 February 2020, Monday",SOL-2.13-GS,17:00-19:00,Confirmed,BK-20200219-000684,ONG JIA XIN ABIGAIL,Student,abigail.ong.2016@law.smu.edu.sg,AdHoc,-
+60,"24 February 2020, Monday",SOL-2.14-GS,10:00-12:00,Confirmed,BK-20200221-000935,TEY HAOYUE,Student,haoyue.tey.2019@sis.smu.edu.sg,AdHoc,oof
+61,"24 February 2020, Monday",SOL-2.14-GS,12:00-16:00,Confirmed,BK-20200210-000080,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+62,"24 February 2020, Monday",SOL-2.14-GS,16:00-19:00,Confirmed,BK-20200222-000312,NUR RAIDAH BINTE MOHAMED NOOR,Student,nurraidahnm.2017@socsc.smu.edu.sg,AdHoc,stff
+63,"24 February 2020, Monday",SOL-3.03-GS,09:00-20:00,Confirmed,BK-20200210-000862,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+64,"24 February 2020, Monday",SOL-3.04-GS,09:00-20:00,Confirmed,BK-20200210-000863,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+65,"24 February 2020, Monday",SOL-3.05-GS,09:00-20:00,Confirmed,BK-20200210-000864,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+66,"24 February 2020, Monday",SOL-3.06-GS,09:00-20:00,Confirmed,BK-20200210-000865,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+67,"24 February 2020, Monday",SOL-3.07-GS,09:00-20:00,Confirmed,BK-20200210-000866,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+68,"24 February 2020, Monday",SOL-3.08-GS,09:00-20:00,Confirmed,BK-20200210-000867,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,EMBA
+69,"24 February 2020, Monday",SOL-B1.02-GS,09:30-12:30,Confirmed,BK-20200219-001105,VALERIE NG,Student,valerieng.2019@jd.smu.edu.sg,AdHoc,meeting
+70,"24 February 2020, Monday",SOL-B1.02-GS,12:30-14:00,Confirmed,BK-20200223-000405,TANG YANFENG,Student,yftang.2019@economics.smu.edu.sg,AdHoc,Project
+71,"24 February 2020, Monday",SOL-B1.02-GS,14:00-18:00,Confirmed,BK-20200210-000061,VICTOR TANG,Student,victor.tang.2017@law.smu.edu.sg,AdHoc,study
+72,"24 February 2020, Monday",SOL-B1.02-GS,18:00-22:00,Confirmed,BK-20200224-000504,GLORIA CHAN HUI EN,Student,gloria.chan.2016@law.smu.edu.sg,AdHoc,ethics project
+73,"24 February 2020, Monday",SOL-B1.03-GS,10:00-13:00,Confirmed,BK-20200221-000207,FOO ZHI WEI,Student,zhiwei.foo.2015@law.smu.edu.sg,AdHoc,meeting
+74,"24 February 2020, Monday",SOL-B1.03-GS,13:00-17:00,Confirmed,BK-20200218-000525,JOEL LIM WEE KIAT,Student,joel.lim.2017@sis.smu.edu.sg,AdHoc,Meeting
+75,"24 February 2020, Monday",SOL-B1.03-GS,18:30-21:30,Confirmed,BK-20200222-000095,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Study
+76,"24 February 2020, Monday",SOL-B1.04-GS,11:30-15:30,Confirmed,BK-20200210-000218,ANG PING CHYI,Student,pcang.2018@accountancy.smu.edu.sg,AdHoc,study
+77,"24 February 2020, Monday",SOL-B1.04-GS,16:00-20:00,Confirmed,BK-20200210-000653,MARCUS CHIANG TING ERN,Student,techiang.2017@business.smu.edu.sg,AdHoc,work
+78,"24 February 2020, Monday",SOL-B1.05-GS,10:00-14:00,Confirmed,BK-20200210-000759,"ANG YUN SUM, JERICA",Student,jerica.ang.2019@sis.smu.edu.sg,AdHoc,study
+79,"24 February 2020, Monday",SOL-B1.05-GS,14:00-18:00,Confirmed,BK-20200210-000786,XIN YI DUSADIDECHO,Student,dusadidecho.2019@sis.smu.edu.sg,AdHoc,Study & Research
+80,"24 February 2020, Monday",SOL-B1.06-GS,10:30-14:30,Confirmed,BK-20200210-000128,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+81,"24 February 2020, Monday",SOL-B1.06-GS,15:00-19:00,Confirmed,BK-20200210-000130,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+82,"24 February 2020, Monday",SOL-B1.07-GS,11:30-15:30,Confirmed,BK-20200211-000691,"TAN HWA QI, VICTORIA",Student,victoriatan.2018@economics.smu.edu.sg,AdHoc,meeting
+83,"24 February 2020, Monday",SOL-B1.07-GS,16:00-20:00,Confirmed,BK-20200211-000901,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Meeting
+84,"24 February 2020, Monday",SOL-B1.08-GS,09:00-11:30,Confirmed,BK-20200224-000058,"GOH TENG JUN, GEROME",Student,gerome.goh.2016@law.smu.edu.sg,AdHoc,ETHICS
+85,"24 February 2020, Monday",SOL-B1.08-GS,12:00-16:00,Confirmed,BK-20200213-000108,CHAILYN ONG,Student,chailyn.ong.2017@socsc.smu.edu.sg,AdHoc,-
+86,"24 February 2020, Monday",SOL-B1.08-GS,16:30-20:30,Confirmed,BK-20200213-000109,JANIS TEO RUIMIN,Student,janisteo.2017@business.smu.edu.sg,AdHoc,study
+87,"24 February 2020, Monday",SOL-B1.10-GS,12:00-16:00,Confirmed,BK-20200218-001230,ISAAC CHONG ZHI XUN,Student,isaac.chong.2016@accountancy.smu.edu.sg,AdHoc,Project
+88,"24 February 2020, Monday",SOL-B1.10-GS,16:00-20:00,Confirmed,BK-20200220-001002,DARRYL CHUA WEN XUAN,Student,darryl.chua.2019@economics.smu.edu.sg,AdHoc,study
+89,"24 February 2020, Monday",SOL-B1.11-GS,08:30-12:00,Confirmed,BK-20200223-000345,DESIREE CHONG CI EN,Student,cechong.2019@law.smu.edu.sg,AdHoc,Study
+90,"24 February 2020, Monday",SOL-B1.11-GS,12:00-16:00,Confirmed,BK-20200217-001202,"CHUA WANG DA, ANSLEY",Student,ansley.chua.2017@sis.smu.edu.sg,AdHoc,meet
+91,"24 February 2020, Monday",SOL-B1.11-GS,16:00-19:00,Confirmed,BK-20200217-001169,"KERH JIA LE, MARCUS",Student,marcus.kerh.2017@sis.smu.edu.sg,AdHoc,meeting
+92,"24 February 2020, Monday",SOL-B1.11-GS,19:00-22:00,Confirmed,BK-20200217-001170,KANG YI QI,Student,yiqi.kang.2017@sis.smu.edu.sg,AdHoc,meeting
+93,"24 February 2020, Monday",SOL-B1.12-GS,11:30-15:30,Confirmed,BK-20200206-000417,Kayaking Team,Student,kayaking@sa.smu.edu.sg,Co-Curricular,Meeting
+94,"24 February 2020, Monday",SOL-B1.12-GS,15:30-19:30,Confirmed,BK-20200220-000537,HO JIA WEI DIXON,Student,dixon.ho.2019@business.smu.edu.sg,AdHoc,study
+95,"23 February 2020, Sunday",SOL-2.07-GS,09:00-12:00,Confirmed,BK-20200210-000344,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+96,"23 February 2020, Sunday",SOL-2.07-GS,12:30-16:30,Confirmed,BK-20200210-000262,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+97,"23 February 2020, Sunday",SOL-2.08-GS,09:00-13:00,Confirmed,BK-20200219-000797,FOO YU NING CRISTAL,Student,cristal.foo.2019@business.smu.edu.sg,AdHoc,Study
+98,"23 February 2020, Sunday",SOL-2.08-GS,13:00-17:00,Confirmed,BK-20200219-000807,GRACIER CHUA,Student,gracierchua.2019@business.smu.edu.sg,AdHoc,study
+99,"23 February 2020, Sunday",SOL-2.12-GS,10:30-12:00,Confirmed,BK-20200219-001110,TAN LU SI AERIN,Student,aerin.tan.2019@mhcl.smu.edu.sg,AdHoc,Meeting
+100,"23 February 2020, Sunday",SOL-2.12-GS,14:30-17:00,Confirmed,BK-20200223-000052,CHIN DAN TING,Student,dtchin.2018@law.smu.edu.sg,AdHoc,meeting
+101,"23 February 2020, Sunday",SOL-2.13-GS,09:00-12:30,Confirmed,BK-20200222-000275,SURAJ VENKATRAMAN,Student,surajv.2019@maf.smu.edu.sg,Academic,Meeting to do project work
+102,"23 February 2020, Sunday",SOL-2.13-GS,13:00-17:00,Confirmed,BK-20200219-001158,ALSTON POH SHI WEI,Student,alston.poh.2019@law.smu.edu.sg,AdHoc,meeting
+103,"23 February 2020, Sunday",SOL-2.14-GS,11:00-15:00,Confirmed,BK-20200220-000069,"LEE WEI HAN, MARCUS",Student,marcuslee.2019@accountancy.smu.edu.sg,AdHoc,meeting
+104,"23 February 2020, Sunday",SOL-3.03-GS,12:00-16:00,Confirmed,BK-20200220-001391,LOO BIN HUI,Student,binhui.loo.2016@socsc.smu.edu.sg,AdHoc,Study
+105,"23 February 2020, Sunday",SOL-3.04-GS,12:30-16:00,Confirmed,BK-20200222-000473,KHOO YONG LI,Student,ylkhoo.2018@business.smu.edu.sg,AdHoc,123
+106,"23 February 2020, Sunday",SOL-3.05-GS,09:00-11:30,Confirmed,BK-20200223-000039,HEE MING SHAN,Student,mshee.2017@sis.smu.edu.sg,Academic,Meeting
+107,"23 February 2020, Sunday",SOL-3.05-GS,11:30-15:30,Confirmed,BK-20200220-001392,LAI SU ANN,Student,suann.lai.2016@socsc.smu.edu.sg,AdHoc,Meeting
+108,"23 February 2020, Sunday",SOL-3.06-GS,12:00-16:00,Confirmed,BK-20200216-000374,JONATHAN MING AUYONG DORNEL,Student,jdornel.2019@sis.smu.edu.sg,AdHoc,Meeting with Programming Club
+109,"23 February 2020, Sunday",SOL-3.06-GS,16:30-17:00,Confirmed,BK-20200223-000267,DARREN TAY WEI HAO,Student,darren.tay.2019@sis.smu.edu.sg,Academic,study
+110,"23 February 2020, Sunday",SOL-3.07-GS,12:30-16:30,Confirmed,BK-20200222-000439,POH MAO LIN,Student,maolin.poh.2017@economics.smu.edu.sg,AdHoc,study
+111,"23 February 2020, Sunday",SOL-3.08-GS,12:30-16:30,Confirmed,BK-20200222-000468,JOSHUA CHENG TIN WING,Student,joshuacheng.2018@economics.smu.edu.sg,AdHoc,idk
+112,"23 February 2020, Sunday",SOL-B1.02-GS,10:30-14:30,Confirmed,BK-20200222-000518,MARYANN SE TO WAN JUN,Student,maryannseto.2017@business.smu.edu.sg,AdHoc,asd
+113,"23 February 2020, Sunday",SOL-B1.03-GS,10:30-14:30,Confirmed,BK-20200222-000055,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+114,"23 February 2020, Sunday",SOL-B1.03-GS,15:00-17:00,Confirmed,BK-20200222-000058,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+115,"23 February 2020, Sunday",SOL-B1.04-GS,12:30-16:30,Confirmed,BK-20200220-000931,"NG YU HONG, TREVOR",Student,trevor.ng.2018@sis.smu.edu.sg,AdHoc,qwerty
+116,"23 February 2020, Sunday",SOL-B1.05-GS,09:00-12:00,Confirmed,BK-20200220-000476,TEY HAOYUE,Student,haoyue.tey.2019@sis.smu.edu.sg,AdHoc,some pitch
+117,"23 February 2020, Sunday",SOL-B1.05-GS,12:00-16:00,Confirmed,BK-20200219-000832,KIM BYOUNG SEOB,Student,bskim.2018@economics.smu.edu.sg,AdHoc,Study
+118,"23 February 2020, Sunday",SOL-B1.06-GS,13:00-16:00,Confirmed,BK-20200219-001235,CHUA MINGYI,Student,mingyi.chua.2019@law.smu.edu.sg,AdHoc,study
+119,"23 February 2020, Sunday",SOL-B1.07-GS,12:00-16:00,Confirmed,BK-20200221-000313,KEITH TAN GIM FONG,Student,keithtan.2019@sis.smu.edu.sg,AdHoc,meeting
+120,"23 February 2020, Sunday",SOL-B1.08-GS,10:00-13:00,Confirmed,BK-20200222-000485,GABRIEL MANUEL SIDIK,Student,gmsidik.2016@sis.smu.edu.sg,AdHoc,Meeting
+121,"23 February 2020, Sunday",SOL-B1.08-GS,13:00-17:00,Confirmed,BK-20200223-000101,BONG WEI HUNG WILFRED,Student,wilfredbong.2018@socsc.smu.edu.sg,AdHoc,meeting
+122,"23 February 2020, Sunday",SOL-B1.10-GS,09:30-13:30,Confirmed,BK-20200222-000474,"TAN YE JIA, HANNAH",Student,hannah.tan.2019@law.smu.edu.sg,AdHoc,study
+123,"23 February 2020, Sunday",SOL-B1.10-GS,13:30-17:00,Confirmed,BK-20200222-000475,SAMUEL WONG WEI YUAN,Student,samuel.wong.2019@law.smu.edu.sg,AdHoc,study lol
+124,"23 February 2020, Sunday",SOL-B1.11-GS,12:00-16:00,Confirmed,BK-20200221-000647,BRANDON JIAN-GUO CHEW,Student,brandonchew.2019@law.smu.edu.sg,AdHoc,lol
+125,"23 February 2020, Sunday",SOL-B1.12-GS,11:30-15:30,Confirmed,BK-20200219-000810,TAN KOK WAH JOHNATHAN,Student,kwtan.2017@sis.smu.edu.sg,AdHoc,study
+126,"22 February 2020, Saturday",SOL-2.07-GS,09:00-13:00,Confirmed,BK-20200221-001000,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,meeting
+127,"22 February 2020, Saturday",SOL-2.07-GS,13:30-17:00,Confirmed,BK-20200221-001021,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+128,"22 February 2020, Saturday",SOL-2.08-GS,09:30-13:30,Confirmed,BK-20200221-001061,"TAN YE JIA, HANNAH",Student,hannah.tan.2019@law.smu.edu.sg,AdHoc,study
+129,"22 February 2020, Saturday",SOL-2.08-GS,13:30-17:00,Confirmed,BK-20200221-001066,SAMUEL WONG WEI YUAN,Student,samuel.wong.2019@law.smu.edu.sg,AdHoc,study
+130,"22 February 2020, Saturday",SOL-2.12-GS,11:00-15:00,Confirmed,BK-20200221-000654,BRANDON JIAN-GUO CHEW,Student,brandonchew.2019@law.smu.edu.sg,AdHoc,lol
+131,"22 February 2020, Saturday",SOL-2.13-GS,12:00-16:00,Confirmed,BK-20200218-000967,LIEW KEFAN,Student,kefan.liew.2018@business.smu.edu.sg,AdHoc,meeting
+132,"22 February 2020, Saturday",SOL-2.14-GS,11:00-15:00,Confirmed,BK-20200216-000199,CAO YUANYUAN,Student,yycao.2019@sis.smu.edu.sg,AdHoc,study
+133,"22 February 2020, Saturday",SOL-3.03-GS,08:30-14:00,Confirmed,BK-20200131-000269,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+134,"22 February 2020, Saturday",SOL-3.04-GS,08:30-14:00,Confirmed,BK-20200131-000270,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+135,"22 February 2020, Saturday",SOL-3.05-GS,08:30-14:00,Confirmed,BK-20200131-000271,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+136,"22 February 2020, Saturday",SOL-3.06-GS,08:30-14:00,Confirmed,BK-20200131-000272,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+137,"22 February 2020, Saturday",SOL-3.06-GS,14:00-17:00,Confirmed,BK-20200222-000174,NUNIS MIKAEL KEITH,Student,mknunis.2019@law.smu.edu.sg,AdHoc,Study
+138,"22 February 2020, Saturday",SOL-3.07-GS,08:30-14:00,Confirmed,BK-20200131-000273,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+139,"22 February 2020, Saturday",SOL-3.08-GS,08:30-14:00,Confirmed,BK-20200131-000274,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+140,"22 February 2020, Saturday",SOL-3.08-GS,14:00-17:00,Confirmed,BK-20200219-001107,"TAN YI LIN, JUNE",Student,june.tan.2020@mcm.smu.edu.sg,Academic,Group Meeting
+141,"22 February 2020, Saturday",SOL-B1.02-GS,08:30-14:00,Confirmed,BK-20200131-000275,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+142,"22 February 2020, Saturday",SOL-B1.03-GS,08:30-17:00,Confirmed,BK-20191203-000152,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+143,"22 February 2020, Saturday",SOL-B1.04-GS,08:30-17:00,Confirmed,BK-20191203-000154,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+144,"22 February 2020, Saturday",SOL-B1.05-GS,08:30-17:00,Confirmed,BK-20191203-000157,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+145,"22 February 2020, Saturday",SOL-B1.06-GS,08:30-17:00,Confirmed,BK-20191203-000159,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+146,"22 February 2020, Saturday",SOL-B1.07-GS,08:30-17:00,Confirmed,BK-20191203-000160,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+147,"22 February 2020, Saturday",SOL-B1.08-GS,08:30-14:00,Confirmed,BK-20200131-000276,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+148,"22 February 2020, Saturday",SOL-B1.08-GS,16:00-17:00,Confirmed,BK-20200222-000205,LOW TINGZHEN,Student,tzlow.2019@sis.smu.edu.sg,AdHoc,studying
+149,"22 February 2020, Saturday",SOL-B1.10-GS,08:30-14:00,Confirmed,BK-20200131-000277,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+150,"22 February 2020, Saturday",SOL-B1.11-GS,08:30-14:00,Confirmed,BK-20200131-000278,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+151,"22 February 2020, Saturday",SOL-B1.11-GS,14:00-17:00,Confirmed,BK-20200222-000083,RAGHAV CHANDRA MATHUR,Student,rcmathur.2019@maf.smu.edu.sg,Academic,Recording for Fixed Income Presentation
+152,"22 February 2020, Saturday",SOL-B1.12-GS,08:30-14:00,Confirmed,BK-20200131-000279,SMU Corporate & Commercial Club,Student,smucorplaw@sa.smu.edu.sg,Co-Curricular,Mediation Advocacy Competition
+153,"22 February 2020, Saturday",SOL-B1.12-GS,14:00-17:00,Confirmed,BK-20200218-000823,ALVIN SONG ZHILIANG,Student,alvinsong.2018@business.smu.edu.sg,AdHoc,OCSP Meeting
+154,"21 February 2020, Friday",SOL-2.07-GS,09:30-12:30,Confirmed,BK-20200220-000501,SIM XIN KAI,Student,xinkai.sim.2016@business.smu.edu.sg,AdHoc,study
+155,"21 February 2020, Friday",SOL-2.07-GS,12:30-16:30,Confirmed,BK-20200207-000521,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+156,"21 February 2020, Friday",SOL-2.07-GS,17:00-21:00,Confirmed,BK-20200207-000597,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+157,"21 February 2020, Friday",SOL-2.08-GS,10:00-13:00,Confirmed,BK-20200219-000976,EMMA NEO JIA TIAN,Student,emma.neo.2019@accountancy.smu.edu.sg,AdHoc,study
+158,"21 February 2020, Friday",SOL-2.08-GS,14:00-17:00,Confirmed,BK-20200218-001131,TEO RAY GI,Student,raygi.teo.2018@business.smu.edu.sg,AdHoc,study
+159,"21 February 2020, Friday",SOL-2.08-GS,17:30-19:00,Confirmed,BK-20200220-001248,TRICIA LEE YU YING,Student,tricia.lee.2016@economics.smu.edu.sg,AdHoc,-
+160,"21 February 2020, Friday",SOL-2.12-GS,09:00-13:00,Confirmed,BK-20200213-001041,SHERINE DANIELLE HADI,Student,sdhadi.2019@economics.smu.edu.sg,AdHoc,meeting
+161,"21 February 2020, Friday",SOL-2.12-GS,13:30-17:00,Confirmed,BK-20200219-000306,IVY KONG CHING YEE,Student,ivy.kong.2018@economics.smu.edu.sg,Academic,study
+162,"21 February 2020, Friday",SOL-2.12-GS,17:00-19:00,Confirmed,BK-20200219-001060,ISAIAH TEO SHAO XUAN,Student,isaiah.teo.2018@economics.smu.edu.sg,Academic,study
+163,"21 February 2020, Friday",SOL-2.13-GS,10:30-14:30,Confirmed,BK-20200210-000047,LAM PIK KEE BIANCA,Student,bianca.lam.2019@accountancy.smu.edu.sg,AdHoc,study/meeting
+164,"21 February 2020, Friday",SOL-2.13-GS,14:30-16:00,Confirmed,BK-20200221-000158,KOH CHUN HOE ALEX,Student,alex.koh.2018@business.smu.edu.sg,AdHoc,meetiang
+165,"21 February 2020, Friday",SOL-2.13-GS,16:00-18:00,Confirmed,BK-20200217-001345,LOW YAN LIN,Student,yanlin.low.2016@law.smu.edu.sg,Academic,Advocacy practice
+166,"21 February 2020, Friday",SOL-2.13-GS,18:00-22:00,Confirmed,BK-20200221-000465,BENJAMIN ANDREW YEO TAT NAM,Student,benjaminyeo.2019@business.smu.edu.sg,AdHoc,Study
+167,"21 February 2020, Friday",SOL-2.14-GS,11:00-14:30,Confirmed,BK-20200218-001175,"LERH GUAN WEI, TERRENCE",Student,gwlerh.2016@law.smu.edu.sg,Academic,Meeting
+168,"21 February 2020, Friday",SOL-2.14-GS,14:30-18:30,Confirmed,BK-20200207-000719,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+169,"21 February 2020, Friday",SOL-2.14-GS,18:30-22:30,Confirmed,BK-20200218-000837,ALVIN SONG ZHILIANG,Student,alvinsong.2018@business.smu.edu.sg,AdHoc,study
+170,"21 February 2020, Friday",SOL-3.03-GS,09:30-12:30,Confirmed,BK-20200220-000607,DARSHANA SURENDHIRAN,Student,darshanas.2018@business.smu.edu.sg,AdHoc,study
+171,"21 February 2020, Friday",SOL-3.03-GS,12:30-16:30,Confirmed,BK-20200218-001331,PENG LEE HENG,Student,lhpeng.2018@business.smu.edu.sg,AdHoc,study
+172,"21 February 2020, Friday",SOL-3.03-GS,16:30-19:30,Confirmed,BK-20200221-000224,"HE, JIAWEN",Student,jiawen.he.2019@maf.smu.edu.sg,Academic,group meeting
+173,"21 February 2020, Friday",SOL-3.04-GS,10:00-13:00,Confirmed,BK-20200217-000532,EDDIESON HO SIEW WAI,Student,eddieson.ho.2019@accountancy.smu.edu.sg,Academic,meeting
+174,"21 February 2020, Friday",SOL-3.04-GS,13:00-17:00,Confirmed,BK-20200219-000221,TAMMY SAW KAIWEN,Student,tammysaw.2019@business.smu.edu.sg,AdHoc,study
+175,"21 February 2020, Friday",SOL-3.04-GS,17:00-21:00,Confirmed,BK-20200221-000412,JORDAN CORNELIUS ONG JUN HEAN,Student,jordanong.2017@economics.smu.edu.sg,AdHoc,drowning
+176,"21 February 2020, Friday",SOL-3.05-GS,12:00-15:00,Confirmed,BK-20200219-000316,NATALIE YAP YING JIE,Student,natalie.yap.2019@business.smu.edu.sg,AdHoc,meeting
+177,"21 February 2020, Friday",SOL-3.05-GS,15:30-18:00,Confirmed,BK-20200208-000542,ZHAO YUCHEN,Student,yuchen.zhao.2016@law.smu.edu.sg,AdHoc,Meeting
+178,"21 February 2020, Friday",SOL-3.06-GS,09:30-13:30,Confirmed,BK-20200207-000806,KOH YI WEN,Student,yiwen.koh.2018@jd.smu.edu.sg,AdHoc,Research
+179,"21 February 2020, Friday",SOL-3.06-GS,14:00-15:30,Confirmed,BK-20200220-000832,"HO SHU PING, MEGAN",Student,megan.ho.2016@law.smu.edu.sg,AdHoc,meeting
+180,"21 February 2020, Friday",SOL-3.06-GS,15:30-19:00,Confirmed,BK-20200207-000940,DAUSER MARTIN JOSEF,Student,mjdauser.2019@exchange.smu.edu.sg,AdHoc,group study & interview
+181,"21 February 2020, Friday",SOL-3.07-GS,11:30-15:30,Confirmed,BK-20200219-000085,VICTOR TANG,Student,victor.tang.2017@law.smu.edu.sg,AdHoc,eptl
+182,"21 February 2020, Friday",SOL-3.07-GS,15:30-19:30,Confirmed,BK-20200220-000114,QU WENRUI,Student,wenrui.qu.2018@sis.smu.edu.sg,AdHoc,MEETING
+183,"21 February 2020, Friday",SOL-3.07-GS,19:30-22:30,Confirmed,BK-20200220-000137,HUANG LIFU,Student,lifu.huang.2018@sis.smu.edu.sg,AdHoc,meeting
+184,"21 February 2020, Friday",SOL-3.08-GS,09:00-13:00,Confirmed,BK-20200213-000205,STEPHEN PANG QING YANG,Student,stephenpang.2019@sis.smu.edu.sg,AdHoc,erza scarlet studying
+185,"21 February 2020, Friday",SOL-3.08-GS,13:00-17:00,Confirmed,BK-20200209-000351,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+186,"21 February 2020, Friday",SOL-3.08-GS,17:00-21:00,Confirmed,BK-20200209-000362,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+187,"21 February 2020, Friday",SOL-B1.02-GS,12:00-16:00,Confirmed,BK-20200220-000626,"QUEK YI FU, LOUIS",Student,louis.quek.2016@economics.smu.edu.sg,AdHoc,CCA
+188,"21 February 2020, Friday",SOL-B1.02-GS,16:00-20:00,Confirmed,BK-20200220-001330,AREEBA KHAN,Student,areeba.khan.2017@sis.smu.edu.sg,Academic,PROJECTZZZ
+189,"21 February 2020, Friday",SOL-B1.03-GS,08:30-22:30,Confirmed,BK-20191203-000153,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+190,"21 February 2020, Friday",SOL-B1.04-GS,08:30-22:30,Confirmed,BK-20191203-000155,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+191,"21 February 2020, Friday",SOL-B1.05-GS,08:30-22:30,Confirmed,BK-20191203-000156,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+192,"21 February 2020, Friday",SOL-B1.06-GS,08:30-22:30,Confirmed,BK-20191203-000158,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+193,"21 February 2020, Friday",SOL-B1.07-GS,08:30-22:30,Confirmed,BK-20191203-000161,LING Shao Tong,"Diversity, Inclusion, & Integration",stling@smu.edu.sg,AdHoc,You Are The Voice 2020
+194,"21 February 2020, Friday",SOL-B1.08-GS,09:30-13:30,Confirmed,BK-20200220-000917,NICOLE THERESE LIM SU ANNE,Student,nicole.lim.2019@law.smu.edu.sg,Academic,rwad
+195,"21 February 2020, Friday",SOL-B1.08-GS,13:30-16:30,Confirmed,BK-20200214-000062,WANG YI QIN,Student,yiqin.wang.2019@law.smu.edu.sg,AdHoc,study
+196,"21 February 2020, Friday",SOL-B1.08-GS,16:30-19:30,Confirmed,BK-20200220-001324,HO WEN YANG,Student,wenyang.ho.2019@law.smu.edu.sg,AdHoc,chiong memo
+197,"21 February 2020, Friday",SOL-B1.10-GS,09:00-13:00,Confirmed,BK-20200215-000360,DESIREE CHONG CI EN,Student,cechong.2019@law.smu.edu.sg,AdHoc,Study
+198,"21 February 2020, Friday",SOL-B1.10-GS,14:00-18:00,Confirmed,BK-20200215-000362,ANG QI AN,Student,qian.ang.2019@law.smu.edu.sg,AdHoc,project meeting
+199,"21 February 2020, Friday",SOL-B1.11-GS,12:00-14:00,Confirmed,BK-20200220-000911,GAN KAI XIAN,Student,kaixian.gan.2018@sis.smu.edu.sg,AdHoc,meeting
+200,"21 February 2020, Friday",SOL-B1.11-GS,14:00-18:00,Confirmed,BK-20200211-000616,"KOH LIN-HUI, KIMBERLY",Student,kimberlykoh.2017@business.smu.edu.sg,AdHoc,meeting
+201,"21 February 2020, Friday",SOL-B1.12-GS,10:30-14:30,Confirmed,BK-20200206-001028,Kayaking Team,Student,kayaking@sa.smu.edu.sg,Co-Curricular,meeting
+202,"21 February 2020, Friday",SOL-B1.12-GS,15:00-19:00,Confirmed,BK-20200217-001390,LO KAR KEONG DARRYL,Student,darryl.lo.2018@law.smu.edu.sg,AdHoc,z
+203,"21 February 2020, Friday",SOL-B1.12-GS,19:00-22:00,Confirmed,BK-20200218-000173,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Study
+204,"20 February 2020, Thursday",SOL-2.07-GS,10:30-14:30,Confirmed,BK-20200206-000002,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+205,"20 February 2020, Thursday",SOL-2.07-GS,15:00-19:00,Confirmed,BK-20200206-000004,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+206,"20 February 2020, Thursday",SOL-2.07-GS,19:00-22:30,Confirmed,BK-20200206-000895,JUSTIN WONG YI JIE,Student,justin.wong.2018@economics.smu.edu.sg,AdHoc,Meeting
+207,"20 February 2020, Thursday",SOL-2.08-GS,08:30-11:30,Confirmed,BK-20200217-000003,CHEN JUN MING,Student,jmchen.2018@economics.smu.edu.sg,AdHoc,study
+208,"20 February 2020, Thursday",SOL-2.08-GS,11:30-15:30,Confirmed,BK-20200216-000748,NICOLETTE ANG YU,Student,yang.2017@accountancy.smu.edu.sg,AdHoc,study
+209,"20 February 2020, Thursday",SOL-2.08-GS,15:30-19:00,Confirmed,BK-20200206-001511,WONG YU PING,Student,yuping.wong.2016@socsc.smu.edu.sg,AdHoc,Study
+210,"20 February 2020, Thursday",SOL-2.12-GS,11:00-13:00,Confirmed,BK-20200220-000082,CHARMAINE KOH JIE SEE,Student,jskoh.2018@accountancy.smu.edu.sg,AdHoc,study
+211,"20 February 2020, Thursday",SOL-2.12-GS,13:00-17:00,Confirmed,BK-20200210-001310,ANG JIA JUN,Student,jiajun.ang.2019@business.smu.edu.sg,AdHoc,study
+212,"20 February 2020, Thursday",SOL-2.12-GS,17:00-19:00,Confirmed,BK-20200219-001070,"QIU ZIYUN, JOANNA",Student,joanna.qiu.2019@law.smu.edu.sg,AdHoc,Study
+213,"20 February 2020, Thursday",SOL-2.12-GS,19:00-22:30,Confirmed,BK-20200213-001048,BENEDICT KOH YEN HIN,Student,benedictkoh.2017@law.smu.edu.sg,AdHoc,chicken nugget
+214,"20 February 2020, Thursday",SOL-2.13-GS,12:00-16:00,Confirmed,BK-20200217-000466,SHAUN PHUA JIA HAO,Student,shaun.phua.2018@sis.smu.edu.sg,AdHoc,study
+215,"20 February 2020, Thursday",SOL-2.13-GS,16:00-20:00,Confirmed,BK-20200206-000562,GEORGE KEE JIA MING,Student,george.kee.2019@business.smu.edu.sg,Academic,Study
+216,"20 February 2020, Thursday",SOL-2.14-GS,09:30-13:00,Confirmed,BK-20200220-000025,MUSTAFA SHAFIQ SHAKIR,Student,mustafass.2019@law.smu.edu.sg,AdHoc,studs
+217,"20 February 2020, Thursday",SOL-2.14-GS,13:00-15:30,Confirmed,BK-20200217-000396,SAMANTHA CHOO TJIA HUEY,Student,thchoo.2016@law.smu.edu.sg,Academic,meeting
+218,"20 February 2020, Thursday",SOL-2.14-GS,15:30-18:30,Confirmed,BK-20200206-000388,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+219,"20 February 2020, Thursday",SOL-2.14-GS,19:00-22:30,Confirmed,BK-20200219-001174,EMMANUEL RAYENDRA,Student,emmanuelr.2018@sis.smu.edu.sg,Academic,Exploiting sweatshop workers
+220,"20 February 2020, Thursday",SOL-3.03-GS,12:00-15:30,Confirmed,BK-20200219-000397,TAN CHERN EE,Student,cetan.2018@business.smu.edu.sg,AdHoc,m
+221,"20 February 2020, Thursday",SOL-3.03-GS,15:30-19:00,Confirmed,BK-20200219-000588,TAN KAR CHUN,Student,karchun.tan.2018@business.smu.edu.sg,Academic,WEB
+222,"20 February 2020, Thursday",SOL-3.03-GS,19:00-22:00,Confirmed,BK-20200220-000388,AKSHAYA LAKSHMI NARASIMHAN,Student,akshayan.2019@mitb.smu.edu.sg,Academic,Academic
+223,"20 February 2020, Thursday",SOL-3.04-GS,10:00-14:00,Confirmed,BK-20200216-000526,ESTHER NG LI TING,Student,esther.ng.2018@economics.smu.edu.sg,AdHoc,study
+224,"20 February 2020, Thursday",SOL-3.04-GS,14:00-18:00,Confirmed,BK-20200216-000540,LIM ZHI WEI,Student,zhiwei.lim.2017@business.smu.edu.sg,AdHoc,Project
+225,"20 February 2020, Thursday",SOL-3.04-GS,19:00-22:00,Confirmed,BK-20200220-000298,PRANAV CHHIKARA,Student,pchhikara.2019@mm.smu.edu.sg,Academic,Meeting
+226,"20 February 2020, Thursday",SOL-3.05-GS,11:30-14:30,Confirmed,BK-20200217-001114,ADELINE CHIN HUI WEN,Student,adelinechin.2017@business.smu.edu.sg,Academic,meeting
+227,"20 February 2020, Thursday",SOL-3.05-GS,15:30-19:30,Confirmed,BK-20200212-001403,ZHAO YUCHEN,Student,yuchen.zhao.2016@law.smu.edu.sg,AdHoc,Meeting
+228,"20 February 2020, Thursday",SOL-3.06-GS,08:30-11:30,Confirmed,BK-20200219-001190,ATHENA SU-HUI MANIAM,Student,amaniam.2016@law.smu.edu.sg,AdHoc,Study
+229,"20 February 2020, Thursday",SOL-3.06-GS,11:30-15:30,Confirmed,BK-20200206-000151,CHOW WEN QING,Student,wqchow.2018@law.smu.edu.sg,AdHoc,meeting
+230,"20 February 2020, Thursday",SOL-3.06-GS,15:30-17:00,Confirmed,BK-20200218-000843,"TAN JUN WEI, BRENDON",Student,brendon.tan.2018@business.smu.edu.sg,AdHoc,Meeting
+231,"20 February 2020, Thursday",SOL-3.06-GS,17:00-21:00,Confirmed,BK-20200212-001088,KHO LING LI,Student,lingli.kho.2018@economics.smu.edu.sg,AdHoc,meeting
+232,"20 February 2020, Thursday",SOL-3.07-GS,14:00-17:30,Confirmed,BK-20200215-000511,EILEEN LIM YANYI,Student,eileenlim.2019@law.smu.edu.sg,AdHoc,Group Meeting
+233,"20 February 2020, Thursday",SOL-3.07-GS,17:30-20:00,Confirmed,BK-20200219-001252,"TAN JIA JUN, JAMES",Student,james.tan.2015@law.smu.edu.sg,AdHoc,asda
+234,"20 February 2020, Thursday",SOL-3.08-GS,08:30-12:30,Confirmed,BK-20200213-000202,STEPHEN PANG QING YANG,Student,stephenpang.2019@sis.smu.edu.sg,AdHoc,study
+235,"20 February 2020, Thursday",SOL-3.08-GS,12:30-16:30,Confirmed,BK-20200209-000346,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+236,"20 February 2020, Thursday",SOL-3.08-GS,16:30-20:30,Confirmed,BK-20200209-000356,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+237,"20 February 2020, Thursday",SOL-3.08-GS,20:30-22:30,Confirmed,BK-20200212-001365,SOPHIA MARANI,Student,smarani.2019@sis.smu.edu.sg,AdHoc,Meeting
+238,"20 February 2020, Thursday",SOL-B1.02-GS,11:30-13:00,Confirmed,BK-20200219-000299,TRICIA AMANDA LEE WEI LING,Student,tricialee.2016@business.smu.edu.sg,AdHoc,meeting
+239,"20 February 2020, Thursday",SOL-B1.02-GS,13:00-17:00,Confirmed,BK-20200206-001263,VICTOR TANG,Student,victor.tang.2017@law.smu.edu.sg,AdHoc,study
+240,"20 February 2020, Thursday",SOL-B1.02-GS,17:30-21:30,Confirmed,BK-20200206-001455,PHANG JYE,Student,jye.phang.2019@business.smu.edu.sg,AdHoc,study
+241,"20 February 2020, Thursday",SOL-B1.03-GS,10:30-14:30,Confirmed,BK-20200214-000263,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+242,"20 February 2020, Thursday",SOL-B1.03-GS,15:00-19:00,Confirmed,BK-20200214-000267,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+243,"20 February 2020, Thursday",SOL-B1.04-GS,12:00-15:30,Confirmed,BK-20200220-000196,KOH HAOJIE,Student,haojie.koh.2018@accountancy.smu.edu.sg,Academic,Meeting
+244,"20 February 2020, Thursday",SOL-B1.04-GS,15:30-18:30,Confirmed,BK-20200210-000599,CHAN XIN YI AMANDA,Student,amanda.chan.2018@accountancy.smu.edu.sg,AdHoc,work
+245,"20 February 2020, Thursday",SOL-B1.05-GS,09:00-13:00,Confirmed,BK-20200216-000192,BRANDON JIAN-GUO CHEW,Student,brandonchew.2019@law.smu.edu.sg,AdHoc,study
+246,"20 February 2020, Thursday",SOL-B1.05-GS,13:00-14:00,Confirmed,BK-20200219-001037,FELICIA LEE XIN RU,Student,felicia.lee.2017@business.smu.edu.sg,AdHoc,meeting
+247,"20 February 2020, Thursday",SOL-B1.05-GS,14:00-18:00,Confirmed,BK-20200216-000193,"SEE CHAI KIAT, JANE",Student,jane.see.2019@law.smu.edu.sg,AdHoc,study
+248,"20 February 2020, Thursday",SOL-B1.05-GS,18:00-19:00,Confirmed,BK-20200220-001030,"WANG, XUN",Student,xun.wang.2019@maf.smu.edu.sg,Academic,recording
+249,"20 February 2020, Thursday",SOL-B1.06-GS,12:00-16:00,Confirmed,BK-20200206-000062,"TAN HWA QI, VICTORIA",Student,victoriatan.2018@economics.smu.edu.sg,AdHoc,Meeting
+250,"20 February 2020, Thursday",SOL-B1.06-GS,16:00-20:00,Confirmed,BK-20200206-000438,YAP HAO YEUN,Student,hyyap.2018@accountancy.smu.edu.sg,AdHoc,study
+251,"20 February 2020, Thursday",SOL-B1.07-GS,09:00-12:00,Confirmed,BK-20200218-000174,"YANG MINGYU, ALLAN",Student,allan.yang.2019@law.smu.edu.sg,Academic,Meeting of the Minds
+252,"20 February 2020, Thursday",SOL-B1.07-GS,13:00-17:00,Confirmed,BK-20200208-000180,"AOW ZONG HAN, AMOS ANTHONY",Student,amos.aow.2019@law.smu.edu.sg,AdHoc,k
+253,"20 February 2020, Thursday",SOL-B1.07-GS,18:30-21:30,Confirmed,BK-20200218-000116,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Study
+254,"20 February 2020, Thursday",SOL-B1.08-GS,11:00-15:00,Confirmed,BK-20200215-000277,AAISHA BINTE SALIM,Student,aaishas.2017@socsc.smu.edu.sg,AdHoc,meeting
+255,"20 February 2020, Thursday",SOL-B1.08-GS,15:30-19:30,Confirmed,BK-20200216-000349,NG JIA YI,Student,jiayi.ng.2017@socsc.smu.edu.sg,AdHoc,pass away during elearn
+256,"20 February 2020, Thursday",SOL-B1.08-GS,19:30-22:30,Confirmed,BK-20200216-000560,"HENG KIANG WEE, EDDIE",Student,eddie.heng.2017@socsc.smu.edu.sg,AdHoc,Dying
+257,"20 February 2020, Thursday",SOL-B1.10-GS,10:00-14:00,Confirmed,BK-20200216-000445,MELISSA ANNA YOW HUAN QIN,Student,melissayow.2019@socsc.smu.edu.sg,AdHoc,Study
+258,"20 February 2020, Thursday",SOL-B1.10-GS,14:00-18:00,Confirmed,BK-20200216-000467,NUR SHAZIERA BINTE ISMAIL,Student,shazierai.2019@sis.smu.edu.sg,AdHoc,meeting
+259,"20 February 2020, Thursday",SOL-B1.10-GS,19:00-22:30,Confirmed,BK-20200214-000402,ALISON TANG WAN XUAN,Student,alison.tang.2018@law.smu.edu.sg,AdHoc,life
+260,"20 February 2020, Thursday",SOL-B1.11-GS,12:00-15:00,Confirmed,BK-20200208-000266,"LEU JUN KANG, ALVIN",Student,alvin.leu.2019@law.smu.edu.sg,AdHoc,LRW rehearse
+261,"20 February 2020, Thursday",SOL-B1.11-GS,15:30-19:30,Confirmed,BK-20200206-000407,DARRYL CHUA WEN XUAN,Student,darryl.chua.2019@economics.smu.edu.sg,AdHoc,Study
+262,"20 February 2020, Thursday",SOL-B1.11-GS,20:00-22:00,Confirmed,BK-20200220-000389,KHESHIN CHEONG RUI PIN,Student,rpcheong.2018@law.smu.edu.sg,Academic,research
+263,"20 February 2020, Thursday",SOL-B1.12-GS,11:30-15:30,Confirmed,BK-20200206-000066,"LIM HONG WEN, AMELIA",Student,amelia.lim.2018@law.smu.edu.sg,AdHoc,meeting
+264,"20 February 2020, Thursday",SOL-B1.12-GS,15:30-19:30,Confirmed,BK-20200206-000170,FOO ZHI WEI,Student,zhiwei.foo.2015@law.smu.edu.sg,AdHoc,study
+265,"19 February 2020, Wednesday",SOL-2.07-GS,11:00-15:00,Confirmed,BK-20200205-000702,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+266,"19 February 2020, Wednesday",SOL-2.07-GS,15:00-17:00,Confirmed,BK-20200210-001344,LAM PIK KEE BIANCA,Student,bianca.lam.2019@accountancy.smu.edu.sg,AdHoc,Study/Meeting
+267,"19 February 2020, Wednesday",SOL-2.07-GS,17:00-21:00,Confirmed,BK-20200205-000567,GEORGE KEE JIA MING,Student,george.kee.2019@business.smu.edu.sg,Academic,Study
+268,"19 February 2020, Wednesday",SOL-2.08-GS,11:30-15:30,Confirmed,BK-20200206-001259,"TAN EK KAI, ALDEN",Student,alden.tan.2017@law.smu.edu.sg,AdHoc,Meeting
+269,"19 February 2020, Wednesday",SOL-2.08-GS,15:30-18:30,Confirmed,BK-20200211-000624,"TAY TENG EK, EVIN",Student,evin.tay.2016@accountancy.smu.edu.sg,AdHoc,Meeting
+270,"19 February 2020, Wednesday",SOL-2.12-GS,11:30-15:30,Confirmed,BK-20200216-000562,BANNA PRABHA KRANTI NANDITA,Student,bannan.2019@business.smu.edu.sg,AdHoc,meeting
+271,"19 February 2020, Wednesday",SOL-2.12-GS,15:30-19:00,Confirmed,BK-20200206-001323,"TENG YAN LING, SABRINA",Student,sabrinateng.2016@accountancy.smu.edu.sg,AdHoc,Meeting
+272,"19 February 2020, Wednesday",SOL-2.13-GS,11:00-12:30,Confirmed,BK-20200218-001316,TAN SZERUI COLETTE,Student,colette.tan.2016@law.smu.edu.sg,AdHoc,pres
+273,"19 February 2020, Wednesday",SOL-2.13-GS,12:30-15:00,Confirmed,BK-20200216-000653,ANG JU-ER ASHLEY,Student,ashley.ang.2019@accountancy.smu.edu.sg,AdHoc,blaw proj meeting
+274,"19 February 2020, Wednesday",SOL-2.13-GS,15:00-16:00,Confirmed,BK-20200219-000641,BRYAN LUM JIN YOONG,Student,bryan.lum.2018@economics.smu.edu.sg,AdHoc,Netflix
+275,"19 February 2020, Wednesday",SOL-2.13-GS,16:00-19:00,Confirmed,BK-20200219-000648,DAI JINGWEN ANNIE,Student,annie.dai.2019@law.smu.edu.sg,AdHoc,study
+276,"19 February 2020, Wednesday",SOL-2.13-GS,19:00-22:30,Confirmed,BK-20200205-001191,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+277,"19 February 2020, Wednesday",SOL-2.14-GS,11:30-13:30,Confirmed,BK-20191216-000145,David DING,Faculty,DAVIDDING@SMU.EDU.SG,Academic,Student consultation
+278,"19 February 2020, Wednesday",SOL-2.14-GS,13:30-17:30,Confirmed,BK-20200205-000979,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+279,"19 February 2020, Wednesday",SOL-2.14-GS,17:30-20:00,Confirmed,BK-20200117-000484,Farah BINTI MOHAMED IQBAL,Office of Core Curriculum,FARAHBMI@SMU.EDU.SG,AdHoc,COR2100 Mid-Term (Nona P)
+280,"19 February 2020, Wednesday",SOL-3.03-GS,10:30-13:00,Confirmed,BK-20200218-001179,CHUA SHITONG CHARMAINE,Student,stchua.2019@accountancy.smu.edu.sg,AdHoc,meeting
+281,"19 February 2020, Wednesday",SOL-3.03-GS,13:00-14:00,Confirmed,BK-20200107-000324,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+282,"19 February 2020, Wednesday",SOL-3.03-GS,14:00-14:30,Confirmed,BK-20200109-000343,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+283,"19 February 2020, Wednesday",SOL-3.03-GS,14:30-16:30,Confirmed,BK-20200217-001158,"LAM GUOLUN, AMOS",Student,amoslam.2017@sis.smu.edu.sg,AdHoc,prj
+284,"19 February 2020, Wednesday",SOL-3.03-GS,16:30-18:00,Confirmed,BK-20200107-000322,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+285,"19 February 2020, Wednesday",SOL-3.03-GS,18:00-18:30,Confirmed,BK-20200109-000342,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+286,"19 February 2020, Wednesday",SOL-3.04-GS,13:00-14:00,Confirmed,BK-20200107-000330,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+287,"19 February 2020, Wednesday",SOL-3.04-GS,14:00-14:30,Confirmed,BK-20200109-000349,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+288,"19 February 2020, Wednesday",SOL-3.04-GS,14:30-16:30,Confirmed,BK-20200219-000496,NARANG AAKSHI,Student,aakshin.2017@sis.smu.edu.sg,Academic,Study
+289,"19 February 2020, Wednesday",SOL-3.04-GS,16:30-18:00,Confirmed,BK-20200107-000331,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+290,"19 February 2020, Wednesday",SOL-3.04-GS,18:00-18:30,Confirmed,BK-20200109-000352,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+291,"19 February 2020, Wednesday",SOL-3.04-GS,19:00-20:00,Confirmed,BK-20200219-000995,VICTORIA ANN LIM MEI ZHEN,Student,annlim.2016@socsc.smu.edu.sg,AdHoc,meeting
+292,"19 February 2020, Wednesday",SOL-3.05-GS,13:00-14:00,Confirmed,BK-20200107-000338,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+293,"19 February 2020, Wednesday",SOL-3.05-GS,14:00-14:30,Confirmed,BK-20200109-000358,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+294,"19 February 2020, Wednesday",SOL-3.05-GS,14:30-16:00,Confirmed,BK-20200208-000540,ZHAO YUCHEN,Student,yuchen.zhao.2016@law.smu.edu.sg,AdHoc,Meeting
+295,"19 February 2020, Wednesday",SOL-3.05-GS,16:30-18:00,Confirmed,BK-20200107-000343,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+296,"19 February 2020, Wednesday",SOL-3.05-GS,18:00-18:30,Confirmed,BK-20200109-000354,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+297,"19 February 2020, Wednesday",SOL-3.05-GS,18:30-21:30,Confirmed,BK-20200219-000601,DAWNE SEE YAN RU,Student,dawne.see.2016@socsc.smu.edu.sg,Academic,meeting
+298,"19 February 2020, Wednesday",SOL-3.06-GS,09:00-12:00,Confirmed,BK-20200217-001108,MIN JIAYI,Student,jiayi.min.2016@business.smu.edu.sg,Academic,meeting
+299,"19 February 2020, Wednesday",SOL-3.06-GS,13:00-14:00,Confirmed,BK-20200107-000353,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+300,"19 February 2020, Wednesday",SOL-3.06-GS,14:00-14:30,Confirmed,BK-20200109-000369,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+301,"19 February 2020, Wednesday",SOL-3.06-GS,14:30-16:30,Confirmed,BK-20200216-000359,JONATHAN MING AUYONG DORNEL,Student,jdornel.2019@sis.smu.edu.sg,AdHoc,Meeting with Programming Club
+302,"19 February 2020, Wednesday",SOL-3.06-GS,16:30-18:00,Confirmed,BK-20200107-000360,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+303,"19 February 2020, Wednesday",SOL-3.06-GS,18:00-18:30,Confirmed,BK-20200109-000363,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+304,"19 February 2020, Wednesday",SOL-3.06-GS,18:30-22:30,Confirmed,BK-20200219-000481,FU WAN YING WENDY,Student,wyfu.2017@law.smu.edu.sg,AdHoc,eptl
+305,"19 February 2020, Wednesday",SOL-3.07-GS,09:00-13:00,Confirmed,BK-20200218-001305,ONG JIA XIN ABIGAIL,Student,abigail.ong.2016@law.smu.edu.sg,AdHoc,-
+306,"19 February 2020, Wednesday",SOL-3.07-GS,13:00-14:00,Confirmed,BK-20200107-000369,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+307,"19 February 2020, Wednesday",SOL-3.07-GS,14:00-14:30,Confirmed,BK-20200109-000377,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+308,"19 February 2020, Wednesday",SOL-3.07-GS,14:30-16:30,Confirmed,BK-20200217-001009,PRITHU YASH,Student,prithu.yash.2020@mba.smu.edu.sg,Academic,Group study
+309,"19 February 2020, Wednesday",SOL-3.07-GS,16:30-18:00,Confirmed,BK-20200107-000373,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+310,"19 February 2020, Wednesday",SOL-3.07-GS,18:00-18:30,Confirmed,BK-20200109-000376,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+311,"19 February 2020, Wednesday",SOL-3.07-GS,20:00-22:00,Confirmed,BK-20200219-000193,PRANAV CHHIKARA,Student,pchhikara.2019@mm.smu.edu.sg,Academic,Meeting
+312,"19 February 2020, Wednesday",SOL-3.08-GS,08:30-12:30,Confirmed,BK-20200213-000200,STEPHEN PANG QING YANG,Student,stephenpang.2019@sis.smu.edu.sg,AdHoc,study
+313,"19 February 2020, Wednesday",SOL-3.08-GS,13:00-14:00,Confirmed,BK-20200107-000378,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+314,"19 February 2020, Wednesday",SOL-3.08-GS,14:00-14:30,Confirmed,BK-20200109-000381,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+315,"19 February 2020, Wednesday",SOL-3.08-GS,14:30-18:30,Confirmed,BK-20200209-000343,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+316,"19 February 2020, Wednesday",SOL-3.08-GS,18:30-22:30,Confirmed,BK-20200209-000352,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+317,"19 February 2020, Wednesday",SOL-B1.02-GS,12:00-16:00,Confirmed,BK-20200211-000226,LER JUN WEI,Student,junwei.ler.2018@accountancy.smu.edu.sg,AdHoc,Meeting
+318,"19 February 2020, Wednesday",SOL-B1.02-GS,16:00-19:30,Confirmed,BK-20200217-001361,KWONG WEN YING,Student,wykwong.2018@law.smu.edu.sg,AdHoc,meeting
+319,"19 February 2020, Wednesday",SOL-B1.03-GS,09:00-12:00,Confirmed,BK-20200218-000332,NATALIE SHAUNA TAN,Student,natalietan.2019@business.smu.edu.sg,AdHoc,Meeting
+320,"19 February 2020, Wednesday",SOL-B1.03-GS,12:30-13:30,Confirmed,BK-20200219-000454,TAN CHIN WOON JERMANE,Student,jermane.tan.2016@business.smu.edu.sg,Academic,study
+321,"19 February 2020, Wednesday",SOL-B1.03-GS,13:30-15:00,Confirmed,BK-20200210-000556,LOW JIA NA,Student,jnlow.2017@law.smu.edu.sg,AdHoc,study
+322,"19 February 2020, Wednesday",SOL-B1.03-GS,15:00-19:00,Confirmed,BK-20200210-000544,TEO JIA EN,Student,jiaen.teo.2017@law.smu.edu.sg,Academic,WebEx
+323,"19 February 2020, Wednesday",SOL-B1.03-GS,19:30-22:30,Confirmed,BK-20200219-000851,PRISCILLA LER MIN JIA,Student,mjler.2018@business.smu.edu.sg,AdHoc,meeting
+324,"19 February 2020, Wednesday",SOL-B1.04-GS,11:30-15:30,Confirmed,BK-20200205-000201,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+325,"19 February 2020, Wednesday",SOL-B1.04-GS,16:00-20:00,Confirmed,BK-20200205-000205,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+326,"19 February 2020, Wednesday",SOL-B1.05-GS,11:30-15:30,Confirmed,BK-20200213-001050,CHEW CHU GEK,Student,chugek.chew.2019@economics.smu.edu.sg,AdHoc,Study
+327,"19 February 2020, Wednesday",SOL-B1.05-GS,15:30-18:30,Confirmed,BK-20200210-000594,CHAN XIN YI AMANDA,Student,amanda.chan.2018@accountancy.smu.edu.sg,AdHoc,work
+328,"19 February 2020, Wednesday",SOL-B1.05-GS,18:30-21:30,Confirmed,BK-20200212-000815,LEE MIN HUI,Student,minhui.lee.2018@sis.smu.edu.sg,AdHoc,meeting
+329,"19 February 2020, Wednesday",SOL-B1.06-GS,09:30-13:30,Confirmed,BK-20200215-000515,ALAN TAN YU XIANG,Student,alan.tan.2019@accountancy.smu.edu.sg,AdHoc,MEETING
+330,"19 February 2020, Wednesday",SOL-B1.06-GS,13:30-15:30,Confirmed,BK-20200217-000230,LAM WENG TIM,Student,wengtim.lam.2017@economics.smu.edu.sg,AdHoc,dced
+331,"19 February 2020, Wednesday",SOL-B1.06-GS,15:30-19:30,Confirmed,BK-20200205-000043,DELVIN INDRATJUATJA,Student,delvini.2018@accountancy.smu.edu.sg,AdHoc,Study
+332,"19 February 2020, Wednesday",SOL-B1.06-GS,19:30-22:30,Confirmed,BK-20200205-000335,YAP HAO YEUN,Student,hyyap.2018@accountancy.smu.edu.sg,AdHoc,study
+333,"19 February 2020, Wednesday",SOL-B1.07-GS,08:30-12:30,Confirmed,BK-20200212-000660,VICTOR TANG,Student,victor.tang.2017@law.smu.edu.sg,AdHoc,eptl
+334,"19 February 2020, Wednesday",SOL-B1.07-GS,12:30-16:30,Confirmed,BK-20200212-000875,YU YILING_LKCSB,Student,yiling.yu.2018@business.smu.edu.sg,AdHoc,meeting
+335,"19 February 2020, Wednesday",SOL-B1.07-GS,16:30-18:00,Confirmed,BK-20200218-000800,"LYU, XIAOWEI",Student,xiaowei.lyu.2017@sis.smu.edu.sg,AdHoc,interview
+336,"19 February 2020, Wednesday",SOL-B1.07-GS,19:00-22:00,Confirmed,BK-20200218-000152,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Study
+337,"19 February 2020, Wednesday",SOL-B1.08-GS,10:00-11:30,Confirmed,BK-20200218-001224,"TAY JIA YI, PESDY",Student,pesdy.tay.2016@law.smu.edu.sg,AdHoc,ETPL
+338,"19 February 2020, Wednesday",SOL-B1.08-GS,11:30-15:30,Confirmed,BK-20200215-000370,DESIREE CHONG CI EN,Student,cechong.2019@law.smu.edu.sg,AdHoc,Study
+339,"19 February 2020, Wednesday",SOL-B1.08-GS,15:30-19:00,Confirmed,BK-20200205-000387,DEAN CHUA HONG GIAP,Student,dean.chua.2017@accountancy.smu.edu.sg,AdHoc,study
+340,"19 February 2020, Wednesday",SOL-B1.08-GS,19:00-22:00,Confirmed,BK-20200219-000712,LE VAN TUAN LONG,Student,tllevan.2016@sis.smu.edu.sg,AdHoc,meeting
+341,"19 February 2020, Wednesday",SOL-B1.10-GS,12:30-16:30,Confirmed,BK-20200213-000635,LIM YU YING,Student,yuying.lim.2018@economics.smu.edu.sg,AdHoc,meet
+342,"19 February 2020, Wednesday",SOL-B1.10-GS,16:30-19:30,Confirmed,BK-20200219-000679,ADEL ZAID HAMZAH,Student,adelhamzah.2019@law.smu.edu.sg,AdHoc,study
+343,"19 February 2020, Wednesday",SOL-B1.11-GS,11:30-13:00,Confirmed,BK-20200218-000530,TRICIA LEE YU YING,Student,tricia.lee.2016@economics.smu.edu.sg,AdHoc,-
+344,"19 February 2020, Wednesday",SOL-B1.11-GS,13:00-16:00,Confirmed,BK-20200211-000157,TIMOTHY KONG WEI JIE,Student,timothykong.2016@economics.smu.edu.sg,Academic,Meeting
+345,"19 February 2020, Wednesday",SOL-B1.11-GS,16:00-19:30,Confirmed,BK-20200215-000375,ANG QI AN,Student,qian.ang.2019@law.smu.edu.sg,AdHoc,meeting
+346,"19 February 2020, Wednesday",SOL-B1.12-GS,11:30-15:30,Confirmed,BK-20200205-000023,HSU-ANNE CHOO SHA LING,Student,hsuannechoo.2017@law.smu.edu.sg,AdHoc,study
+347,"19 February 2020, Wednesday",SOL-B1.12-GS,15:30-19:00,Confirmed,BK-20200206-000406,DARRYL CHUA WEN XUAN,Student,darryl.chua.2019@economics.smu.edu.sg,AdHoc,Study
+348,"19 February 2020, Wednesday",SOL-B1.12-GS,19:00-22:30,Confirmed,BK-20200219-000520,DOMINIC LEE WEN JIE,Student,dominic.lee.2019@business.smu.edu.sg,AdHoc,Meeting
+349,"18 February 2020, Tuesday",SOL-2.07-GS,11:00-15:00,Confirmed,BK-20200204-000368,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+350,"18 February 2020, Tuesday",SOL-2.07-GS,15:00-18:30,Confirmed,BK-20200216-000297,JOHN LOH,Student,john.loh.2018@law.smu.edu.sg,AdHoc,Presentation
+351,"18 February 2020, Tuesday",SOL-2.07-GS,19:00-22:30,Confirmed,BK-20200204-000519,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+352,"18 February 2020, Tuesday",SOL-2.08-GS,12:00-16:00,Confirmed,BK-20200214-000542,DEREK LIM WEI LIANG,Student,derek.lim.2017@business.smu.edu.sg,AdHoc,Meeting
+353,"18 February 2020, Tuesday",SOL-2.08-GS,16:00-19:00,Confirmed,BK-20200217-000362,LAM WENG TIM,Student,wengtim.lam.2017@economics.smu.edu.sg,AdHoc,study
+354,"18 February 2020, Tuesday",SOL-2.12-GS,11:30-15:30,Confirmed,BK-20200214-000640,MARKUS TAN YI HENG,Student,markus.tan.2018@economics.smu.edu.sg,AdHoc,World domination
+355,"18 February 2020, Tuesday",SOL-2.12-GS,15:30-19:30,Confirmed,BK-20200210-001069,KOH YI WEN,Student,yiwen.koh.2018@jd.smu.edu.sg,AdHoc,Research
+356,"18 February 2020, Tuesday",SOL-2.13-GS,12:00-15:30,Confirmed,BK-20200204-000471,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+357,"18 February 2020, Tuesday",SOL-2.13-GS,15:30-18:30,Confirmed,BK-20200217-000354,LOK SHU SHEN,Student,shushen.lok.2017@socsc.smu.edu.sg,AdHoc,-
+358,"18 February 2020, Tuesday",SOL-2.13-GS,19:00-22:00,Confirmed,BK-20200217-001431,TAN KOK WAH JOHNATHAN,Student,kwtan.2017@sis.smu.edu.sg,AdHoc,stdy
+359,"18 February 2020, Tuesday",SOL-2.14-GS,11:30-13:30,Confirmed,BK-20191216-000156,David DING,Faculty,DAVIDDING@SMU.EDU.SG,Academic,Student consultation
+360,"18 February 2020, Tuesday",SOL-2.14-GS,13:30-15:30,Confirmed,BK-20191220-000263,David DING,Faculty,DAVIDDING@SMU.EDU.SG,Academic,Student consultation
+361,"18 February 2020, Tuesday",SOL-2.14-GS,15:30-18:00,Confirmed,BK-20200217-000614,TAN KENG KEONG,Student,kktan.2019@accountancy.smu.edu.sg,AdHoc,study
+362,"18 February 2020, Tuesday",SOL-2.14-GS,18:00-22:00,Confirmed,BK-20200204-000536,GEORGE KEE JIA MING,Student,george.kee.2019@business.smu.edu.sg,Academic,Study
+363,"18 February 2020, Tuesday",SOL-3.03-GS,12:00-15:00,Confirmed,BK-20200214-000983,KOH CHUN HOE ALEX,Student,alex.koh.2018@business.smu.edu.sg,AdHoc,meetiang
+364,"18 February 2020, Tuesday",SOL-3.03-GS,15:00-18:00,Confirmed,BK-20200217-000094,SOH KIAN PENG,Student,kianpengsoh.2017@law.smu.edu.sg,AdHoc,CCJC
+365,"18 February 2020, Tuesday",SOL-3.04-GS,10:00-12:30,Confirmed,BK-20200217-001000,SAMANTHA WANDA GOH MARTIN,Student,samanthagoh.2020@mba.smu.edu.sg,Academic,Meeting
+366,"18 February 2020, Tuesday",SOL-3.04-GS,12:30-15:30,Confirmed,BK-20200211-000081,"TAN JIAN MING, GERALD",Student,gerald.tan.2017@economics.smu.edu.sg,Academic,study
+367,"18 February 2020, Tuesday",SOL-3.04-GS,15:30-19:30,Confirmed,BK-20200217-000393,"ONG XIN WEI, LYDON",Student,lydon.ong.2018@business.smu.edu.sg,AdHoc,meeting
+368,"18 February 2020, Tuesday",SOL-3.05-GS,08:30-12:00,Confirmed,BK-20200213-000645,ONG HONG YANG,Student,hyong.2019@sis.smu.edu.sg,AdHoc,Meeting
+369,"18 February 2020, Tuesday",SOL-3.05-GS,12:00-16:00,Confirmed,BK-20200209-000340,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+370,"18 February 2020, Tuesday",SOL-3.05-GS,16:00-20:00,Confirmed,BK-20200209-000344,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+371,"18 February 2020, Tuesday",SOL-3.06-GS,09:30-13:30,Confirmed,BK-20200216-000364,JONATHAN MING AUYONG DORNEL,Student,jdornel.2019@sis.smu.edu.sg,AdHoc,Meeting with Programming Club
+372,"18 February 2020, Tuesday",SOL-3.06-GS,13:30-17:30,Confirmed,BK-20200204-000235,LEONARD WEE ZHI,Student,leonardwee.2016@business.smu.edu.sg,Academic,Meeting
+373,"18 February 2020, Tuesday",SOL-3.06-GS,17:30-21:30,Confirmed,BK-20200216-000400,YONG HWEE SHI,Student,hsyong.2019@economics.smu.edu.sg,AdHoc,study
+374,"18 February 2020, Tuesday",SOL-3.07-GS,12:30-16:30,Confirmed,BK-20200204-000239,ZHAO YUCHEN,Student,yuchen.zhao.2016@law.smu.edu.sg,AdHoc,Meeting
+375,"18 February 2020, Tuesday",SOL-3.07-GS,16:30-20:30,Confirmed,BK-20200217-000462,OOI DAI JING,Student,daijing.ooi.2020@mm.smu.edu.sg,Academic,Group Assignment
+376,"18 February 2020, Tuesday",SOL-3.08-GS,11:00-15:00,Confirmed,BK-20200213-000362,GOH JIA JUN BENJAMIN,Student,benjamingoh.2019@business.smu.edu.sg,AdHoc,Study
+377,"18 February 2020, Tuesday",SOL-3.08-GS,15:30-19:00,Confirmed,BK-20200217-000656,CHELSEY TAN JIE MIN,Student,chelsey.tan.2018@business.smu.edu.sg,AdHoc,MC Lesson
+378,"18 February 2020, Tuesday",SOL-B1.02-GS,12:00-15:00,Confirmed,BK-20200214-000401,"LIM JIA YAN, JESLENE",Student,jeslene.lim.2017@business.smu.edu.sg,AdHoc,meeting
+379,"18 February 2020, Tuesday",SOL-B1.02-GS,15:30-19:30,Confirmed,BK-20200204-001206,VICTOR TANG,Student,victor.tang.2017@law.smu.edu.sg,AdHoc,study
+380,"18 February 2020, Tuesday",SOL-B1.03-GS,11:30-14:00,Confirmed,BK-20200215-000485,TEO KE YING PHYLLIS,Student,phyllis.teo.2018@business.smu.edu.sg,AdHoc,meeting
+381,"18 February 2020, Tuesday",SOL-B1.03-GS,14:00-18:00,Confirmed,BK-20200214-000095,"GOH JIA XIONG, BRANDON",Student,brandon.goh.2018@economics.smu.edu.sg,AdHoc,study
+382,"18 February 2020, Tuesday",SOL-B1.03-GS,18:30-21:30,Confirmed,BK-20200217-001443,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,STUDY
+383,"18 February 2020, Tuesday",SOL-B1.04-GS,10:30-14:30,Confirmed,BK-20200204-000079,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+384,"18 February 2020, Tuesday",SOL-B1.04-GS,15:00-19:00,Confirmed,BK-20200204-000117,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+385,"18 February 2020, Tuesday",SOL-B1.05-GS,10:30-12:00,Confirmed,BK-20200218-000086,"PECK HUI YEE, MINDY",Student,mindy.peck.2018@business.smu.edu.sg,AdHoc,meeting
+386,"18 February 2020, Tuesday",SOL-B1.05-GS,12:00-15:30,Confirmed,BK-20200204-000124,TEOW WEE KEE,Student,weekee.teow.2017@socsc.smu.edu.sg,AdHoc,Study
+387,"18 February 2020, Tuesday",SOL-B1.05-GS,15:30-19:30,Confirmed,BK-20200213-000464,"ANG YUN SUM, JERICA",Student,jerica.ang.2019@sis.smu.edu.sg,AdHoc,cri
+388,"18 February 2020, Tuesday",SOL-B1.05-GS,19:30-22:00,Confirmed,BK-20200217-001400,BRANDON TAN JUN DA,Student,brandontan.2019@business.smu.edu.sg,AdHoc,-
+389,"18 February 2020, Tuesday",SOL-B1.06-GS,09:00-11:30,Confirmed,BK-20200213-000536,LEVI TAN YI JIE,Student,levi.tan.2018@accountancy.smu.edu.sg,AdHoc,singing sad song
+390,"18 February 2020, Tuesday",SOL-B1.06-GS,11:30-14:00,Confirmed,BK-20200204-000131,YAP HAO YEUN,Student,hyyap.2018@accountancy.smu.edu.sg,AdHoc,Study
+391,"18 February 2020, Tuesday",SOL-B1.06-GS,14:00-15:30,Confirmed,BK-20200216-000462,LOW KAI MIN ANISA,Student,anisa.low.2019@law.smu.edu.sg,AdHoc,Project
+392,"18 February 2020, Tuesday",SOL-B1.06-GS,15:30-19:30,Confirmed,BK-20200204-000055,DELVIN INDRATJUATJA,Student,delvini.2018@accountancy.smu.edu.sg,AdHoc,Study
+393,"18 February 2020, Tuesday",SOL-B1.07-GS,11:30-15:30,Confirmed,BK-20200209-000427,CHOW LI TING,Student,liting.chow.2016@sis.smu.edu.sg,AdHoc,Meeting
+394,"18 February 2020, Tuesday",SOL-B1.07-GS,15:30-19:00,Confirmed,BK-20200216-000459,NICOLE NG NING XUAN,Student,nicole.ng.2019@law.smu.edu.sg,AdHoc,grp project
+395,"18 February 2020, Tuesday",SOL-B1.07-GS,19:00-21:00,Confirmed,BK-20200217-000077,WONG QUAN YONG,Student,qywong.2018@socsc.smu.edu.sg,AdHoc,group meeting
+396,"18 February 2020, Tuesday",SOL-B1.08-GS,12:00-15:30,Confirmed,BK-20200211-000164,QUEENA TAN,Student,queena.tan.2018@economics.smu.edu.sg,AdHoc,Meeting
+397,"18 February 2020, Tuesday",SOL-B1.08-GS,15:30-18:30,Confirmed,BK-20200216-000360,TIMOTHY KONG WEI JIE,Student,timothykong.2016@economics.smu.edu.sg,Academic,Meeting
+398,"18 February 2020, Tuesday",SOL-B1.08-GS,18:30-22:00,Confirmed,BK-20200218-000104,SOH ZI XIN CLARA,Student,clara.soh.2018@business.smu.edu.sg,AdHoc,-
+399,"18 February 2020, Tuesday",SOL-B1.10-GS,11:30-14:00,Confirmed,BK-20200214-000069,VERA QUAH LI QI,Student,vera.quah.2019@law.smu.edu.sg,AdHoc,study
+400,"18 February 2020, Tuesday",SOL-B1.10-GS,14:00-18:00,Confirmed,BK-20200218-000534,SIM ZHI QI ODESSA,Student,odessa.sim.2017@business.smu.edu.sg,Academic,study
+401,"18 February 2020, Tuesday",SOL-B1.11-GS,11:30-15:30,Confirmed,BK-20200212-001360,BRANDON JIAN-GUO CHEW,Student,brandonchew.2019@law.smu.edu.sg,AdHoc,lol
+402,"18 February 2020, Tuesday",SOL-B1.11-GS,16:30-20:00,Confirmed,BK-20200216-000182,"SEE CHAI KIAT, JANE",Student,jane.see.2019@law.smu.edu.sg,AdHoc,study
+403,"18 February 2020, Tuesday",SOL-B1.12-GS,08:30-12:00,Confirmed,BK-20200215-000518,HUANG ZIXIAN,Student,zxhuang.2016@law.smu.edu.sg,AdHoc,fun
+404,"18 February 2020, Tuesday",SOL-B1.12-GS,12:00-15:30,Confirmed,BK-20200204-000067,"WAH KAI LIN, KELLY",Student,kelly.wah.2016@law.smu.edu.sg,AdHoc,meeting
+405,"18 February 2020, Tuesday",SOL-B1.12-GS,15:30-19:00,Confirmed,BK-20200213-000333,BONNITA LEMAN,Student,bleman.2016@law.smu.edu.sg,AdHoc,eqt
+406,"18 February 2020, Tuesday",SOL-B1.12-GS,19:00-22:00,Confirmed,BK-20200205-000034,ANG PING CHYI,Student,pcang.2018@accountancy.smu.edu.sg,AdHoc,study
+407,"17 February 2020, Monday",SOL-2.07-GS,12:30-16:30,Confirmed,BK-20200203-000715,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+408,"17 February 2020, Monday",SOL-2.07-GS,17:00-21:00,Confirmed,BK-20200204-000516,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+409,"17 February 2020, Monday",SOL-2.08-GS,12:30-15:30,Confirmed,BK-20200217-000289,DARSHAN MARC JAGDESH CHUGANI,Student,djchugani.2016@socsc.smu.edu.sg,Academic,acadmeic projecy
+410,"17 February 2020, Monday",SOL-2.08-GS,15:30-19:00,Confirmed,BK-20200213-000473,DONOVAN TEO KAI SIANG,Student,donovan.teo.2019@business.smu.edu.sg,AdHoc,Group study
+411,"17 February 2020, Monday",SOL-2.08-GS,19:30-21:30,Confirmed,BK-20200217-001291,AL FARIED YUSRI BIN YUSOFF,Student,alfariedy.2016@sis.smu.edu.sg,Academic,Group meeting
+412,"17 February 2020, Monday",SOL-2.12-GS,12:00-16:00,Confirmed,BK-20200203-000165,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+413,"17 February 2020, Monday",SOL-2.12-GS,16:00-18:00,Confirmed,BK-20200214-000730,AMULYA GAMANE,Student,amulyag.2017@business.smu.edu.sg,AdHoc,interview
+414,"17 February 2020, Monday",SOL-2.12-GS,18:00-20:30,Confirmed,BK-20200217-000529,BOON YONG XIN RACHAEL,Student,rachaelboon.2018@jd.smu.edu.sg,AdHoc,work
+415,"17 February 2020, Monday",SOL-2.13-GS,08:30-12:00,Confirmed,BK-20200213-000426,LIEW WEI YI FELICIA,Student,felicialiew.2017@business.smu.edu.sg,AdHoc,proj
+416,"17 February 2020, Monday",SOL-2.13-GS,13:00-17:00,Confirmed,BK-20200204-000657,"GOH JUNN HIAN, OSBERT",Student,osbert.goh.2019@business.smu.edu.sg,AdHoc,study
+417,"17 February 2020, Monday",SOL-2.13-GS,17:00-19:00,Confirmed,BK-20200217-000790,CHIA HSIM YI,Student,hsimyi.chia.2019@economics.smu.edu.sg,AdHoc,meeting
+418,"17 February 2020, Monday",SOL-2.14-GS,12:00-14:00,Confirmed,BK-20191216-000170,David DING,Faculty,DAVIDDING@SMU.EDU.SG,Academic,Student consultation
+419,"17 February 2020, Monday",SOL-2.14-GS,14:00-15:30,Confirmed,BK-20200216-000559,BONADOR SHAYNE ADELINE BUNYI,Student,sabonador.2018@business.smu.edu.sg,AdHoc,proj
+420,"17 February 2020, Monday",SOL-2.14-GS,16:00-20:00,Confirmed,BK-20200203-000184,GEORGE KEE JIA MING,Student,george.kee.2019@business.smu.edu.sg,Academic,study
+421,"17 February 2020, Monday",SOL-3.03-GS,10:00-14:00,Confirmed,BK-20200215-000349,TEO MIN SI,Student,minsi.teo.2017@sis.smu.edu.sg,AdHoc,study
+422,"17 February 2020, Monday",SOL-3.03-GS,14:00-15:00,Confirmed,BK-20200217-000349,OH KAH YIN JASMINE,Student,jasmine.oh.2016@business.smu.edu.sg,AdHoc,meeting
+423,"17 February 2020, Monday",SOL-3.03-GS,15:30-16:00,Confirmed,BK-20200215-000319,BOON GUO JING,Student,gjboon.2018@business.smu.edu.sg,AdHoc,Study
+424,"17 February 2020, Monday",SOL-3.03-GS,16:00-18:00,Confirmed,BK-20200211-000525,AW JIE YING,Student,jieying.aw.2019@accountancy.smu.edu.sg,Academic,study
+425,"17 February 2020, Monday",SOL-3.03-GS,19:00-21:00,Confirmed,BK-20200214-000277,BENJAMIN LIOW JUN MUN,Student,jmliow.2019@law.smu.edu.sg,AdHoc,Meeting
+426,"17 February 2020, Monday",SOL-3.04-GS,11:30-12:30,Confirmed,BK-20200210-001148,"CHOY CHENG MUN, MEGAN",Student,megan.choy.2018@socsc.smu.edu.sg,Academic,Meeting
+427,"17 February 2020, Monday",SOL-3.04-GS,12:30-14:30,Confirmed,BK-20200216-000454,"LEK JAN YEE, LOIS",Student,lois.lek.2018@sis.smu.edu.sg,AdHoc,Meeting
+428,"17 February 2020, Monday",SOL-3.04-GS,14:30-18:30,Confirmed,BK-20200212-001370,ONG HUI FEN,Student,huifen.ong.2018@business.smu.edu.sg,AdHoc,study
+429,"17 February 2020, Monday",SOL-3.05-GS,08:30-12:30,Confirmed,BK-20200213-000195,STEPHEN PANG QING YANG,Student,stephenpang.2019@sis.smu.edu.sg,AdHoc,study
+430,"17 February 2020, Monday",SOL-3.05-GS,12:30-16:30,Confirmed,BK-20200209-000331,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+431,"17 February 2020, Monday",SOL-3.05-GS,16:30-20:30,Confirmed,BK-20200209-000336,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+432,"17 February 2020, Monday",SOL-3.06-GS,09:30-13:30,Confirmed,BK-20200203-000125,RAJAGOPAL MURALITHARAN,Student,rajagopalm.2018@jd.smu.edu.sg,AdHoc,Meeting
+433,"17 February 2020, Monday",SOL-3.06-GS,13:30-17:30,Confirmed,BK-20200203-000072,KOH YI WEN,Student,yiwen.koh.2018@jd.smu.edu.sg,AdHoc,Research
+434,"17 February 2020, Monday",SOL-3.06-GS,17:30-21:30,Confirmed,BK-20200216-000504,"WHANG YIXUAN, RENNIE",Student,renniewhang.2016@jd.smu.edu.sg,Academic,meeting
+435,"17 February 2020, Monday",SOL-3.07-GS,12:00-15:30,Confirmed,BK-20200204-000227,ZHAO YUCHEN,Student,yuchen.zhao.2016@law.smu.edu.sg,AdHoc,Meeting
+436,"17 February 2020, Monday",SOL-3.07-GS,15:30-19:00,Confirmed,BK-20200209-000019,TREVOR KU WEE JEK,Student,trevor.ku.2019@law.smu.edu.sg,AdHoc,study
+437,"17 February 2020, Monday",SOL-3.08-GS,12:00-16:00,Confirmed,BK-20200210-000761,ANG MI YAO,Student,miyao.ang.2017@business.smu.edu.sg,AdHoc,study
+438,"17 February 2020, Monday",SOL-3.08-GS,16:00-17:30,Confirmed,BK-20200216-000419,ATHENA SU-HUI MANIAM,Student,amaniam.2016@law.smu.edu.sg,AdHoc,meeting
+439,"17 February 2020, Monday",SOL-B1.02-GS,12:00-16:00,Confirmed,BK-20200210-001158,LIM ZHI HAO,Student,zhihao.lim.2019@sis.smu.edu.sg,AdHoc,meeting
+440,"17 February 2020, Monday",SOL-B1.02-GS,16:00-20:00,Confirmed,BK-20200210-001161,CHEONG KAI YANG CAIUS,Student,caiuscheong.2019@business.smu.edu.sg,Academic,Meeting
+441,"17 February 2020, Monday",SOL-B1.03-GS,10:00-14:00,Confirmed,BK-20200208-000177,"AOW ZONG HAN, AMOS ANTHONY",Student,amos.aow.2019@law.smu.edu.sg,AdHoc,study
+442,"17 February 2020, Monday",SOL-B1.03-GS,14:00-18:00,Confirmed,BK-20200213-000469,NATALIE SHAUNA TAN,Student,natalietan.2019@business.smu.edu.sg,AdHoc,Meeting
+443,"17 February 2020, Monday",SOL-B1.03-GS,18:00-22:00,Confirmed,BK-20200213-000474,"QIU ZIYUN, JOANNA",Student,joanna.qiu.2019@law.smu.edu.sg,AdHoc,meetingz
+444,"17 February 2020, Monday",SOL-B1.04-GS,10:30-14:30,Confirmed,BK-20200203-001156,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+445,"17 February 2020, Monday",SOL-B1.04-GS,15:00-19:00,Confirmed,BK-20200203-001157,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+446,"17 February 2020, Monday",SOL-B1.05-GS,10:00-14:00,Confirmed,BK-20200203-000845,"ANG YUN SUM, JERICA",Student,jerica.ang.2019@sis.smu.edu.sg,AdHoc,study
+447,"17 February 2020, Monday",SOL-B1.05-GS,14:00-18:00,Confirmed,BK-20200203-000850,XIN YI DUSADIDECHO,Student,dusadidecho.2019@sis.smu.edu.sg,AdHoc,cry until rice become porridge
+448,"17 February 2020, Monday",SOL-B1.05-GS,18:30-21:30,Confirmed,BK-20200217-000274,TSANG BAO XIAN,Student,bxtsang.2018@sis.smu.edu.sg,AdHoc,meeting
+449,"17 February 2020, Monday",SOL-B1.06-GS,09:30-13:30,Confirmed,BK-20200213-000515,LOW KAI MIN ANISA,Student,anisa.low.2019@law.smu.edu.sg,AdHoc,project
+450,"17 February 2020, Monday",SOL-B1.06-GS,13:30-15:30,Confirmed,BK-20200213-000991,YAP HAO YEUN,Student,hyyap.2018@accountancy.smu.edu.sg,AdHoc,Study
+451,"17 February 2020, Monday",SOL-B1.06-GS,15:30-19:30,Confirmed,BK-20200203-000073,DELVIN INDRATJUATJA,Student,delvini.2018@accountancy.smu.edu.sg,AdHoc,Study
+452,"17 February 2020, Monday",SOL-B1.06-GS,19:30-21:30,Confirmed,BK-20200217-000912,VERA QUAH LI QI,Student,vera.quah.2019@law.smu.edu.sg,AdHoc,study
+453,"17 February 2020, Monday",SOL-B1.07-GS,11:00-15:00,Confirmed,BK-20200217-000086,MUHAMMAD 'AFIF BIN KAMARI,Student,mafif.2018@economics.smu.edu.sg,AdHoc,study
+454,"17 February 2020, Monday",SOL-B1.07-GS,15:30-19:30,Confirmed,BK-20200205-000032,MARCUS CHIANG TING ERN,Student,techiang.2017@business.smu.edu.sg,AdHoc,work
+455,"17 February 2020, Monday",SOL-B1.08-GS,13:30-16:00,Confirmed,BK-20200217-000190,"CHIA HAN XUAN, SHAUN",Student,shaun.chia.2019@business.smu.edu.sg,AdHoc,meeting
+456,"17 February 2020, Monday",SOL-B1.08-GS,16:00-18:00,Confirmed,BK-20200217-000283,MOHAMMAD FARID BIN MOHAMMAD,Student,faridm.2018@business.smu.edu.sg,Academic,Meeting
+457,"17 February 2020, Monday",SOL-B1.08-GS,19:00-22:00,Confirmed,BK-20200213-000020,JESSLYN KOH J-TING,Student,jesslynkoh.2016@law.smu.edu.sg,AdHoc,meeting
+458,"17 February 2020, Monday",SOL-B1.10-GS,11:00-15:00,Confirmed,BK-20200212-001296,TIMOTHY KONG WEI JIE,Student,timothykong.2016@economics.smu.edu.sg,Academic,Meeting
+459,"17 February 2020, Monday",SOL-B1.10-GS,15:30-19:00,Confirmed,BK-20200216-000276,CHOW RUI PING DEXTER,Student,dexter.chow.2018@law.smu.edu.sg,Academic,Eptl
+460,"17 February 2020, Monday",SOL-B1.10-GS,19:00-21:30,Confirmed,BK-20200217-000977,ELIZABETH WEE KAI LIN,Student,klwee.2017@business.smu.edu.sg,AdHoc,meeting
+461,"17 February 2020, Monday",SOL-B1.11-GS,12:00-15:30,Confirmed,BK-20200210-000985,AU XUE QI VANESSA,Student,vanessa.au.2018@sis.smu.edu.sg,AdHoc,proj
+462,"17 February 2020, Monday",SOL-B1.11-GS,15:30-19:00,Confirmed,BK-20200216-000516,JUSTIN LOO,Student,justin.loo.2017@business.smu.edu.sg,AdHoc,Meeting
+463,"17 February 2020, Monday",SOL-B1.11-GS,19:30-22:30,Confirmed,BK-20200217-001058,"CHIOH CHENG DA, MARCUS",Student,marcuschioh.2018@business.smu.edu.sg,AdHoc,Meeting
+464,"17 February 2020, Monday",SOL-B1.12-GS,11:00-15:00,Confirmed,BK-20200203-000227,FOO ZHI WEI,Student,zhiwei.foo.2015@law.smu.edu.sg,AdHoc,study
+465,"17 February 2020, Monday",SOL-B1.12-GS,15:30-19:30,Confirmed,BK-20200203-000083,"WAH KAI LIN, KELLY",Student,kelly.wah.2016@law.smu.edu.sg,AdHoc,meeting
+466,"16 February 2020, Sunday",SOL-2.07-GS,09:30-12:30,Confirmed,BK-20200202-000383,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+467,"16 February 2020, Sunday",SOL-2.07-GS,13:00-17:00,Confirmed,BK-20200202-000381,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+468,"16 February 2020, Sunday",SOL-2.12-GS,11:30-15:00,Confirmed,BK-20200215-000431,KOH RU HUI,Student,ruhui.koh.2019@law.smu.edu.sg,AdHoc,meeting
+469,"16 February 2020, Sunday",SOL-2.13-GS,12:00-16:00,Confirmed,BK-20200216-000060,MARCUS GOH JUN CHEONG,Student,marcus.goh.2019@sis.smu.edu.sg,AdHoc,study
+470,"16 February 2020, Sunday",SOL-2.14-GS,12:00-16:00,Confirmed,BK-20200213-000708,TAN KOK WAH JOHNATHAN,Student,kwtan.2017@sis.smu.edu.sg,AdHoc,study
+471,"16 February 2020, Sunday",SOL-3.04-GS,13:30-16:30,Confirmed,BK-20200216-000157,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Study
+472,"16 February 2020, Sunday",SOL-3.05-GS,13:00-17:00,Confirmed,BK-20200209-000333,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+473,"16 February 2020, Sunday",SOL-3.06-GS,13:00-17:00,Confirmed,BK-20200216-000090,THI HA THET TIN,Student,ththettin.2019@sis.smu.edu.sg,AdHoc,Study
+474,"16 February 2020, Sunday",SOL-B1.02-GS,14:00-17:00,Confirmed,BK-20200212-000869,YU YILING_LKCSB,Student,yiling.yu.2018@business.smu.edu.sg,AdHoc,meeting
+475,"16 February 2020, Sunday",SOL-B1.03-GS,13:30-17:00,Confirmed,BK-20200216-000152,TAN WEI YOONG BRYAN,Student,wytan.2017@sis.smu.edu.sg,AdHoc,Meeting
+476,"16 February 2020, Sunday",SOL-B1.04-GS,11:00-15:00,Confirmed,BK-20200210-000875,BRANDON TAN JUN DA,Student,brandontan.2019@business.smu.edu.sg,AdHoc,-
+477,"16 February 2020, Sunday",SOL-B1.04-GS,15:00-17:00,Confirmed,BK-20200210-000906,"ANG YUN SUM, JERICA",Student,jerica.ang.2019@sis.smu.edu.sg,AdHoc,bff
+478,"16 February 2020, Sunday",SOL-B1.05-GS,13:30-17:00,Confirmed,BK-20200216-000092,"TAY JIA YI, PESDY",Student,pesdy.tay.2016@law.smu.edu.sg,AdHoc,study
+479,"16 February 2020, Sunday",SOL-B1.06-GS,09:00-12:30,Confirmed,BK-20200216-000027,JEMIMA HOLLY ANG SIANG NING,Student,jemimaang.2018@law.smu.edu.sg,AdHoc,lol
+480,"16 February 2020, Sunday",SOL-B1.06-GS,13:00-17:00,Confirmed,BK-20200211-000053,"NG YU HONG, TREVOR",Student,trevor.ng.2018@sis.smu.edu.sg,AdHoc,asd
+481,"16 February 2020, Sunday",SOL-B1.07-GS,13:00-17:00,Confirmed,BK-20200216-000077,AISYAH AMAN ALJUNIED,Student,aaaljunied.2018@business.smu.edu.sg,AdHoc,study
+482,"16 February 2020, Sunday",SOL-B1.08-GS,12:00-16:00,Confirmed,BK-20200215-000312,TOO HUI WEN,Student,huiwen.too.2017@socsc.smu.edu.sg,AdHoc,Meeting
+483,"16 February 2020, Sunday",SOL-B1.10-GS,13:30-17:00,Confirmed,BK-20200216-000143,JOSHUA CHIA HAN SHENG,Student,joshua.chia.2019@law.smu.edu.sg,AdHoc,study
+484,"16 February 2020, Sunday",SOL-B1.11-GS,10:00-13:00,Confirmed,BK-20200211-001055,RAGHAV CHANDRA MATHUR,Student,rcmathur.2019@maf.smu.edu.sg,Academic,Group Project
+485,"16 February 2020, Sunday",SOL-B1.11-GS,15:00-17:00,Confirmed,BK-20200216-000225,ESTHER THANG HUI LING,Student,estherthang.2016@business.smu.edu.sg,AdHoc,meeting
+486,"16 February 2020, Sunday",SOL-B1.12-GS,13:00-17:00,Confirmed,BK-20200202-000170,GOH NAI YUH,Student,naiyuh.goh.2016@sis.smu.edu.sg,AdHoc,study
+487,"15 February 2020, Saturday",SOL-2.07-GS,10:00-13:00,Confirmed,BK-20200202-000385,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+488,"15 February 2020, Saturday",SOL-2.07-GS,13:00-17:00,Confirmed,BK-20200202-000384,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+489,"15 February 2020, Saturday",SOL-2.08-GS,11:00-14:00,Confirmed,BK-20200214-000645,WU YUNHENG,Student,yunheng.wu.2019@mitb.smu.edu.sg,Academic,Saiyaan
+490,"15 February 2020, Saturday",SOL-2.08-GS,14:00-17:00,Confirmed,BK-20200214-000644,DEXTER TAN,Student,dexter.tan.2019@mitb.smu.edu.sg,Academic,Saiyaan Study Session
+491,"15 February 2020, Saturday",SOL-2.12-GS,12:30-16:30,Confirmed,BK-20200214-000184,"GOH KAI MIN, KENNETH",Student,kenneth.goh.2019@maf.smu.edu.sg,Academic,Fixed income project
+492,"15 February 2020, Saturday",SOL-2.13-GS,12:00-16:00,Confirmed,BK-20200214-000690,CHOW WEN QING,Student,wqchow.2018@law.smu.edu.sg,AdHoc,study
+493,"15 February 2020, Saturday",SOL-2.14-GS,13:00-17:00,Confirmed,BK-20200213-001055,ALVIN SONG ZHILIANG,Student,alvinsong.2018@business.smu.edu.sg,AdHoc,study
+494,"15 February 2020, Saturday",SOL-3.03-GS,14:00-17:00,Confirmed,BK-20200215-000050,"ZHU, KEYU",Student,keyu.zhu.2019@mitb.smu.edu.sg,Academic,study
+495,"15 February 2020, Saturday",SOL-3.04-GS,13:00-17:00,Confirmed,BK-20200215-000053,SHEFFIELD LOK YU CHEN,Student,yclok.2019@sis.smu.edu.sg,AdHoc,work
+496,"15 February 2020, Saturday",SOL-3.05-GS,09:00-13:00,Confirmed,BK-20200207-000099,GOH JIA JUN BENJAMIN,Student,benjamingoh.2019@business.smu.edu.sg,AdHoc,project
+497,"15 February 2020, Saturday",SOL-3.05-GS,13:00-17:00,Confirmed,BK-20200207-000128,TAN CHIUW HSIANG CANDY,Student,candy.tan.2019@accountancy.smu.edu.sg,Academic,group project
+498,"15 February 2020, Saturday",SOL-3.06-GS,13:00-17:00,Confirmed,BK-20200211-000052,"NG YU HONG, TREVOR",Student,trevor.ng.2018@sis.smu.edu.sg,AdHoc,asd
+499,"15 February 2020, Saturday",SOL-3.07-GS,13:00-15:00,Confirmed,BK-20200213-000485,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,MAF midterm
+500,"15 February 2020, Saturday",SOL-3.08-GS,09:00-13:00,Confirmed,BK-20200213-000640,STEPHEN PANG QING YANG,Student,stephenpang.2019@sis.smu.edu.sg,AdHoc,lucy heartfilia
+501,"15 February 2020, Saturday",SOL-3.08-GS,13:00-17:00,Confirmed,BK-20200209-000338,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+502,"15 February 2020, Saturday",SOL-B1.02-GS,11:00-15:00,Confirmed,BK-20200212-000867,YU YILING_LKCSB,Student,yiling.yu.2018@business.smu.edu.sg,AdHoc,meeting
+503,"15 February 2020, Saturday",SOL-B1.03-GS,09:00-13:00,Confirmed,BK-20200208-000258,ANG QI AN,Student,qian.ang.2019@law.smu.edu.sg,AdHoc,Project
+504,"15 February 2020, Saturday",SOL-B1.03-GS,13:00-17:00,Confirmed,BK-20200208-000164,DESIREE CHONG CI EN,Student,cechong.2019@law.smu.edu.sg,AdHoc,Project
+505,"15 February 2020, Saturday",SOL-B1.04-GS,11:00-14:00,Confirmed,BK-20200204-000847,SEAH ZHI YUN CHARLENE,Student,zyseah.2017@law.smu.edu.sg,AdHoc,meeting
+506,"15 February 2020, Saturday",SOL-B1.04-GS,14:00-17:00,Confirmed,BK-20200204-000850,TAY YAN XIA,Student,yanxia.tay.2017@law.smu.edu.sg,AdHoc,die
+507,"15 February 2020, Saturday",SOL-B1.05-GS,10:00-14:00,Confirmed,BK-20200207-000537,"ANG YUN SUM, JERICA",Student,jerica.ang.2019@sis.smu.edu.sg,AdHoc,study
+508,"15 February 2020, Saturday",SOL-B1.05-GS,14:00-17:00,Confirmed,BK-20200207-000561,BRANDON TAN JUN DA,Student,brandontan.2019@business.smu.edu.sg,AdHoc,-
+509,"15 February 2020, Saturday",SOL-B1.06-GS,11:30-15:30,Confirmed,BK-20200201-000084,"TAN HWA QI, VICTORIA",Student,victoriatan.2018@economics.smu.edu.sg,AdHoc,meeting
+510,"15 February 2020, Saturday",SOL-B1.06-GS,15:30-17:00,Confirmed,BK-20200202-000542,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Meeting
+511,"15 February 2020, Saturday",SOL-B1.07-GS,14:30-17:00,Confirmed,BK-20200205-000152,ONG SIEW CHOO,Student,scong.2018@law.smu.edu.sg,AdHoc,bt
+512,"15 February 2020, Saturday",SOL-B1.08-GS,14:00-17:00,Confirmed,BK-20200204-000636,DEBORAH LIM,Student,ltlim.2017@business.smu.edu.sg,AdHoc,Meeting
+513,"15 February 2020, Saturday",SOL-B1.10-GS,13:00-15:00,Confirmed,BK-20200114-000103,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,MAF-quiz
+514,"15 February 2020, Saturday",SOL-B1.11-GS,13:00-15:00,Confirmed,BK-20200114-000104,LIU Simin,Academic Support,smliu@smu.edu.sg,AdHoc,MAF-quiz
+515,"15 February 2020, Saturday",SOL-B1.12-GS,13:00-17:00,Confirmed,BK-20200202-000168,GOH NAI YUH,Student,naiyuh.goh.2016@sis.smu.edu.sg,AdHoc,study
+516,"14 February 2020, Friday",SOL-2.07-GS,08:30-10:30,Confirmed,BK-20200214-000049,WEE SHI XUAN FELICIA,Student,felicia.wee.2019@business.smu.edu.sg,AdHoc,Study
+517,"14 February 2020, Friday",SOL-2.07-GS,12:00-16:00,Confirmed,BK-20200212-000100,NUR SHUKRINA BTE ABDUL SALAM,Student,nurshukrina.2017@law.smu.edu.sg,AdHoc,-
+518,"14 February 2020, Friday",SOL-2.07-GS,16:00-17:30,Confirmed,BK-20200213-000929,ISABEL WONG,Student,isabel.wong.2017@accountancy.smu.edu.sg,AdHoc,MEET
+519,"14 February 2020, Friday",SOL-2.08-GS,12:00-13:00,Confirmed,BK-20200214-000076,MARILYN SIM RUILIN,Student,marilynsim.2019@law.smu.edu.sg,Academic,LRW Consultation
+520,"14 February 2020, Friday",SOL-2.08-GS,13:30-17:30,Confirmed,BK-20200212-001161,ELAINE GOH YING YING,Student,elaine.goh.2019@business.smu.edu.sg,AdHoc,study
+521,"14 February 2020, Friday",SOL-2.12-GS,10:00-12:00,Confirmed,BK-20200213-000679,"LERH GUAN WEI, TERRENCE",Student,gwlerh.2016@law.smu.edu.sg,AdHoc,Meeting
+522,"14 February 2020, Friday",SOL-2.12-GS,13:00-17:00,Confirmed,BK-20200208-000379,LIM YI JIE PHILIP,Student,philip.lim.2018@business.smu.edu.sg,AdHoc,Study
+523,"14 February 2020, Friday",SOL-2.12-GS,17:00-21:00,Confirmed,BK-20200212-000008,ALVIN SONG ZHILIANG,Student,alvinsong.2018@business.smu.edu.sg,AdHoc,study
+524,"14 February 2020, Friday",SOL-2.13-GS,11:00-14:00,Confirmed,BK-20200213-001096,"GAO, HAOTIAN",Student,haotian.gao.2017@business.smu.edu.sg,AdHoc,meeting
+525,"14 February 2020, Friday",SOL-2.13-GS,14:30-18:30,Confirmed,BK-20200204-000477,LAM PIK KEE BIANCA,Student,bianca.lam.2019@accountancy.smu.edu.sg,AdHoc,Study/Meeting
+526,"14 February 2020, Friday",SOL-2.14-GS,10:30-14:30,Confirmed,BK-20200131-000449,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+527,"14 February 2020, Friday",SOL-2.14-GS,15:00-16:00,Confirmed,BK-20200213-000927,JIA QI,Student,qi.jia.2017@business.smu.edu.sg,AdHoc,MEET
+528,"14 February 2020, Friday",SOL-2.14-GS,16:00-20:00,Confirmed,BK-20200131-000018,GEORGE KEE JIA MING,Student,george.kee.2019@business.smu.edu.sg,Academic,Study
+529,"14 February 2020, Friday",SOL-3.03-GS,12:00-13:30,Confirmed,BK-20200213-000940,JOSHUA DANIEL FOO ZU IAN,Student,joshuafoo.2019@jd.smu.edu.sg,Academic,Project
+530,"14 February 2020, Friday",SOL-3.03-GS,13:30-16:30,Confirmed,BK-20200205-000445,"TEO KAY LIANG, ALAN",Student,alan.teo.2019@jd.smu.edu.sg,Academic,LAW102 Presentation Discussion with Professor
+531,"14 February 2020, Friday",SOL-3.04-GS,13:00-17:00,Confirmed,BK-20200212-001293,"CHEN, QIN",Student,qinchen.2020@mba.smu.edu.sg,Academic,study room
+532,"14 February 2020, Friday",SOL-3.04-GS,17:00-21:00,Confirmed,BK-20200214-000074,TAN JIONG HAN,Student,jhtan.2019@law.smu.edu.sg,AdHoc,wrok
+533,"14 February 2020, Friday",SOL-3.05-GS,10:00-10:30,Confirmed,BK-20200212-000239,"SEE CHAI KIAT, JANE",Student,jane.see.2019@law.smu.edu.sg,AdHoc,interview
+534,"14 February 2020, Friday",SOL-3.05-GS,12:00-15:00,Confirmed,BK-20200213-000342,GOH JIA JUN BENJAMIN,Student,benjamingoh.2019@business.smu.edu.sg,AdHoc,Study
+535,"14 February 2020, Friday",SOL-3.05-GS,16:00-19:00,Confirmed,BK-20200213-000355,LEE MENG YONG,Student,mylee.2018@mitb.smu.edu.sg,Academic,Meeting
+536,"14 February 2020, Friday",SOL-3.06-GS,09:30-13:30,Confirmed,BK-20200207-000813,KOH YI WEN,Student,yiwen.koh.2018@jd.smu.edu.sg,AdHoc,Research
+537,"14 February 2020, Friday",SOL-3.06-GS,14:00-17:00,Confirmed,BK-20200211-000653,TAN XIANG JIE,Student,xjtan.2018@economics.smu.edu.sg,AdHoc,mtg
+538,"14 February 2020, Friday",SOL-3.06-GS,17:00-21:00,Confirmed,BK-20200205-000799,CHOW WEN QING,Student,wqchow.2018@law.smu.edu.sg,AdHoc,study
+539,"14 February 2020, Friday",SOL-3.07-GS,09:00-12:00,Confirmed,BK-20200213-000465,WOON JIE MIN,Student,jiemin.woon.2018@business.smu.edu.sg,AdHoc,interview
+540,"14 February 2020, Friday",SOL-3.07-GS,12:00-14:00,Confirmed,BK-20200213-000998,"THO SHU TING, BELINDA",Student,belinda.tho.2017@sis.smu.edu.sg,AdHoc,meeting
+541,"14 February 2020, Friday",SOL-3.07-GS,14:30-15:30,Confirmed,BK-20200214-000470,DEXTER TAN,Student,dexter.tan.2019@mitb.smu.edu.sg,Academic,Saiyaan Meeting DAL
+542,"14 February 2020, Friday",SOL-3.07-GS,15:30-19:30,Confirmed,BK-20200213-000070,JORDAN CORNELIUS ONG JUN HEAN,Student,jordanong.2017@economics.smu.edu.sg,AdHoc,drowning in tears
+543,"14 February 2020, Friday",SOL-3.07-GS,19:30-22:30,Confirmed,BK-20200213-000072,KYLIE QUEK HAN XIN,Student,kylie.quek.2019@business.smu.edu.sg,AdHoc,Studying
+544,"14 February 2020, Friday",SOL-3.08-GS,08:30-10:30,Confirmed,BK-20200212-001397,ONG HONG YANG,Student,hyong.2019@sis.smu.edu.sg,AdHoc,study
+545,"14 February 2020, Friday",SOL-3.08-GS,10:30-14:30,Confirmed,BK-20200212-001391,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+546,"14 February 2020, Friday",SOL-3.08-GS,14:30-18:30,Confirmed,BK-20200212-001393,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+547,"14 February 2020, Friday",SOL-3.08-GS,18:30-22:30,Confirmed,BK-20200214-000744,STEPHEN PANG QING YANG,Student,stephenpang.2019@sis.smu.edu.sg,AdHoc,study Natsu
+548,"14 February 2020, Friday",SOL-B1.02-GS,09:00-13:00,Confirmed,BK-20200205-000767,"SIM JUN YI, FELICIA",Student,felicia.sim.2019@business.smu.edu.sg,Academic,Study
+549,"14 February 2020, Friday",SOL-B1.02-GS,13:00-17:00,Confirmed,BK-20200213-001063,TOH XIN YI,Student,xinyi.toh.2016@business.smu.edu.sg,AdHoc,Study
+550,"14 February 2020, Friday",SOL-B1.02-GS,18:30-21:30,Confirmed,BK-20200213-000687,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Study
+551,"14 February 2020, Friday",SOL-B1.03-GS,11:30-14:00,Confirmed,BK-20200211-000051,"NG YU HONG, TREVOR",Student,trevor.ng.2018@sis.smu.edu.sg,AdHoc,asd
+552,"14 February 2020, Friday",SOL-B1.03-GS,14:00-15:00,Confirmed,BK-20200214-000422,SIDDHI RAMAN,Student,siddhir.2017@socsc.smu.edu.sg,AdHoc,study
+553,"14 February 2020, Friday",SOL-B1.03-GS,16:00-20:00,Confirmed,BK-20200210-000704,SAMBHAVI RAJANGAM,Student,sambhavir.2017@law.smu.edu.sg,AdHoc,meeting
+554,"14 February 2020, Friday",SOL-B1.04-GS,10:00-13:00,Confirmed,BK-20200203-001019,NATALIE SHAUNA TAN,Student,natalietan.2019@business.smu.edu.sg,AdHoc,Meeting
+555,"14 February 2020, Friday",SOL-B1.04-GS,13:00-16:00,Confirmed,BK-20200203-001022,SHIRLYNN TAN XUE YING,Student,shirlynntan.2019@business.smu.edu.sg,AdHoc,meeting
+556,"14 February 2020, Friday",SOL-B1.04-GS,16:00-19:00,Confirmed,BK-20200203-001020,"QIU ZIYUN, JOANNA",Student,joanna.qiu.2019@law.smu.edu.sg,AdHoc,meeting
+557,"14 February 2020, Friday",SOL-B1.05-GS,13:00-17:00,Confirmed,BK-20200209-000534,CHIA PEI SHAN VANESSA,Student,pschia.2018@business.smu.edu.sg,AdHoc,study
+558,"14 February 2020, Friday",SOL-B1.05-GS,17:00-21:00,Confirmed,BK-20200213-001075,EUNICE TEE QIAO YING,Student,eunice.tee.2016@accountancy.smu.edu.sg,AdHoc,Meeting
+559,"14 February 2020, Friday",SOL-B1.06-GS,11:00-15:00,Confirmed,BK-20200131-000140,"TAN HWA QI, VICTORIA",Student,victoriatan.2018@economics.smu.edu.sg,AdHoc,meeting
+560,"14 February 2020, Friday",SOL-B1.06-GS,16:00-20:00,Confirmed,BK-20200131-001020,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Meeting
+561,"14 February 2020, Friday",SOL-B1.07-GS,12:00-14:30,Confirmed,BK-20200213-000737,LARRY LOW JING JIE,Student,larry.low.2019@law.smu.edu.sg,AdHoc,study
+562,"14 February 2020, Friday",SOL-B1.07-GS,14:30-18:30,Confirmed,BK-20200209-000378,ANG PING CHYI,Student,pcang.2018@accountancy.smu.edu.sg,AdHoc,study
+563,"14 February 2020, Friday",SOL-B1.07-GS,19:00-21:30,Confirmed,BK-20200209-000385,MARCUS CHIANG TING ERN,Student,techiang.2017@business.smu.edu.sg,AdHoc,work
+564,"14 February 2020, Friday",SOL-B1.08-GS,12:00-16:00,Confirmed,BK-20200211-000541,TAN YIN,Student,yin.tan.2018@sis.smu.edu.sg,Academic,Meeting
+565,"14 February 2020, Friday",SOL-B1.08-GS,16:00-19:00,Confirmed,BK-20200213-000648,HAMIZAN ALI BIN AZMEE,Student,hamizanalia.2017@sis.smu.edu.sg,AdHoc,FILMING FOR INTERNET OF TELEVISION
+566,"14 February 2020, Friday",SOL-B1.10-GS,13:00-17:00,Confirmed,BK-20200205-000803,TIMOTHY KONG WEI JIE,Student,timothykong.2016@economics.smu.edu.sg,Academic,Meeting
+567,"14 February 2020, Friday",SOL-B1.10-GS,18:00-20:00,Confirmed,BK-20200213-001077,TAY WEI SHANE,Student,wstay.2018@business.smu.edu.sg,AdHoc,Meeting
+568,"14 February 2020, Friday",SOL-B1.11-GS,10:30-14:30,Confirmed,BK-20200206-001026,Kayaking Team,Student,kayaking@sa.smu.edu.sg,Co-Curricular,meeting
+569,"14 February 2020, Friday",SOL-B1.11-GS,15:00-18:00,Confirmed,BK-20200206-001184,DARRYL CHUA WEN XUAN,Student,darryl.chua.2019@economics.smu.edu.sg,AdHoc,Study
+570,"14 February 2020, Friday",SOL-B1.12-GS,10:00-13:30,Confirmed,BK-20200131-000241,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+571,"14 February 2020, Friday",SOL-B1.12-GS,13:30-15:30,Confirmed,BK-20200213-001005,"CLARENCE, ONG TOON HOE",Student,clarenceong.2017@business.smu.edu.sg,AdHoc,meeting
+572,"14 February 2020, Friday",SOL-B1.12-GS,15:30-19:30,Confirmed,BK-20200131-000240,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+573,"13 February 2020, Thursday",SOL-2.07-GS,11:00-15:00,Confirmed,BK-20200130-000811,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+574,"13 February 2020, Thursday",SOL-2.07-GS,15:30-19:30,Confirmed,BK-20200130-000824,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+575,"13 February 2020, Thursday",SOL-2.07-GS,19:30-22:30,Confirmed,BK-20200130-001079,JUSTIN WONG YI JIE,Student,justin.wong.2018@economics.smu.edu.sg,AdHoc,Meeting
+576,"13 February 2020, Thursday",SOL-2.08-GS,08:30-10:00,Confirmed,BK-20200202-000154,StageIT,Student,stageit@sa.smu.edu.sg,Co-Curricular,Vday Holding Room
+577,"13 February 2020, Thursday",SOL-2.08-GS,11:30-15:30,Confirmed,BK-20200205-001176,ANG JU-ER ASHLEY,Student,ashley.ang.2019@accountancy.smu.edu.sg,AdHoc,mpw proj
+578,"13 February 2020, Thursday",SOL-2.08-GS,15:30-17:00,Confirmed,BK-20200206-000309,CHLOE CHEN WEI,Student,chloechen.2016@law.smu.edu.sg,Academic,study
+579,"13 February 2020, Thursday",SOL-2.08-GS,17:00-20:00,Confirmed,BK-20200213-000702,LEE JOON LEI,Student,joonlei.lee.2017@socsc.smu.edu.sg,AdHoc,study la
+580,"13 February 2020, Thursday",SOL-2.12-GS,11:00-14:00,Confirmed,BK-20200213-000165,RENA CAMILLERI,Student,rcamilleri.2020@mba.smu.edu.sg,Academic,group work
+581,"13 February 2020, Thursday",SOL-2.12-GS,14:00-15:30,Confirmed,BK-20200211-000643,LEE CHAEHYUN,Student,chaehyunlee.2018@business.smu.edu.sg,Academic,meeting
+582,"13 February 2020, Thursday",SOL-2.12-GS,15:30-19:00,Confirmed,BK-20200201-000005,CELINE TAY NEI PENG,Student,celine.tay.2018@accountancy.smu.edu.sg,AdHoc,study
+583,"13 February 2020, Thursday",SOL-2.12-GS,19:00-22:30,Confirmed,BK-20200213-000135,BENEDICT KOH YEN HIN,Student,benedictkoh.2017@law.smu.edu.sg,AdHoc,chicken nugget
+584,"13 February 2020, Thursday",SOL-2.13-GS,12:00-13:00,Confirmed,BK-20200213-000380,"GO YONG SEE, MELANIE",Student,melanie.go.2018@business.smu.edu.sg,Academic,meeting
+585,"13 February 2020, Thursday",SOL-2.13-GS,13:00-15:30,Confirmed,BK-20200211-000460,"CHUA SENG HAN, MICHAEL",Student,michaelchua.2016@business.smu.edu.sg,AdHoc,meeting
+586,"13 February 2020, Thursday",SOL-2.13-GS,15:30-19:00,Confirmed,BK-20200205-000892,"TENG YAN LING, SABRINA",Student,sabrinateng.2016@accountancy.smu.edu.sg,AdHoc,Meeting
+587,"13 February 2020, Thursday",SOL-2.13-GS,19:00-22:30,Confirmed,BK-20200211-000837,MELISSA ANNA YOW HUAN QIN,Student,melissayow.2019@socsc.smu.edu.sg,AdHoc,Study
+588,"13 February 2020, Thursday",SOL-2.14-GS,10:00-11:30,Confirmed,BK-20200131-000235,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
+589,"13 February 2020, Thursday",SOL-2.14-GS,11:30-15:30,Confirmed,BK-20200131-000231,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+590,"13 February 2020, Thursday",SOL-2.14-GS,15:30-18:30,Confirmed,BK-20200130-000419,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+591,"13 February 2020, Thursday",SOL-2.14-GS,18:30-22:30,Confirmed,BK-20200130-000558,GEORGE KEE JIA MING,Student,george.kee.2019@business.smu.edu.sg,Academic,Study
+592,"13 February 2020, Thursday",SOL-3.03-GS,10:00-10:30,Confirmed,BK-20200212-000121,JUNG SOL,Student,sol.jung.2016@law.smu.edu.sg,AdHoc,study
+593,"13 February 2020, Thursday",SOL-3.03-GS,13:00-14:00,Confirmed,BK-20200211-001024,MELVIN TEO RUI KEAT,Student,melvin.teo.2018@business.smu.edu.sg,Academic,meeting
+594,"13 February 2020, Thursday",SOL-3.03-GS,14:30-16:30,Confirmed,BK-20200209-000519,TAN YING YING,Student,yytan.2016@socsc.smu.edu.sg,AdHoc,Interview
+595,"13 February 2020, Thursday",SOL-3.03-GS,17:00-20:00,Confirmed,BK-20200209-000315,JEREMY CHAI ZEE PENG,Student,jeremy.chai.2019@law.smu.edu.sg,Academic,discussion
+596,"13 February 2020, Thursday",SOL-3.04-GS,10:00-12:00,Confirmed,BK-20200213-000189,ONG JIA XIN ABIGAIL,Student,abigail.ong.2016@law.smu.edu.sg,AdHoc,-
+597,"13 February 2020, Thursday",SOL-3.04-GS,12:00-16:00,Confirmed,BK-20200210-001320,HAMIZAN ALI BIN AZMEE,Student,hamizanalia.2017@sis.smu.edu.sg,AdHoc,Internet of Television Setup
+598,"13 February 2020, Thursday",SOL-3.04-GS,16:00-19:00,Confirmed,BK-20200211-000560,"LIN ZHENGHENG, LEON",Student,leon.lin.2017@sis.smu.edu.sg,Academic,iiioootttt
+599,"13 February 2020, Thursday",SOL-3.05-GS,10:00-12:00,Confirmed,BK-20200213-000114,ZHAO YUCHEN,Student,yuchen.zhao.2016@law.smu.edu.sg,AdHoc,Meeting
+600,"13 February 2020, Thursday",SOL-3.05-GS,12:30-13:00,Confirmed,BK-20200213-000425,ARVIND KUMAR PILLAI,Student,arvindkp.2018@business.smu.edu.sg,AdHoc,Study
+601,"13 February 2020, Thursday",SOL-3.05-GS,13:00-17:00,Confirmed,BK-20200205-000257,"HOH ZI BIN, MARK",Student,mark.hoh.2019@law.smu.edu.sg,AdHoc,study
+602,"13 February 2020, Thursday",SOL-3.05-GS,17:00-19:00,Confirmed,BK-20200213-000214,"TAN JIA JUN, JAMES",Student,james.tan.2015@law.smu.edu.sg,AdHoc,asdfghjkl
+603,"13 February 2020, Thursday",SOL-3.05-GS,19:00-22:00,Confirmed,BK-20200212-000555,AKSHAYA LAKSHMI NARASIMHAN,Student,akshayan.2019@mitb.smu.edu.sg,Academic,Academic
+604,"13 February 2020, Thursday",SOL-3.06-GS,11:30-15:30,Confirmed,BK-20200130-000018,CHOW WEN QING,Student,wqchow.2018@law.smu.edu.sg,AdHoc,study
+605,"13 February 2020, Thursday",SOL-3.06-GS,15:30-18:00,Confirmed,BK-20200130-000025,"JIANG SHU YEE, ALICIA",Student,aliciajiang.2018@law.smu.edu.sg,AdHoc,meeting
+606,"13 February 2020, Thursday",SOL-3.06-GS,18:00-19:00,Confirmed,BK-20200213-000599,TAN DARIUS,Student,darius.tan.2018@law.smu.edu.sg,Academic,meeting
+607,"13 February 2020, Thursday",SOL-3.07-GS,08:30-12:30,Confirmed,BK-20200210-000957,LIM SHI HUEY REGINA,Student,regina.lim.2017@business.smu.edu.sg,AdHoc,asd
+608,"13 February 2020, Thursday",SOL-3.07-GS,12:30-14:30,Confirmed,BK-20200212-000517,GARCIA MARIE ANTONETTE ABRIL,Student,garciaabril.2016@accountancy.smu.edu.sg,AdHoc,Meeting
+609,"13 February 2020, Thursday",SOL-3.07-GS,14:30-17:00,Confirmed,BK-20200211-000369,RACHEL YAN CHENG,Student,rachelcheng.2019@exchange.smu.edu.sg,Academic,Meeting
+610,"13 February 2020, Thursday",SOL-3.07-GS,18:00-22:00,Confirmed,BK-20200210-000956,LIM KUAN WEI,Student,kuanwei.lim.2016@accountancy.smu.edu.sg,AdHoc,suoaf
+611,"13 February 2020, Thursday",SOL-3.08-GS,11:30-14:00,Confirmed,BK-20200211-001107,YAP HAO YEUN,Student,hyyap.2018@accountancy.smu.edu.sg,AdHoc,study
+612,"13 February 2020, Thursday",SOL-3.08-GS,14:00-18:00,Confirmed,BK-20200210-000426,JOSWARA YUN CHANG,Student,ycjoswara.2019@sis.smu.edu.sg,Academic,Group project meeting
+613,"13 February 2020, Thursday",SOL-3.08-GS,20:30-22:30,Confirmed,BK-20200208-000425,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+614,"13 February 2020, Thursday",SOL-B1.02-GS,11:30-15:30,Confirmed,BK-20200202-000323,"TOK HUI RONG, NICHOLAS",Student,nicholastok.2018@law.smu.edu.sg,AdHoc,meeting
+615,"13 February 2020, Thursday",SOL-B1.02-GS,15:30-17:00,Confirmed,BK-20200211-001180,DELVIN INDRATJUATJA,Student,delvini.2018@accountancy.smu.edu.sg,AdHoc,Meeting
+616,"13 February 2020, Thursday",SOL-B1.02-GS,17:00-21:00,Confirmed,BK-20200131-000141,PHANG JYE,Student,jye.phang.2019@business.smu.edu.sg,AdHoc,project discussion
+617,"13 February 2020, Thursday",SOL-B1.03-GS,12:30-16:30,Confirmed,BK-20200131-000799,"WAH KAI LIN, KELLY",Student,kelly.wah.2016@law.smu.edu.sg,AdHoc,meeting
+618,"13 February 2020, Thursday",SOL-B1.03-GS,16:30-19:00,Confirmed,BK-20200212-001206,NURUL SYAHIRAH BINTE MUSTAFFA,Student,syahirahm.2017@socsc.smu.edu.sg,AdHoc,meeting
+619,"13 February 2020, Thursday",SOL-B1.03-GS,19:00-22:30,Confirmed,BK-20200209-000605,ALISON TANG WAN XUAN,Student,alison.tang.2018@law.smu.edu.sg,AdHoc,life
+620,"13 February 2020, Thursday",SOL-B1.04-GS,11:30-15:30,Confirmed,BK-20200130-000071,"LIM HONG WEN, AMELIA",Student,amelia.lim.2018@law.smu.edu.sg,AdHoc,meeting
+621,"13 February 2020, Thursday",SOL-B1.04-GS,15:30-19:00,Confirmed,BK-20200204-001140,CHAN XIN YI AMANDA,Student,amanda.chan.2018@accountancy.smu.edu.sg,AdHoc,work
+622,"13 February 2020, Thursday",SOL-B1.05-GS,11:30-15:30,Confirmed,BK-20200130-000783,BRANDON TAN JUN DA,Student,brandontan.2019@business.smu.edu.sg,AdHoc,-
+623,"13 February 2020, Thursday",SOL-B1.05-GS,15:30-19:30,Confirmed,BK-20200130-001186,"ANG YUN SUM, JERICA",Student,jerica.ang.2019@sis.smu.edu.sg,AdHoc,study
+624,"13 February 2020, Thursday",SOL-B1.06-GS,12:30-16:30,Confirmed,BK-20200130-000480,LEE ZI YING,Student,ziying.lee.2019@law.smu.edu.sg,AdHoc,STUDY
+625,"13 February 2020, Thursday",SOL-B1.06-GS,17:00-21:00,Confirmed,BK-20200130-000484,NIYANTA CHOWDHURY,Student,niyantac.2019@law.smu.edu.sg,AdHoc,study
+626,"13 February 2020, Thursday",SOL-B1.07-GS,10:30-14:30,Confirmed,BK-20200130-000759,"TAN HWA QI, VICTORIA",Student,victoriatan.2018@economics.smu.edu.sg,AdHoc,meeting
+627,"13 February 2020, Thursday",SOL-B1.07-GS,15:00-19:00,Confirmed,BK-20200130-000784,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Study
+628,"13 February 2020, Thursday",SOL-B1.08-GS,13:00-17:00,Confirmed,BK-20200131-000045,VICTOR TANG,Student,victor.tang.2017@law.smu.edu.sg,AdHoc,study
+629,"13 February 2020, Thursday",SOL-B1.08-GS,19:00-22:00,Confirmed,BK-20200204-000615,DEBORAH LIM,Student,ltlim.2017@business.smu.edu.sg,AdHoc,Meeting
+630,"13 February 2020, Thursday",SOL-B1.10-GS,10:00-13:00,Confirmed,BK-20200203-001009,NATALIE SHAUNA TAN,Student,natalietan.2019@business.smu.edu.sg,AdHoc,Meeting
+631,"13 February 2020, Thursday",SOL-B1.10-GS,13:00-16:00,Confirmed,BK-20200203-001014,SHIRLYNN TAN XUE YING,Student,shirlynntan.2019@business.smu.edu.sg,AdHoc,meeting
+632,"13 February 2020, Thursday",SOL-B1.10-GS,16:00-19:00,Confirmed,BK-20200203-001015,"QIU ZIYUN, JOANNA",Student,joanna.qiu.2019@law.smu.edu.sg,AdHoc,meeting
+633,"13 February 2020, Thursday",SOL-B1.10-GS,19:00-22:00,Confirmed,BK-20200203-001016,TAN MAN NING CHARLENE,Student,charlenetan.2019@accountancy.smu.edu.sg,AdHoc,meeting
+634,"13 February 2020, Thursday",SOL-B1.11-GS,11:30-15:30,Confirmed,BK-20200211-000546,"CHNG XUE MING, JONATHAN",Student,xmchng.2017@accountancy.smu.edu.sg,AdHoc,meeeting
+635,"13 February 2020, Thursday",SOL-B1.11-GS,16:00-19:00,Confirmed,BK-20200205-000793,TIMOTHY KONG WEI JIE,Student,timothykong.2016@economics.smu.edu.sg,Academic,Meeting
+636,"13 February 2020, Thursday",SOL-B1.12-GS,10:00-13:30,Confirmed,BK-20200213-000207,FOUNG HAN PEOW,Student,hpfoung.2016@law.smu.edu.sg,AdHoc,study
+637,"13 February 2020, Thursday",SOL-B1.12-GS,14:00-16:00,Confirmed,BK-20200213-000401,AZALEA SYAZWANY BINTE MOHAMAD KHAIR,Student,azaleamk.2019@law.smu.edu.sg,Academic,meeting
+638,"13 February 2020, Thursday",SOL-B1.12-GS,16:00-19:00,Confirmed,BK-20200213-000637,KHIN LA MIN THAW,Student,lmtkhin.2016@business.smu.edu.sg,AdHoc,meeting
+639,"13 February 2020, Thursday",SOL-B1.12-GS,19:00-21:30,Confirmed,BK-20200213-000778,NG HAO YI,Student,haoyi.ng.2017@business.smu.edu.sg,AdHoc,EBTL
+640,"12 February 2020, Wednesday",SOL-2.07-GS,12:00-16:00,Confirmed,BK-20200129-000819,BOO ZON,Student,zon.boo.2018@business.smu.edu.sg,AdHoc,study
+641,"12 February 2020, Wednesday",SOL-2.07-GS,16:30-20:30,Confirmed,BK-20200129-000822,TIAH JENG YEN,Student,jytiah.2018@economics.smu.edu.sg,AdHoc,study
+642,"12 February 2020, Wednesday",SOL-2.07-GS,20:30-22:30,Confirmed,BK-20200129-000852,JUSTIN WONG YI JIE,Student,justin.wong.2018@economics.smu.edu.sg,AdHoc,meeting
+643,"12 February 2020, Wednesday",SOL-2.08-GS,11:30-15:30,Confirmed,BK-20200202-000135,"TAN EK KAI, ALDEN",Student,alden.tan.2017@law.smu.edu.sg,AdHoc,Meeting
+644,"12 February 2020, Wednesday",SOL-2.08-GS,15:30-18:30,Confirmed,BK-20200210-001373,CHAN XIN YI AMANDA,Student,amanda.chan.2018@accountancy.smu.edu.sg,AdHoc,work
+645,"12 February 2020, Wednesday",SOL-2.12-GS,11:00-15:00,Confirmed,BK-20200129-000489,NICHOLAS TAN TJEN FONG,Student,nicholastan.2019@economics.smu.edu.sg,AdHoc,Study/Meeting
+646,"12 February 2020, Wednesday",SOL-2.12-GS,15:00-18:30,Confirmed,BK-20200204-000467,LAM PIK KEE BIANCA,Student,bianca.lam.2019@accountancy.smu.edu.sg,AdHoc,Study/Meeting
+647,"12 February 2020, Wednesday",SOL-2.13-GS,12:00-15:30,Confirmed,BK-20200131-000705,ALVIN TAN,Student,alvin.tan.2019@economics.smu.edu.sg,AdHoc,ss
+648,"12 February 2020, Wednesday",SOL-2.13-GS,16:00-20:00,Confirmed,BK-20200131-000458,LIM ZHI KAI,Student,zhikai.lim.2018@economics.smu.edu.sg,AdHoc,study
+649,"12 February 2020, Wednesday",SOL-2.14-GS,11:30-13:30,Confirmed,BK-20191216-000149,David DING,Faculty,DAVIDDING@SMU.EDU.SG,Academic,Student consultation
+650,"12 February 2020, Wednesday",SOL-2.14-GS,13:30-15:00,Confirmed,BK-20200212-000097,LARRY LOW JING JIE,Student,larry.low.2019@law.smu.edu.sg,AdHoc,study
+651,"12 February 2020, Wednesday",SOL-2.14-GS,15:00-18:30,Confirmed,BK-20200129-000244,KOH YI WEN,Student,yiwen.koh.2018@jd.smu.edu.sg,AdHoc,Research
+652,"12 February 2020, Wednesday",SOL-2.14-GS,18:30-22:30,Confirmed,BK-20200129-000770,GEORGE KEE JIA MING,Student,george.kee.2019@business.smu.edu.sg,Academic,Study
+653,"12 February 2020, Wednesday",SOL-3.03-GS,13:00-14:00,Confirmed,BK-20200107-000318,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+654,"12 February 2020, Wednesday",SOL-3.03-GS,14:00-14:30,Confirmed,BK-20200109-000340,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+655,"12 February 2020, Wednesday",SOL-3.03-GS,14:30-16:30,Confirmed,BK-20200211-001076,NG POK HEI BRYAN,Student,bryan.ng.2016@accountancy.smu.edu.sg,AdHoc,Study
+656,"12 February 2020, Wednesday",SOL-3.03-GS,16:30-18:00,Confirmed,BK-20200107-000315,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+657,"12 February 2020, Wednesday",SOL-3.03-GS,18:00-18:30,Confirmed,BK-20200109-000338,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+658,"12 February 2020, Wednesday",SOL-3.03-GS,19:30-21:00,Confirmed,BK-20200210-001181,CAITLIN KWOK DAIYI,Student,caitlinkwok.2019@business.smu.edu.sg,AdHoc,meeting
+659,"12 February 2020, Wednesday",SOL-3.04-GS,13:00-14:00,Confirmed,BK-20200107-000326,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+660,"12 February 2020, Wednesday",SOL-3.04-GS,14:00-14:30,Confirmed,BK-20200109-000353,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+661,"12 February 2020, Wednesday",SOL-3.04-GS,15:00-16:30,Confirmed,BK-20200211-001120,"WONG CHUN YING, SHERYL",Student,sheryl.wong.2019@business.smu.edu.sg,AdHoc,meeting
+662,"12 February 2020, Wednesday",SOL-3.04-GS,16:30-18:00,Confirmed,BK-20200107-000334,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+663,"12 February 2020, Wednesday",SOL-3.04-GS,18:00-18:30,Confirmed,BK-20200109-000347,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+664,"12 February 2020, Wednesday",SOL-3.04-GS,19:00-22:30,Confirmed,BK-20200210-001129,RYAN SIO YEIN CHONG,Student,ryan.sio.2019@business.smu.edu.sg,AdHoc,Study
+665,"12 February 2020, Wednesday",SOL-3.05-GS,13:00-14:00,Confirmed,BK-20200107-000344,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+666,"12 February 2020, Wednesday",SOL-3.05-GS,14:00-14:30,Confirmed,BK-20200109-000361,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+667,"12 February 2020, Wednesday",SOL-3.05-GS,14:30-16:00,Confirmed,BK-20200130-000458,ZHAO YUCHEN,Student,yuchen.zhao.2016@law.smu.edu.sg,AdHoc,Meeting
+668,"12 February 2020, Wednesday",SOL-3.05-GS,16:30-18:00,Confirmed,BK-20200107-000341,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+669,"12 February 2020, Wednesday",SOL-3.05-GS,18:00-18:30,Confirmed,BK-20200109-000360,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+670,"12 February 2020, Wednesday",SOL-3.05-GS,18:30-20:00,Confirmed,BK-20200212-000077,MOK YUNG YUNG GINNETTE,Student,ginnettemok.2017@socsc.smu.edu.sg,AdHoc,Meeting
+671,"12 February 2020, Wednesday",SOL-3.05-GS,20:00-21:30,Confirmed,BK-20200212-001227,THIN ZAR ZAW MOE,Student,zzmthin.2019@business.smu.edu.sg,AdHoc,STUDY
+672,"12 February 2020, Wednesday",SOL-3.06-GS,13:00-14:00,Confirmed,BK-20200107-000354,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+673,"12 February 2020, Wednesday",SOL-3.06-GS,14:00-14:30,Confirmed,BK-20200109-000367,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+674,"12 February 2020, Wednesday",SOL-3.06-GS,14:30-16:30,Confirmed,BK-20200211-001072,RIKESH S/O RAVINDRAN,Student,rikeshr.2018@business.smu.edu.sg,AdHoc,-
+675,"12 February 2020, Wednesday",SOL-3.06-GS,16:30-18:00,Confirmed,BK-20200107-000355,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+676,"12 February 2020, Wednesday",SOL-3.06-GS,18:00-18:30,Confirmed,BK-20200109-000362,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+677,"12 February 2020, Wednesday",SOL-3.06-GS,19:00-22:00,Confirmed,BK-20200210-000857,LIM XIN TIAN CYNTHIA,Student,cynthia.lim.2016@business.smu.edu.sg,Academic,ww
+678,"12 February 2020, Wednesday",SOL-3.07-GS,13:00-14:00,Confirmed,BK-20200107-000372,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+679,"12 February 2020, Wednesday",SOL-3.07-GS,14:00-14:30,Confirmed,BK-20200109-000373,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+680,"12 February 2020, Wednesday",SOL-3.07-GS,14:30-16:00,Confirmed,BK-20200210-000692,NG ZHENG WEI,Student,zhengwei.ng.2016@business.smu.edu.sg,AdHoc,meeting
+681,"12 February 2020, Wednesday",SOL-3.07-GS,16:30-18:00,Confirmed,BK-20200107-000370,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+682,"12 February 2020, Wednesday",SOL-3.07-GS,18:00-18:30,Confirmed,BK-20200109-000375,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+683,"12 February 2020, Wednesday",SOL-3.08-GS,09:00-12:00,Confirmed,BK-20200210-000788,YAP YING YING NATALIE,Student,natalie.yap.2017@socsc.smu.edu.sg,AdHoc,Interview
+684,"12 February 2020, Wednesday",SOL-3.08-GS,13:00-14:00,Confirmed,BK-20200107-000376,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Break out rooms
+685,"12 February 2020, Wednesday",SOL-3.08-GS,14:00-14:30,Confirmed,BK-20200109-000380,BLEDOW Ronald,Faculty,rbledow@smu.edu.sg,Academic,Discussion
+686,"12 February 2020, Wednesday",SOL-3.08-GS,14:30-15:30,Confirmed,BK-20200212-000400,PRAHARSH MEHROTRA,Student,praharshm.2017@economics.smu.edu.sg,AdHoc,Study
+687,"12 February 2020, Wednesday",SOL-3.08-GS,15:30-19:30,Confirmed,BK-20200208-000424,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+688,"12 February 2020, Wednesday",SOL-3.08-GS,19:30-22:30,Confirmed,BK-20200208-000428,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+689,"12 February 2020, Wednesday",SOL-B1.02-GS,11:00-15:00,Confirmed,BK-20200203-000848,FOO ZHI WEI,Student,zhiwei.foo.2015@law.smu.edu.sg,AdHoc,study
+690,"12 February 2020, Wednesday",SOL-B1.02-GS,15:00-19:00,Confirmed,BK-20200203-000857,"WAH KAI LIN, KELLY",Student,kelly.wah.2016@law.smu.edu.sg,AdHoc,study
+691,"12 February 2020, Wednesday",SOL-B1.03-GS,11:30-13:00,Confirmed,BK-20200212-000244,SUMI BOO,Student,sumi.boo.2018@ddptechmgt.smu.edu.sg,AdHoc,Project meeting
+692,"12 February 2020, Wednesday",SOL-B1.03-GS,13:00-17:00,Confirmed,BK-20200204-000643,"GOH JUNN HIAN, OSBERT",Student,osbert.goh.2019@business.smu.edu.sg,AdHoc,study
+693,"12 February 2020, Wednesday",SOL-B1.03-GS,17:00-21:00,Confirmed,BK-20200212-000657,SHAWN TAN JUN HAO,Student,shawn.tan.2016@business.smu.edu.sg,AdHoc,project
+694,"12 February 2020, Wednesday",SOL-B1.04-GS,11:30-15:30,Confirmed,BK-20200129-000468,DARRYL HOR JUN HENG,Student,darryl.hor.2018@law.smu.edu.sg,AdHoc,study
+695,"12 February 2020, Wednesday",SOL-B1.04-GS,15:30-19:30,Confirmed,BK-20200129-000048,ANG PING CHYI,Student,pcang.2018@accountancy.smu.edu.sg,AdHoc,study
+696,"12 February 2020, Wednesday",SOL-B1.04-GS,20:00-21:00,Confirmed,BK-20200129-000084,MARCUS CHIANG TING ERN,Student,techiang.2017@business.smu.edu.sg,AdHoc,work
+697,"12 February 2020, Wednesday",SOL-B1.05-GS,11:00-15:00,Confirmed,BK-20200208-000370,NG GEAK LING FLAVIA,Student,flavia.ng.2017@sis.smu.edu.sg,AdHoc,Stoooody
+698,"12 February 2020, Wednesday",SOL-B1.05-GS,15:00-19:00,Confirmed,BK-20200204-001121,CHARLENE GOH KAI NING,Student,charlenegoh.2017@law.smu.edu.sg,AdHoc,f
+699,"12 February 2020, Wednesday",SOL-B1.06-GS,11:30-14:00,Confirmed,BK-20200210-000382,NAW KA NYAW WILL,Student,kanyawwill.2017@law.smu.edu.sg,AdHoc,study
+700,"12 February 2020, Wednesday",SOL-B1.06-GS,14:00-18:00,Confirmed,BK-20200129-000040,YAP HAO YEUN,Student,hyyap.2018@accountancy.smu.edu.sg,AdHoc,study
+701,"12 February 2020, Wednesday",SOL-B1.06-GS,18:00-22:00,Confirmed,BK-20200129-000070,DELVIN INDRATJUATJA,Student,delvini.2018@accountancy.smu.edu.sg,AdHoc,study
+702,"12 February 2020, Wednesday",SOL-B1.07-GS,10:30-14:30,Confirmed,BK-20200129-000439,"TAN HWA QI, VICTORIA",Student,victoriatan.2018@economics.smu.edu.sg,AdHoc,meeting
+703,"12 February 2020, Wednesday",SOL-B1.07-GS,15:00-19:00,Confirmed,BK-20200129-000441,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Study
+704,"12 February 2020, Wednesday",SOL-B1.07-GS,19:00-22:00,Confirmed,BK-20200210-000725,RIYAZ AHMAD TADJOUDINE,Student,riyazt.2019@maf.smu.edu.sg,Academic,Group Meeting
+705,"12 February 2020, Wednesday",SOL-B1.08-GS,12:00-16:00,Confirmed,BK-20200130-000474,LEE ZI YING,Student,ziying.lee.2019@law.smu.edu.sg,AdHoc,STUDY
+706,"12 February 2020, Wednesday",SOL-B1.08-GS,16:00-20:00,Confirmed,BK-20200130-000478,NIYANTA CHOWDHURY,Student,niyantac.2019@law.smu.edu.sg,AdHoc,study
+707,"12 February 2020, Wednesday",SOL-B1.10-GS,12:00-14:30,Confirmed,BK-20200207-000747,BRENDA KHOO YU QING,Student,brenda.khoo.2017@law.smu.edu.sg,Academic,Meeting
+708,"12 February 2020, Wednesday",SOL-B1.10-GS,15:00-19:00,Confirmed,BK-20200205-000262,"HOH ZI BIN, MARK",Student,mark.hoh.2019@law.smu.edu.sg,AdHoc,study
+709,"12 February 2020, Wednesday",SOL-B1.10-GS,19:00-22:00,Confirmed,BK-20200212-000035,KHOK JIE MING,Student,jmkhok.2019@law.smu.edu.sg,Academic,study
+710,"12 February 2020, Wednesday",SOL-B1.11-GS,11:30-15:30,Confirmed,BK-20200129-000813,CHOW LI TING,Student,liting.chow.2016@sis.smu.edu.sg,AdHoc,Meeting
+711,"12 February 2020, Wednesday",SOL-B1.11-GS,15:30-19:00,Confirmed,BK-20200205-000384,DEAN CHUA HONG GIAP,Student,dean.chua.2017@accountancy.smu.edu.sg,AdHoc,study
+712,"12 February 2020, Wednesday",SOL-B1.11-GS,19:00-22:00,Confirmed,BK-20200211-000556,"LOW HUI XUAN, CARRISA",Student,carrisa.low.2018@law.smu.edu.sg,AdHoc,work
+713,"12 February 2020, Wednesday",SOL-B1.12-GS,11:30-15:30,Confirmed,BK-20200129-000094,HSU-ANNE CHOO SHA LING,Student,hsuannechoo.2017@law.smu.edu.sg,AdHoc,Study
+714,"12 February 2020, Wednesday",SOL-B1.12-GS,15:30-19:30,Confirmed,BK-20200129-000461,TAN TUAN YING,Student,tytan.2018@law.smu.edu.sg,AdHoc,study
