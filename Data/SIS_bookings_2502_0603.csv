@@ -1,0 +1,426 @@
+,Day,Facility,Booking Time,Booking Status,Booking Reference Number,Booked for User Name,Booked for User Org Unit,Booked for User Email Address,Use Type,Purpose of Booking
+0,"6 March 2020, Friday",SIS GSR 2-1,08:30-12:00,Confirmed,BK-20200221-000088,SUN MING,Student,ming.sun.2018@sis.smu.edu.sg,AdHoc,Project Discussion
+1,"6 March 2020, Friday",SIS GSR 2-1,12:00-14:00,Confirmed,BK-20200301-000702,LIM WEN EN,Student,wenen.lim.2019@accountancy.smu.edu.sg,AdHoc,Study
+2,"6 March 2020, Friday",SIS GSR 2-1,14:00-17:00,Confirmed,BK-20191209-000397,KOH Kwan Chin,SIS Instructors,kckoh@smu.edu.sg,AdHoc,CT Consultations
+3,"6 March 2020, Friday",SIS GSR 2-1,17:00-19:00,Confirmed,BK-20200303-001596,JUNG JOSHUA,Student,joshua.jung.2019@sis.smu.edu.sg,AdHoc,Meeting
+4,"6 March 2020, Friday",SIS GSR 2-1,19:00-22:30,Confirmed,BK-20200305-001119,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Meeting
+5,"6 March 2020, Friday",SIS GSR 2-2,09:00-12:00,Confirmed,BK-20200303-000111,SURIYANA BINTE ABDULLAH,Student,suriyanaa.2018@economics.smu.edu.sg,AdHoc,study
+6,"6 March 2020, Friday",SIS GSR 2-2,12:00-16:00,Confirmed,BK-20200222-000441,TOH YING HUI,Student,yinghui.toh.2019@sis.smu.edu.sg,AdHoc,Discussion
+7,"6 March 2020, Friday",SIS GSR 2-2,16:30-18:00,Confirmed,BK-20200306-000621,"LIM KAY MING, ELTON",Student,elton.lim.2017@economics.smu.edu.sg,Academic,Grp meeting
+8,"6 March 2020, Friday",SIS GSR 2-2,18:00-22:00,Confirmed,BK-20200301-000666,KHOO LI YIN,Student,liyin.khoo.2016@accountancy.smu.edu.sg,AdHoc,meeting
+9,"6 March 2020, Friday",SIS GSR 2-3,09:00-11:00,Confirmed,BK-20200306-000099,JASLYN WONG,Student,jaslyn.wong.2017@sis.smu.edu.sg,AdHoc,meeting
+10,"6 March 2020, Friday",SIS GSR 2-3,11:00-15:00,Confirmed,BK-20200222-000314,NG XIAO YAN,Student,xiaoyan.ng.2019@economics.smu.edu.sg,AdHoc,:/
+11,"6 March 2020, Friday",SIS GSR 2-3,15:30-18:30,Confirmed,BK-20200227-000402,YOEN WAI MING,Student,wmyoen.2017@sis.smu.edu.sg,Academic,Project Meeting
+12,"6 March 2020, Friday",SIS GSR 2-3,18:30-21:30,Confirmed,BK-20200304-000399,LOW WEI YANG,Student,weiyang.low.2016@sis.smu.edu.sg,AdHoc,meeting
+13,"6 March 2020, Friday",SIS GSR 2-4,09:00-11:30,Confirmed,BK-20200306-000072,QUEK RUI MIN RACHEL,Student,rachel.quek.2017@accountancy.smu.edu.sg,AdHoc,Study
+14,"6 March 2020, Friday",SIS GSR 2-4,11:30-13:00,Confirmed,BK-20200306-000055,HO CHEN HOW,Student,chenhow.ho.2019@business.smu.edu.sg,AdHoc,Meeting
+15,"6 March 2020, Friday",SIS GSR 2-4,13:30-16:00,Confirmed,BK-20200306-000310,LEE MENG YONG,Student,mylee.2018@mitb.smu.edu.sg,Academic,meeting
+16,"6 March 2020, Friday",SIS GSR 2-4,16:00-20:00,Confirmed,BK-20200227-000824,GAO YUANYUAN,Student,yygao.2018@accountancy.smu.edu.sg,AdHoc,Meeting
+17,"6 March 2020, Friday",SIS GSR 2-5,09:30-11:00,Confirmed,BK-20200305-000036,TEO GIGI,Student,gigi.teo.2018@sis.smu.edu.sg,AdHoc,meeting
+18,"6 March 2020, Friday",SIS GSR 2-5,11:00-14:00,Confirmed,BK-20200221-000174,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+19,"6 March 2020, Friday",SIS GSR 2-5,14:00-17:00,Confirmed,BK-20200221-000172,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+20,"6 March 2020, Friday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200221-000165,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+21,"6 March 2020, Friday",SIS GSR 2-6,08:30-11:30,Confirmed,BK-20200301-000425,CARLSTEN LIM JIAN JIE,Student,carlstenlim.2017@sis.smu.edu.sg,AdHoc,Meeting
+22,"6 March 2020, Friday",SIS GSR 2-6,11:30-13:30,Confirmed,BK-20200302-001301,TANVI JOHRI,Student,tanvi.johri.2018@economics.smu.edu.sg,Academic,Meeting
+23,"6 March 2020, Friday",SIS GSR 2-6,13:30-14:00,Confirmed,BK-20200223-000185,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,Study
+24,"6 March 2020, Friday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200221-000276,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+25,"6 March 2020, Friday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200223-000277,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+26,"6 March 2020, Friday",SIS GSR 2-7,10:00-14:00,Confirmed,BK-20200227-000484,FERNANDA TAN QIAN XUAN,Student,fernandatan.2018@sis.smu.edu.sg,AdHoc,study
+27,"6 March 2020, Friday",SIS GSR 2-7,14:00-15:30,Confirmed,BK-20200303-001511,"LIM JINGWEN, EUNICE",Student,eunice.lim.2016@business.smu.edu.sg,AdHoc,mtg
+28,"6 March 2020, Friday",SIS GSR 2-7,15:30-19:30,Confirmed,BK-20200224-000621,YEO HUI XIN,Student,huixin.yeo.2018@sis.smu.edu.sg,AdHoc,project
+29,"6 March 2020, Friday",SIS GSR 2-7,19:30-22:00,Confirmed,BK-20200224-000625,"TAN LI XUAN, DENYSE",Student,denyse.tan.2018@sis.smu.edu.sg,AdHoc,meeting
+30,"6 March 2020, Friday",SIS GSR 3-1,08:30-12:30,Confirmed,BK-20200221-000256,GERALDINE CHEW JING HUI,Student,jh.chew.2019@sis.smu.edu.sg,AdHoc,study
+31,"6 March 2020, Friday",SIS GSR 3-1,12:30-16:00,Confirmed,BK-20200221-000268,SERAPHINE LOH TIAN HUI,Student,thloh.2019@law.smu.edu.sg,AdHoc,study
+32,"6 March 2020, Friday",SIS GSR 3-1,16:00-20:00,Confirmed,BK-20200228-000603,LIM JUN FENG,Student,junfeng.lim.2019@law.smu.edu.sg,AdHoc,dancing
+33,"6 March 2020, Friday",SIS GSR 3-2,10:00-14:00,Confirmed,BK-20200226-000021,TAY LING YIN,Student,lingyin.tay.2019@business.smu.edu.sg,AdHoc,interview
+34,"6 March 2020, Friday",SIS GSR 3-2,14:00-18:00,Confirmed,BK-20200226-000026,TEO GUANG GUO,Student,ggteo.2019@accountancy.smu.edu.sg,AdHoc,interview
+35,"6 March 2020, Friday",SIS GSR 3-2,18:00-20:00,Confirmed,BK-20200303-001303,TAN GUAN ZE,Student,guanze.tan.2016@sis.smu.edu.sg,Academic,meeting
+36,"6 March 2020, Friday",SIS GSR 3-3,10:00-12:00,Confirmed,BK-20200303-000163,NG POK HEI BRYAN,Student,bryan.ng.2016@accountancy.smu.edu.sg,Academic,Korean Webex
+37,"6 March 2020, Friday",SIS GSR 3-3,12:00-16:00,Confirmed,BK-20200221-000169,NG TSIN YING CLARIS,Student,claris.ng.2016@law.smu.edu.sg,AdHoc,s
+38,"6 March 2020, Friday",SIS GSR 3-3,16:00-20:00,Confirmed,BK-20200221-000175,ONG CHUN EN,Student,chunen.ong.2016@socsc.smu.edu.sg,AdHoc,s
+39,"6 March 2020, Friday",SIS GSR 3-4,10:00-14:00,Confirmed,BK-20200228-000036,"TAN XIN YUE, JEWEL",Student,jewel.tan.2019@sis.smu.edu.sg,AdHoc,study
+40,"6 March 2020, Friday",SIS GSR 3-4,14:00-16:00,Confirmed,BK-20200301-000722,TAN MIN HUI,Student,minhui.tan.2019@law.smu.edu.sg,AdHoc,study
+41,"6 March 2020, Friday",SIS GSR 3-4,16:00-20:00,Confirmed,BK-20200225-000452,ANDRE WONG YONG ZHI,Student,andre.wong.2018@sis.smu.edu.sg,AdHoc,"According to all known laws of aviation, there is no way a b"
+42,"6 March 2020, Friday",SIS GSR 3-5,09:00-12:00,Confirmed,BK-20200303-000689,FAITH KOO HUI QI,Student,faith.koo.2018@sis.smu.edu.sg,AdHoc,meeting
+43,"6 March 2020, Friday",SIS GSR 3-5,12:00-15:30,Confirmed,BK-20200226-000417,LEE KWAN YANG,Student,kylee.2018@sis.smu.edu.sg,Academic,meeting
+44,"6 March 2020, Friday",SIS GSR 3-5,15:30-19:30,Confirmed,BK-20200226-000908,LINUS CHENG XIN WEI,Student,linus.cheng.2017@sis.smu.edu.sg,Academic,aviation
+45,"6 March 2020, Friday",SIS GSR 3-5,19:30-22:30,Confirmed,BK-20200226-000916,SOE KHANT,Student,soe.khant.2017@sis.smu.edu.sg,Academic,Meeting
+46,"6 March 2020, Friday",SIS GSR 3-6,09:00-12:00,Confirmed,BK-20200225-000757,TAN JIA XUAN SEAN,Student,seantan.2019@sis.smu.edu.sg,AdHoc,interview
+47,"6 March 2020, Friday",SIS GSR 3-6,12:30-15:30,Confirmed,BK-20200225-000836,"LOCK XIAN JUN, JONATHAN",Student,xjlock.2019@sis.smu.edu.sg,AdHoc,Interview
+48,"6 March 2020, Friday",SIS GSR 3-6,15:30-18:30,Confirmed,BK-20200225-000833,TOH WEI XIANG,Student,weixiangtoh.2019@sis.smu.edu.sg,AdHoc,meeting
+49,"6 March 2020, Friday",SIS GSR 3-6,19:00-21:00,Confirmed,BK-20200225-000895,SITI HINDUN BINTE MURTAZA,Student,sitihindunm.2019@sis.smu.edu.sg,AdHoc,interview
+50,"5 March 2020, Thursday",SIS GSR 2-1,09:30-13:00,Confirmed,BK-20200224-000298,BEATRICE ELIZABETH KHOO HUI MIN,Student,hmkhoo.2017@sis.smu.edu.sg,AdHoc,Meeting
+51,"5 March 2020, Thursday",SIS GSR 2-1,13:30-16:00,Confirmed,BK-20200220-000003,DELIA CHANG XUE WEN,Student,delia.chang.2019@economics.smu.edu.sg,AdHoc,interview
+52,"5 March 2020, Thursday",SIS GSR 2-1,16:00-18:30,Confirmed,BK-20200220-000006,LIM XING YU,Student,xingyu.lim.2019@sis.smu.edu.sg,AdHoc,CCA
+53,"5 March 2020, Thursday",SIS GSR 2-1,18:30-21:30,Confirmed,BK-20200302-000926,VO PHAM THAO VI,Student,ptvvo.2018@sis.smu.edu.sg,Academic,meeting
+54,"5 March 2020, Thursday",SIS GSR 2-2,09:00-12:30,Confirmed,BK-20200301-000180,MUHAMMAD ASNAWI BIN WAHID,Student,muhammadw.2019@sis.smu.edu.sg,AdHoc,Meeting
+55,"5 March 2020, Thursday",SIS GSR 2-2,12:30-15:30,Confirmed,BK-20200225-000603,TEO WEI JIAN AUTUMN,Student,autumn.teo.2018@sis.smu.edu.sg,AdHoc,cry
+56,"5 March 2020, Thursday",SIS GSR 2-2,15:30-19:30,Confirmed,BK-20200228-000541,DESIREE CHONG CI EN,Student,cechong.2019@law.smu.edu.sg,AdHoc,Study
+57,"5 March 2020, Thursday",SIS GSR 2-2,19:30-22:30,Confirmed,BK-20200305-001076,TAN QI TING JENNY,Student,jenny.tan.2018@accountancy.smu.edu.sg,AdHoc,cry
+58,"5 March 2020, Thursday",SIS GSR 2-3,11:00-14:00,Confirmed,BK-20200221-000171,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+59,"5 March 2020, Thursday",SIS GSR 2-3,14:00-17:00,Confirmed,BK-20200221-000170,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+60,"5 March 2020, Thursday",SIS GSR 2-3,17:00-20:00,Confirmed,BK-20200221-000161,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+61,"5 March 2020, Thursday",SIS GSR 2-4,08:30-11:30,Confirmed,BK-20200304-001784,NANDINI SANGEETHA NAIR,Student,nandinisn.2017@accountancy.smu.edu.sg,AdHoc,Study
+62,"5 March 2020, Thursday",SIS GSR 2-4,11:30-13:30,Confirmed,BK-20200225-000408,NGIAM PEI WEN,Student,pwngiam.2018@business.smu.edu.sg,AdHoc,-
+63,"5 March 2020, Thursday",SIS GSR 2-4,13:30-17:30,Confirmed,BK-20200228-000502,LOW SIN YEE CHLOE,Student,chloe.low.2019@sis.smu.edu.sg,AdHoc,meeting
+64,"5 March 2020, Thursday",SIS GSR 2-4,17:30-20:00,Confirmed,BK-20200228-000505,TEH SHUREEN,Student,shureen.teh.2019@sis.smu.edu.sg,AdHoc,study
+65,"5 March 2020, Thursday",SIS GSR 2-5,11:00-15:00,Confirmed,BK-20200220-000990,ONG SHI TING,Student,shiting.ong.2017@accountancy.smu.edu.sg,AdHoc,meeting
+66,"5 March 2020, Thursday",SIS GSR 2-5,15:00-19:00,Confirmed,BK-20200225-000933,RAYMOND LEOW LIANG XIONG,Student,raymondleow.2019@accountancy.smu.edu.sg,AdHoc,Project meeting
+67,"5 March 2020, Thursday",SIS GSR 2-5,19:00-22:30,Confirmed,BK-20200224-000607,BRYAN TAY WEI TECK,Student,bryan.tay.2018@sis.smu.edu.sg,AdHoc,Meeting
+68,"5 March 2020, Thursday",SIS GSR 2-6,11:00-14:00,Confirmed,BK-20200220-000475,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+69,"5 March 2020, Thursday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200220-000285,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+70,"5 March 2020, Thursday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200220-000408,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+71,"5 March 2020, Thursday",SIS GSR 2-7,11:00-13:00,Confirmed,BK-20200220-000713,RAJIV ABRAHAM XAVIER,Student,rajivax.2017@sis.smu.edu.sg,AdHoc,meeting
+72,"5 March 2020, Thursday",SIS GSR 2-7,13:00-15:00,Confirmed,BK-20200301-000747,PIYARAT SURATPIPIT,Student,piyarats.2016@sis.smu.edu.sg,AdHoc,study
+73,"5 March 2020, Thursday",SIS GSR 2-7,15:00-18:30,Confirmed,BK-20200227-000688,PEH JIN AN,Student,jinan.peh.2018@sis.smu.edu.sg,AdHoc,cry
+74,"5 March 2020, Thursday",SIS GSR 2-7,19:00-22:00,Confirmed,BK-20200303-000254,MYAT NOE MON,Student,myat.ma.2018@mitb.smu.edu.sg,Academic,Meeting
+75,"5 March 2020, Thursday",SIS GSR 3-1,09:30-11:30,Confirmed,BK-20200303-001652,ALDRIN BENEDICT REYES CAMBA,Student,aldrincamba.2017@economics.smu.edu.sg,Academic,meeting
+76,"5 March 2020, Thursday",SIS GSR 3-1,11:30-15:30,Confirmed,BK-20200220-000165,DANIAL ANG,Student,danialshahz.2018@sis.smu.edu.sg,AdHoc,meeting
+77,"5 March 2020, Thursday",SIS GSR 3-1,15:30-19:00,Confirmed,BK-20200225-000854,"LIM YUN JIA, ALLYSON",Student,allyson.lim.2017@sis.smu.edu.sg,AdHoc,proj meeting
+78,"5 March 2020, Thursday",SIS GSR 3-1,19:00-22:00,Confirmed,BK-20200228-000564,KIMBERLY WONG TZE LEE,Student,tlwong.2016@socsc.smu.edu.sg,AdHoc,wdefrge
+79,"5 March 2020, Thursday",SIS GSR 3-2,09:00-11:00,Confirmed,BK-20200225-000234,JASLYN WONG,Student,jaslyn.wong.2017@sis.smu.edu.sg,AdHoc,meeting
+80,"5 March 2020, Thursday",SIS GSR 3-2,11:30-14:30,Confirmed,BK-20200304-000361,"YU YUJUN, ANTHEA",Student,anthea.yu.2018@business.smu.edu.sg,AdHoc,group project
+81,"5 March 2020, Thursday",SIS GSR 3-2,14:30-16:00,Confirmed,BK-20200304-000497,CHANG QUN TIAN,Student,qtchang.2016@business.smu.edu.sg,AdHoc,Meeting
+82,"5 March 2020, Thursday",SIS GSR 3-2,16:00-19:00,Confirmed,BK-20200301-000372,GOH JIA YIING,Student,jygoh.2019@sis.smu.edu.sg,AdHoc,Study
+83,"5 March 2020, Thursday",SIS GSR 3-2,19:00-22:00,Confirmed,BK-20200226-001167,"TAN LI XUAN, DENYSE",Student,denyse.tan.2018@sis.smu.edu.sg,AdHoc,meeting
+84,"5 March 2020, Thursday",SIS GSR 3-3,09:00-12:00,Confirmed,BK-20200303-000617,NG EN SHING,Student,enshing.ng.2017@business.smu.edu.sg,AdHoc,Meeting
+85,"5 March 2020, Thursday",SIS GSR 3-3,12:00-16:00,Confirmed,BK-20200220-000136,LENICE LIM SHAN XUAN,Student,lenice.lim.2018@business.smu.edu.sg,AdHoc,hello
+86,"5 March 2020, Thursday",SIS GSR 3-3,16:00-20:00,Confirmed,BK-20200220-000958,TAN MIN HUI,Student,minhui.tan.2019@law.smu.edu.sg,AdHoc,study
+87,"5 March 2020, Thursday",SIS GSR 3-3,20:30-22:00,Confirmed,BK-20200305-001110,SIM THEEN CHENG,Student,tcsim.2018@sis.smu.edu.sg,AdHoc,meeting
+88,"5 March 2020, Thursday",SIS GSR 3-4,09:00-12:00,Confirmed,BK-20200301-000668,SELENA TAY YUN YUN,Student,selena.tay.2019@sis.smu.edu.sg,AdHoc,STUDY
+89,"5 March 2020, Thursday",SIS GSR 3-4,12:00-15:00,Confirmed,BK-20200113-000184,counseling,Student,counseling@smu.edu.sg,AdHoc,SMU PH Bookings 2020
+90,"5 March 2020, Thursday",SIS GSR 3-4,15:00-18:00,Confirmed,BK-20200301-000312,TAN LI KAI,Student,likai.tan.2016@sis.smu.edu.sg,AdHoc,Study
+91,"5 March 2020, Thursday",SIS GSR 3-4,18:00-22:00,Confirmed,BK-20200226-001161,KOH WEE HONG JEREMY,Student,jeremy.koh.2018@economics.smu.edu.sg,Academic,meeting
+92,"5 March 2020, Thursday",SIS GSR 3-5,08:30-11:30,Confirmed,BK-20200302-000090,"ZHANG, YILING",Student,ylzhang.2018@sis.smu.edu.sg,Academic,study
+93,"5 March 2020, Thursday",SIS GSR 3-5,12:00-16:00,Confirmed,BK-20200220-000667,CHING JIA WEI,Student,jwching.2018@sis.smu.edu.sg,AdHoc,study
+94,"5 March 2020, Thursday",SIS GSR 3-5,16:00-20:00,Confirmed,BK-20200220-000652,LIM WEN EN,Student,wenen.lim.2019@accountancy.smu.edu.sg,AdHoc,Study
+95,"5 March 2020, Thursday",SIS GSR 3-6,09:30-11:30,Confirmed,BK-20200303-001366,SRI KHALIESAH BINTE ASRI,Student,khaliesaha.2019@sis.smu.edu.sg,AdHoc,study
+96,"5 March 2020, Thursday",SIS GSR 3-6,11:30-15:30,Confirmed,BK-20200223-000095,GOH NAI YUH,Student,naiyuh.goh.2016@sis.smu.edu.sg,AdHoc,study
+97,"5 March 2020, Thursday",SIS GSR 3-6,15:30-19:30,Confirmed,BK-20200228-000978,KYMBERLYN NG TING TING,Student,kymberlynng.2017@sis.smu.edu.sg,AdHoc,study
+98,"4 March 2020, Wednesday",SIS GSR 2-1,09:00-12:00,Confirmed,BK-20200229-000472,SUMMER LIM YU,Student,summerlim.2019@socsc.smu.edu.sg,AdHoc,meeting
+99,"4 March 2020, Wednesday",SIS GSR 2-1,12:00-16:00,Confirmed,BK-20200222-000170,"KERH JIA LE, MARCUS",Student,marcus.kerh.2017@sis.smu.edu.sg,AdHoc,meeting
+100,"4 March 2020, Wednesday",SIS GSR 2-1,16:00-19:00,Confirmed,BK-20200301-000338,FAITH ENG JING TENG,Student,faith.eng.2018@sis.smu.edu.sg,AdHoc,-
+101,"4 March 2020, Wednesday",SIS GSR 2-1,19:00-22:00,Confirmed,BK-20200228-000353,"LEE JIA ERN, JANELL",Student,janell.lee.2017@sis.smu.edu.sg,AdHoc,Meeting
+102,"4 March 2020, Wednesday",SIS GSR 2-2,10:00-11:00,Confirmed,BK-20200304-000203,SIM THEEN CHENG,Student,tcsim.2018@sis.smu.edu.sg,AdHoc,meeting
+103,"4 March 2020, Wednesday",SIS GSR 2-2,11:30-15:30,Confirmed,BK-20200225-000600,TEO JUN LI JINI,Student,jini.teo.2018@sis.smu.edu.sg,AdHoc,study
+104,"4 March 2020, Wednesday",SIS GSR 2-2,15:30-19:30,Confirmed,BK-20200228-000362,"LOH KAR WEN, GERMAINE",Student,germaineloh.2018@economics.smu.edu.sg,AdHoc,Meeting
+105,"4 March 2020, Wednesday",SIS GSR 2-3,08:30-11:30,Confirmed,BK-20200303-001277,LIM JUN FENG,Student,junfeng.lim.2019@law.smu.edu.sg,AdHoc,webex
+106,"4 March 2020, Wednesday",SIS GSR 2-3,11:30-15:30,Confirmed,BK-20200219-000651,SNG YEE QIAN,Student,yeeqian.sng.2018@sis.smu.edu.sg,AdHoc,study
+107,"4 March 2020, Wednesday",SIS GSR 2-3,15:30-19:30,Confirmed,BK-20200219-001203,LOH JIA QI,Student,jiaqi.loh.2018@sis.smu.edu.sg,Academic,Webex
+108,"4 March 2020, Wednesday",SIS GSR 2-3,19:30-22:00,Confirmed,BK-20200302-000805,ROBBIE NG JIN LE,Student,robbie.ng.2018@sis.smu.edu.sg,AdHoc,meeting
+109,"4 March 2020, Wednesday",SIS GSR 2-4,09:00-13:00,Confirmed,BK-20200227-001015,VO PHAM THAO VI,Student,ptvvo.2018@sis.smu.edu.sg,AdHoc,meeting
+110,"4 March 2020, Wednesday",SIS GSR 2-4,13:00-16:00,Confirmed,BK-20200225-000506,"CHAN XIAN LUN, BRENDAN",Student,brendanchan.2018@business.smu.edu.sg,AdHoc,Meeting
+111,"4 March 2020, Wednesday",SIS GSR 2-4,16:00-20:00,Confirmed,BK-20200228-000917,ALEXIS SEOW LI TING,Student,alexis.seow.2019@sis.smu.edu.sg,Academic,Study
+112,"4 March 2020, Wednesday",SIS GSR 2-5,11:00-14:00,Confirmed,BK-20200219-000105,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+113,"4 March 2020, Wednesday",SIS GSR 2-5,14:00-17:00,Confirmed,BK-20200219-000118,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+114,"4 March 2020, Wednesday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200219-000117,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+115,"4 March 2020, Wednesday",SIS GSR 2-6,11:00-14:00,Confirmed,BK-20200220-000473,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+116,"4 March 2020, Wednesday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200220-000283,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+117,"4 March 2020, Wednesday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200220-000406,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+118,"4 March 2020, Wednesday",SIS GSR 2-7,10:00-13:00,Confirmed,BK-20200219-000029,KOH TECK YUN,Student,teckyun.koh.2017@sis.smu.edu.sg,AdHoc,study
+119,"4 March 2020, Wednesday",SIS GSR 2-7,13:00-15:30,Confirmed,BK-20200219-000057,LIM PAO LING RACHEL,Student,rachel.lim.2017@sis.smu.edu.sg,AdHoc,Meeting
+120,"4 March 2020, Wednesday",SIS GSR 2-7,15:30-18:30,Confirmed,BK-20200224-000368,LOH KWANG PENG MICHEAL,Student,micheal.loh.2018@accountancy.smu.edu.sg,AdHoc,meeting
+121,"4 March 2020, Wednesday",SIS GSR 2-7,18:30-22:30,Confirmed,BK-20200219-000034,CHONG SUET TING,Student,stchong.2017@sis.smu.edu.sg,AdHoc,Meeting
+122,"4 March 2020, Wednesday",SIS GSR 3-1,09:00-12:00,Confirmed,BK-20200302-001433,YANG ZHOUYIFAN,Student,zyfyang.2018@sis.smu.edu.sg,AdHoc,meeting
+123,"4 March 2020, Wednesday",SIS GSR 3-1,12:00-16:00,Confirmed,BK-20200219-000098,NEO XIN PIN,Student,xinpin.neo.2018@sis.smu.edu.sg,AdHoc,study
+124,"4 March 2020, Wednesday",SIS GSR 3-1,16:00-20:00,Confirmed,BK-20200226-001160,KOH WEE HONG JEREMY,Student,jeremy.koh.2018@economics.smu.edu.sg,AdHoc,meeting
+125,"4 March 2020, Wednesday",SIS GSR 3-2,08:30-12:00,Confirmed,BK-20200301-000079,"LIM ZHONG ZHEN, TIMOTHY",Student,timothy.lim.2018@sis.smu.edu.sg,AdHoc,elearn
+126,"4 March 2020, Wednesday",SIS GSR 3-2,12:00-16:00,Confirmed,BK-20200220-000661,CHING JIA WEI,Student,jwching.2018@sis.smu.edu.sg,AdHoc,study
+127,"4 March 2020, Wednesday",SIS GSR 3-2,16:00-20:00,Confirmed,BK-20200219-001223,LIM WEN EN,Student,wenen.lim.2019@accountancy.smu.edu.sg,AdHoc,Study
+128,"4 March 2020, Wednesday",SIS GSR 3-3,09:00-12:00,Confirmed,BK-20200302-000308,YEO JIEQI,Student,jieqi.yeo.2018@economics.smu.edu.sg,Academic,Project
+129,"4 March 2020, Wednesday",SIS GSR 3-3,12:00-16:00,Confirmed,BK-20200219-000428,LENICE LIM SHAN XUAN,Student,lenice.lim.2018@business.smu.edu.sg,AdHoc,hello
+130,"4 March 2020, Wednesday",SIS GSR 3-3,16:00-20:00,Confirmed,BK-20200219-000666,TAN MIN HUI,Student,minhui.tan.2019@law.smu.edu.sg,AdHoc,study
+131,"4 March 2020, Wednesday",SIS GSR 3-4,10:00-12:00,Confirmed,BK-20200303-000157,NG POK HEI BRYAN,Student,bryan.ng.2016@accountancy.smu.edu.sg,AdHoc,Korean Webex
+132,"4 March 2020, Wednesday",SIS GSR 3-4,12:00-15:00,Confirmed,BK-20200226-001252,LEE SHANZHEN LEANDRA FAITH,Student,leandralee.2018@sis.smu.edu.sg,AdHoc,study
+133,"4 March 2020, Wednesday",SIS GSR 3-4,15:00-19:00,Confirmed,BK-20200219-001172,CHEW AN JIANG,Student,ajchew.2017@sis.smu.edu.sg,Academic,Group Meeting
+134,"4 March 2020, Wednesday",SIS GSR 3-4,19:00-22:30,Confirmed,BK-20200227-000676,CHARMINE FOO ZHI MIN,Student,charminefoo.2018@sis.smu.edu.sg,AdHoc,study
+135,"4 March 2020, Wednesday",SIS GSR 3-5,09:00-12:30,Confirmed,BK-20200227-000226,LIN XING,Student,xing.lin.2018@sis.smu.edu.sg,Academic,project meeting
+136,"4 March 2020, Wednesday",SIS GSR 3-5,12:30-16:30,Confirmed,BK-20200226-000937,TAN QIU LONG MATTHEW IAN,Student,matthew.tan.2018@sis.smu.edu.sg,AdHoc,EE ES DEE
+137,"4 March 2020, Wednesday",SIS GSR 3-5,16:30-19:30,Confirmed,BK-20200301-000381,CHIA JUNG YEONG MARK,Student,mark.chia.2017@law.smu.edu.sg,AdHoc,s
+138,"4 March 2020, Wednesday",SIS GSR 3-5,19:30-22:30,Confirmed,BK-20200219-001135,CHONG KAI YUN,Student,kychong.2018@sis.smu.edu.sg,AdHoc,meeting
+139,"4 March 2020, Wednesday",SIS GSR 3-6,09:00-11:30,Confirmed,BK-20200219-000019,LEIGH-ANNE WEE YAN XIN,Student,yxwee.2019@accountancy.smu.edu.sg,AdHoc,Interview
+140,"4 March 2020, Wednesday",SIS GSR 3-6,11:30-14:00,Confirmed,BK-20200219-000008,JESSLYN TAN YONG HAO,Student,jesslyn.tan.2019@business.smu.edu.sg,AdHoc,interview
+141,"4 March 2020, Wednesday",SIS GSR 3-6,14:00-18:00,Confirmed,BK-20200226-001060,TAY WEI SHENG,Student,wstay.2017@sis.smu.edu.sg,AdHoc,study
+142,"4 March 2020, Wednesday",SIS GSR 3-6,18:30-22:30,Confirmed,BK-20200226-001064,EDDIE LEOW KIAN GIAP,Student,eddie.leow.2017@sis.smu.edu.sg,AdHoc,study
+143,"3 March 2020, Tuesday",SIS GSR 2-1,10:00-12:00,Confirmed,BK-20200227-000925,GABRIELLE ALLISON MASWI,Student,gamaswi.2018@accountancy.smu.edu.sg,AdHoc,Meeting
+144,"3 March 2020, Tuesday",SIS GSR 2-1,12:00-15:30,Confirmed,BK-20200221-000846,HENG ZHENG JIE,Student,zjheng.2017@economics.smu.edu.sg,AdHoc,study
+145,"3 March 2020, Tuesday",SIS GSR 2-1,15:30-19:00,Confirmed,BK-20200219-000326,NG JIA JIA,Student,jiajia.ng.2016@sis.smu.edu.sg,AdHoc,Meeting
+146,"3 March 2020, Tuesday",SIS GSR 2-1,19:00-22:30,Confirmed,BK-20200229-000460,FAN YIXI,Student,yixi.fan.2018@sis.smu.edu.sg,AdHoc,Meeting
+147,"3 March 2020, Tuesday",SIS GSR 2-2,09:00-12:00,Confirmed,BK-20200228-001040,TAN ZHI XUAN FRANCINE,Student,francinetan.2018@sis.smu.edu.sg,Academic,esm A project meeting jk we screwed
+148,"3 March 2020, Tuesday",SIS GSR 2-2,12:00-15:00,Confirmed,BK-20200224-000628,CHONG KAI YUN,Student,kychong.2018@sis.smu.edu.sg,AdHoc,meeting
+149,"3 March 2020, Tuesday",SIS GSR 2-2,15:30-19:00,Confirmed,BK-20200226-001106,SIM XUESI,Student,xuesi.sim.2017@sis.smu.edu.sg,Academic,Meeting
+150,"3 March 2020, Tuesday",SIS GSR 2-2,19:00-22:00,Confirmed,BK-20200301-000728,TNG ZI XIANG,Student,zixiang.tng.2018@sis.smu.edu.sg,Academic,study
+151,"3 March 2020, Tuesday",SIS GSR 2-3,09:00-12:00,Confirmed,BK-20200227-000707,"CHIA SHI QI, BRITNEY",Student,britneychia.2018@business.smu.edu.sg,AdHoc,meeting
+152,"3 March 2020, Tuesday",SIS GSR 2-3,12:00-15:30,Confirmed,BK-20200226-000510,PO THEODORA,Student,theodora.po.2018@economics.smu.edu.sg,AdHoc,-
+153,"3 March 2020, Tuesday",SIS GSR 2-3,15:30-18:30,Confirmed,BK-20200219-000480,TAN LYE JUN,Student,lyejun.tan.2016@sis.smu.edu.sg,Academic,Cry and Catch Pokemon
+154,"3 March 2020, Tuesday",SIS GSR 2-3,18:30-21:00,Confirmed,BK-20200302-000354,TAN LIN MING,Student,linming.tan.2017@sis.smu.edu.sg,Academic,study
+155,"3 March 2020, Tuesday",SIS GSR 2-4,08:30-12:00,Confirmed,BK-20200228-001004,DAPHNE TAY LI YUAN,Student,daphne.tay.2019@socsc.smu.edu.sg,AdHoc,meeting
+156,"3 March 2020, Tuesday",SIS GSR 2-4,12:00-15:00,Confirmed,BK-20200302-000403,"LIM WEI SHENG, GABRIEL",Student,gabriellim.2016@accountancy.smu.edu.sg,AdHoc,Study
+157,"3 March 2020, Tuesday",SIS GSR 2-4,15:00-15:30,Confirmed,BK-20200303-000851,MATHILDA NG,Student,mathilda.ng.2017@sis.smu.edu.sg,AdHoc,-
+158,"3 March 2020, Tuesday",SIS GSR 2-4,16:00-19:00,Confirmed,BK-20200228-000547,"NEO ZHI RONG, GLADWIN",Student,gladwin.neo.2018@sis.smu.edu.sg,Academic,meeting
+159,"3 March 2020, Tuesday",SIS GSR 2-4,19:00-22:00,Confirmed,BK-20200303-001343,TAY KIAN HONG,Student,khtay.2017@sis.smu.edu.sg,Academic,meeting
+160,"3 March 2020, Tuesday",SIS GSR 2-5,11:00-14:00,Confirmed,BK-20200219-000106,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+161,"3 March 2020, Tuesday",SIS GSR 2-5,14:00-17:00,Confirmed,BK-20200219-000113,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+162,"3 March 2020, Tuesday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200219-000115,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+163,"3 March 2020, Tuesday",SIS GSR 2-6,11:00-14:00,Confirmed,BK-20200220-000471,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+164,"3 March 2020, Tuesday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200220-000282,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+165,"3 March 2020, Tuesday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200220-000404,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+166,"3 March 2020, Tuesday",SIS GSR 2-7,09:00-11:00,Confirmed,BK-20200301-000636,"SEAH SI QI, CHRISTEL",Student,sqseah.2018@sis.smu.edu.sg,Academic,meeting
+167,"3 March 2020, Tuesday",SIS GSR 2-7,11:00-15:00,Confirmed,BK-20200219-000289,NG XIAO YAN,Student,xiaoyan.ng.2019@economics.smu.edu.sg,AdHoc,:(
+168,"3 March 2020, Tuesday",SIS GSR 2-7,15:00-19:00,Confirmed,BK-20200219-001117,"TAY JIA EN, CHARIS",Student,charis.tay.2019@accountancy.smu.edu.sg,AdHoc,Group study
+169,"3 March 2020, Tuesday",SIS GSR 2-7,19:00-22:00,Confirmed,BK-20200225-001011,YEO HUI XIN,Student,huixin.yeo.2018@sis.smu.edu.sg,AdHoc,project
+170,"3 March 2020, Tuesday",SIS GSR 3-1,08:30-11:30,Confirmed,BK-20200301-000262,FONG TZE WENG RYAN,Student,ryan.fong.2017@sis.smu.edu.sg,AdHoc,Meeting
+171,"3 March 2020, Tuesday",SIS GSR 3-1,11:30-15:30,Confirmed,BK-20200218-000055,SUN MING,Student,ming.sun.2018@sis.smu.edu.sg,AdHoc,Project Discussion
+172,"3 March 2020, Tuesday",SIS GSR 3-1,15:30-19:30,Confirmed,BK-20200219-000144,TOH YING HUI,Student,yinghui.toh.2019@sis.smu.edu.sg,AdHoc,Discussion
+173,"3 March 2020, Tuesday",SIS GSR 3-2,09:00-12:00,Confirmed,BK-20200225-000762,TAN JIA XUAN SEAN,Student,seantan.2019@sis.smu.edu.sg,AdHoc,interview
+174,"3 March 2020, Tuesday",SIS GSR 3-2,12:30-15:30,Confirmed,BK-20200225-000780,"LOCK XIAN JUN, JONATHAN",Student,xjlock.2019@sis.smu.edu.sg,AdHoc,Interview
+175,"3 March 2020, Tuesday",SIS GSR 3-2,15:30-18:30,Confirmed,BK-20200225-000770,TOH WEI XIANG,Student,weixiangtoh.2019@sis.smu.edu.sg,AdHoc,meeting
+176,"3 March 2020, Tuesday",SIS GSR 3-2,19:00-21:00,Confirmed,BK-20200225-000887,SITI HINDUN BINTE MURTAZA,Student,sitihindunm.2019@sis.smu.edu.sg,AdHoc,interview
+177,"3 March 2020, Tuesday",SIS GSR 3-3,08:30-12:00,Confirmed,BK-20200226-000931,"LOH KAR WEN, GERMAINE",Student,germaineloh.2018@economics.smu.edu.sg,AdHoc,meeting
+178,"3 March 2020, Tuesday",SIS GSR 3-3,12:00-16:00,Confirmed,BK-20200219-000936,TEO LI HUI,Student,lihui.teo.2016@law.smu.edu.sg,AdHoc,:)
+179,"3 March 2020, Tuesday",SIS GSR 3-3,16:00-20:00,Confirmed,BK-20200219-000943,TOH JI WEI,Student,jiwei.toh.2016@business.smu.edu.sg,AdHoc,study
+180,"3 March 2020, Tuesday",SIS GSR 3-4,09:30-11:30,Confirmed,BK-20200301-000433,GOH JIA YIING,Student,jygoh.2019@sis.smu.edu.sg,AdHoc,Study
+181,"3 March 2020, Tuesday",SIS GSR 3-4,12:00-15:00,Confirmed,BK-20200226-000546,TAN YIN,Student,yin.tan.2018@sis.smu.edu.sg,Academic,Meeting
+182,"3 March 2020, Tuesday",SIS GSR 3-4,15:00-18:00,Confirmed,BK-20200219-000101,NEO XIN PIN,Student,xinpin.neo.2018@sis.smu.edu.sg,AdHoc,study
+183,"3 March 2020, Tuesday",SIS GSR 3-4,18:00-21:30,Confirmed,BK-20200228-000563,TAN ZI YING,Student,ziying.tan.2018@business.smu.edu.sg,AdHoc,CAT
+184,"3 March 2020, Tuesday",SIS GSR 3-5,11:00-19:00,Confirmed,BK-20200214-000219,ONG Rong Sheng,SIS Research Centre (Extenal Funded),darrylong@smu.edu.sg,AdHoc,Discussion
+185,"3 March 2020, Tuesday",SIS GSR 3-5,19:00-22:30,Confirmed,BK-20200228-000489,MAY MYO MYINT MYAT,Student,mmmmay.2017@sis.smu.edu.sg,AdHoc,meeting la
+186,"3 March 2020, Tuesday",SIS GSR 3-6,10:00-12:00,Confirmed,BK-20200301-000064,PHUA SI YU ARIX,Student,arix.phua.2018@sis.smu.edu.sg,Academic,meeting nigga
+187,"3 March 2020, Tuesday",SIS GSR 3-6,12:00-16:00,Confirmed,BK-20200219-000983,JAMES EDWARD TEOH KAI TENG,Student,teng.teoh.2017@sis.smu.edu.sg,AdHoc,STUDY BOI
+188,"3 March 2020, Tuesday",SIS GSR 3-6,16:00-20:00,Confirmed,BK-20200220-000694,JOANN NICOLETTE WONG JIA YAN,Student,joannwong.2017@sis.smu.edu.sg,AdHoc,SUPER IMPORTANT YA
+189,"2 March 2020, Monday",SIS GSR 2-1,09:00-12:00,Confirmed,BK-20200226-000910,SOE KHANT,Student,soe.khant.2017@sis.smu.edu.sg,Academic,Meeting
+190,"2 March 2020, Monday",SIS GSR 2-1,12:00-15:00,Confirmed,BK-20200217-000095,WANG JIAJUN,Student,jiajun.wang.2018@sis.smu.edu.sg,Academic,Meeting
+191,"2 March 2020, Monday",SIS GSR 2-1,15:00-18:30,Confirmed,BK-20200228-000518,TAN YIN,Student,yin.tan.2018@sis.smu.edu.sg,Academic,class
+192,"2 March 2020, Monday",SIS GSR 2-1,18:30-22:30,Confirmed,BK-20200220-001006,"NG YU HONG, TREVOR",Student,trevor.ng.2018@sis.smu.edu.sg,AdHoc,asd
+193,"2 March 2020, Monday",SIS GSR 2-2,12:00-16:00,Confirmed,BK-20200219-000985,JAMES EDWARD TEOH KAI TENG,Student,teng.teoh.2017@sis.smu.edu.sg,AdHoc,STUDY
+194,"2 March 2020, Monday",SIS GSR 2-2,16:00-20:00,Confirmed,BK-20200220-000685,JOANN NICOLETTE WONG JIA YAN,Student,joannwong.2017@sis.smu.edu.sg,AdHoc,SUPER IMPORTANT THING
+195,"2 March 2020, Monday",SIS GSR 2-3,12:00-16:00,Confirmed,BK-20200225-000364,"KERH JIA LE, MARCUS",Student,marcus.kerh.2017@sis.smu.edu.sg,AdHoc,meeting
+196,"2 March 2020, Monday",SIS GSR 2-3,16:00-19:00,Confirmed,BK-20200229-000099,LEE HUI SHAN,Student,hslee.2018@mitb.smu.edu.sg,AdHoc,project
+197,"2 March 2020, Monday",SIS GSR 2-3,19:00-21:30,Confirmed,BK-20200227-000920,NGUYEN TUAN MINH,Student,tm.nguyen.2018@sis.smu.edu.sg,AdHoc,group meeting
+198,"2 March 2020, Monday",SIS GSR 2-4,10:00-10:30,Confirmed,BK-20200224-000119,GUO Yanru,SIS PG by Course Work,yrguo@smu.edu.sg,AdHoc,Meeting Student for Internship Consultation
+199,"2 March 2020, Monday",SIS GSR 2-4,12:00-16:00,Confirmed,BK-20200224-000631,TAN LI CHENG RACHEL,Student,lctan.2019@sis.smu.edu.sg,AdHoc,meeting
+200,"2 March 2020, Monday",SIS GSR 2-4,16:00-20:00,Confirmed,BK-20200227-000364,"LEONG KE XIN,CHERLY",Student,cherlyleong.2019@economics.smu.edu.sg,AdHoc,study
+201,"2 March 2020, Monday",SIS GSR 2-5,11:00-14:00,Confirmed,BK-20200217-001239,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+202,"2 March 2020, Monday",SIS GSR 2-5,14:00-17:00,Confirmed,BK-20200219-000111,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+203,"2 March 2020, Monday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200219-000112,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+204,"2 March 2020, Monday",SIS GSR 2-6,11:00-14:00,Confirmed,BK-20200220-000470,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+205,"2 March 2020, Monday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200220-000280,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+206,"2 March 2020, Monday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200220-000402,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+207,"2 March 2020, Monday",SIS GSR 2-7,09:00-13:00,Confirmed,BK-20200225-000411,"SEAH SI QI, CHRISTEL",Student,sqseah.2018@sis.smu.edu.sg,Academic,meeting
+208,"2 March 2020, Monday",SIS GSR 2-7,13:00-14:00,Confirmed,BK-20200301-000414,SYBIL NG QI QING,Student,sybil.ng.2019@sis.smu.edu.sg,AdHoc,study
+209,"2 March 2020, Monday",SIS GSR 2-7,14:00-15:30,Confirmed,BK-20200225-000412,ONG KRYSTAL,Student,krystal.ong.2018@sis.smu.edu.sg,AdHoc,meeting
+210,"2 March 2020, Monday",SIS GSR 2-7,15:30-19:00,Confirmed,BK-20200217-001006,RENATA DHARMA,Student,renatad.2018@sis.smu.edu.sg,Academic,Meeting
+211,"2 March 2020, Monday",SIS GSR 2-7,19:00-22:00,Confirmed,BK-20200301-000504,CLARISSA MO SHU YI,Student,clarissa.mo.2018@sis.smu.edu.sg,AdHoc,Cry
+212,"2 March 2020, Monday",SIS GSR 3-1,09:00-12:00,Confirmed,BK-20200229-000329,SONIA JOHARI,Student,soniajohari.2018@sis.smu.edu.sg,AdHoc,group meeting
+213,"2 March 2020, Monday",SIS GSR 3-1,12:00-16:00,Confirmed,BK-20200217-000443,SHAUN PHUA JIA HAO,Student,shaun.phua.2018@sis.smu.edu.sg,AdHoc,study
+214,"2 March 2020, Monday",SIS GSR 3-1,16:30-20:30,Confirmed,BK-20200217-000444,"CHUA ZHI NING, CHARLOTTE",Student,znchua.2019@sis.smu.edu.sg,AdHoc,study
+215,"2 March 2020, Monday",SIS GSR 3-2,10:00-12:00,Confirmed,BK-20200302-000225,TAY JING WEN,Student,jingwen.tay.2018@sis.smu.edu.sg,AdHoc,meeting
+216,"2 March 2020, Monday",SIS GSR 3-2,12:00-16:00,Confirmed,BK-20200217-000785,ANZOLIN LIVIO KHAI-MINH,Student,livioa.2019@socsc.smu.edu.sg,Academic,Group study
+217,"2 March 2020, Monday",SIS GSR 3-2,16:00-18:30,Confirmed,BK-20200301-000005,WONG SI NING DELORES,Student,deloreswong.2019@business.smu.edu.sg,AdHoc,Stats proj discussion
+218,"2 March 2020, Monday",SIS GSR 3-2,18:30-21:30,Confirmed,BK-20200226-000022,LIM QIU HUI CANDY,Student,candy.lim.2018@sis.smu.edu.sg,AdHoc,meeting
+219,"2 March 2020, Monday",SIS GSR 3-3,11:30-15:30,Confirmed,BK-20200217-001101,ONG SIN KAI BRENDAN,Student,brendan.ong.2018@sis.smu.edu.sg,AdHoc,Meeting
+220,"2 March 2020, Monday",SIS GSR 3-3,15:30-18:00,Confirmed,BK-20200227-000556,LEE KWAN YANG,Student,kylee.2018@sis.smu.edu.sg,Academic,meeting
+221,"2 March 2020, Monday",SIS GSR 3-3,18:30-21:30,Confirmed,BK-20200229-000644,CHIA JUNG YEONG MARK,Student,mark.chia.2017@law.smu.edu.sg,AdHoc,s
+222,"2 March 2020, Monday",SIS GSR 3-4,10:00-12:00,Confirmed,BK-20200302-000212,NG POH YENG,Student,pohyeng.ng.2017@sis.smu.edu.sg,AdHoc,meeting
+223,"2 March 2020, Monday",SIS GSR 3-4,12:00-16:00,Confirmed,BK-20200219-000935,TEO LI HUI,Student,lihui.teo.2016@law.smu.edu.sg,AdHoc,:)
+224,"2 March 2020, Monday",SIS GSR 3-4,16:00-20:00,Confirmed,BK-20200219-000941,TOH JI WEI,Student,jiwei.toh.2016@business.smu.edu.sg,AdHoc,study
+225,"2 March 2020, Monday",SIS GSR 3-5,11:30-15:30,Confirmed,BK-20200217-001354,SUN MING,Student,ming.sun.2018@sis.smu.edu.sg,AdHoc,Project Discussion
+226,"2 March 2020, Monday",SIS GSR 3-5,15:30-19:30,Confirmed,BK-20200217-001417,TOH YING HUI,Student,yinghui.toh.2019@sis.smu.edu.sg,AdHoc,Discussion
+227,"2 March 2020, Monday",SIS GSR 3-6,11:00-15:00,Confirmed,BK-20200225-000630,ANNABEL TAN,Student,annabel.tan.2017@sis.smu.edu.sg,Academic,meeting
+228,"2 March 2020, Monday",SIS GSR 3-6,15:00-19:00,Confirmed,BK-20200226-001046,TAY WEI SHENG,Student,wstay.2017@sis.smu.edu.sg,AdHoc,study
+229,"2 March 2020, Monday",SIS GSR 3-6,19:00-22:30,Confirmed,BK-20200226-001048,EDDIE LEOW KIAN GIAP,Student,eddie.leow.2017@sis.smu.edu.sg,AdHoc,study
+230,"1 March 2020, Sunday",SIS GSR 2-1,12:00-14:00,Confirmed,BK-20200225-000405,TAN YIN,Student,yin.tan.2018@sis.smu.edu.sg,Academic,Meeting
+231,"1 March 2020, Sunday",SIS GSR 2-1,15:00-17:00,Confirmed,BK-20200224-000865,JEROME QUAH WEI REN,Student,jerome.quah.2018@sis.smu.edu.sg,AdHoc,DARREN FOLLOWERS
+232,"1 March 2020, Sunday",SIS GSR 2-2,15:00-16:00,Confirmed,BK-20200301-000268,IRIS HAR JING RU,Student,iris.har.2018@sis.smu.edu.sg,AdHoc,idk
+233,"1 March 2020, Sunday",SIS GSR 2-5,13:00-17:00,Confirmed,BK-20200226-000062,CARLSTEN LIM JIAN JIE,Student,carlstenlim.2017@sis.smu.edu.sg,AdHoc,Study
+234,"1 March 2020, Sunday",SIS GSR 2-6,10:00-14:00,Confirmed,BK-20200301-000063,CHEW JIA RONG,Student,jrchew.2018@sis.smu.edu.sg,AdHoc,cry
+235,"1 March 2020, Sunday",SIS GSR 2-6,15:00-17:00,Confirmed,BK-20200301-000257,SAMANTHA ONG JIA MIN,Student,samanthaong.2018@business.smu.edu.sg,AdHoc,Meeting
+236,"1 March 2020, Sunday",SIS GSR 2-7,12:00-16:00,Confirmed,BK-20200301-000067,WONG QI YING,Student,qiying.wong.2017@sis.smu.edu.sg,AdHoc,Study
+237,"1 March 2020, Sunday",SIS GSR 3-1,10:00-12:00,Confirmed,BK-20200228-000487,PHYO YI WIN MYINT,Student,ywmphyo.2017@sis.smu.edu.sg,AdHoc,Meeting
+238,"1 March 2020, Sunday",SIS GSR 3-1,14:00-17:00,Confirmed,BK-20200301-000212,"CHEE HAO WEI, SHAUN",Student,shaun.chee.2018@sis.smu.edu.sg,AdHoc,meeting
+239,"1 March 2020, Sunday",SIS GSR 3-2,12:00-16:00,Confirmed,BK-20200229-000506,JONATHAN MING AUYONG DORNEL,Student,jdornel.2019@sis.smu.edu.sg,AdHoc,Quantum programming researching concurrent constraint logic
+240,"1 March 2020, Sunday",SIS GSR 3-2,16:00-17:00,Confirmed,BK-20200301-000319,DARREN TAY WEI HAO,Student,darren.tay.2019@sis.smu.edu.sg,AdHoc,study
+241,"1 March 2020, Sunday",SIS GSR 3-3,13:00-17:00,Confirmed,BK-20200224-000514,LOOI JAMES,Student,james.looi.2018@sis.smu.edu.sg,AdHoc,ESM
+242,"1 March 2020, Sunday",SIS GSR 3-4,14:00-17:00,Confirmed,BK-20200228-000898,CHIN WEI LIANG,Student,wlchin.2019@sis.smu.edu.sg,AdHoc,group study
+243,"1 March 2020, Sunday",SIS GSR 3-5,12:00-16:00,Confirmed,BK-20200223-000166,HWANG LEY YI,Student,leyyi.hwang.2019@sis.smu.edu.sg,AdHoc,Study
+244,"1 March 2020, Sunday",SIS GSR 3-6,14:30-16:30,Confirmed,BK-20200301-000274,JOHN TEO TJIA ERN,Student,john.teo.2018@sis.smu.edu.sg,AdHoc,studying
+245,"29 February 2020, Saturday",SIS GSR 2-1,09:00-13:00,Confirmed,BK-20200220-000902,SANDRA SARAH MATHEW,Student,ssmathew.2018@sis.smu.edu.sg,AdHoc,meeting
+246,"29 February 2020, Saturday",SIS GSR 2-1,13:30-17:00,Confirmed,BK-20200220-000967,"NG YU HONG, TREVOR",Student,trevor.ng.2018@sis.smu.edu.sg,AdHoc,asd
+247,"29 February 2020, Saturday",SIS GSR 2-2,12:30-15:30,Confirmed,BK-20200228-000975,YEONWOO LEE,Student,yeonwoo.lee.2017@sis.smu.edu.sg,AdHoc,Group Meeting
+248,"29 February 2020, Saturday",SIS GSR 2-2,16:00-17:00,Confirmed,BK-20200229-000293,ANG QI AN,Student,qian.ang.2019@law.smu.edu.sg,AdHoc,study
+249,"29 February 2020, Saturday",SIS GSR 2-3,13:00-16:00,Confirmed,BK-20200229-000014,LEE LIHUA,Student,lihua.lee.2017@sis.smu.edu.sg,AdHoc,meeting
+250,"29 February 2020, Saturday",SIS GSR 2-4,14:00-17:00,Confirmed,BK-20200229-000087,WONG HEJIAN JAVIER,Student,javier.wong.2018@sis.smu.edu.sg,AdHoc,meeting
+251,"29 February 2020, Saturday",SIS GSR 2-5,09:30-12:30,Confirmed,BK-20200229-000047,WEI MINN,Student,wei.minn.2018@sis.smu.edu.sg,Academic,meeting
+252,"29 February 2020, Saturday",SIS GSR 2-5,13:30-16:30,Confirmed,BK-20200229-000226,HE YICHENG,Student,yicheng.he.2017@sis.smu.edu.sg,AdHoc,meeting
+253,"29 February 2020, Saturday",SIS GSR 2-6,09:00-10:00,Confirmed,BK-20200227-000497,FAITH ENG JING TENG,Student,faith.eng.2018@sis.smu.edu.sg,AdHoc,-
+254,"29 February 2020, Saturday",SIS GSR 2-6,15:00-17:00,Confirmed,BK-20200229-000286,RESHMA ISHWARYA DOGIPARTHY,Student,reshmad.2018@business.smu.edu.sg,AdHoc,Study
+255,"29 February 2020, Saturday",SIS GSR 2-7,12:00-16:00,Confirmed,BK-20200229-000075,VERONICA TENG YUEN YUNG,Student,yyteng.2019@sis.smu.edu.sg,AdHoc,nil
+256,"29 February 2020, Saturday",SIS GSR 3-1,14:30-16:30,Confirmed,BK-20200227-000764,EMMA ELISABETH TANG SENG YEE,Student,emmatang.2016@law.smu.edu.sg,AdHoc,meeting
+257,"29 February 2020, Saturday",SIS GSR 3-2,10:00-14:00,Confirmed,BK-20200228-001013,LIM WEN EN,Student,wenen.lim.2019@accountancy.smu.edu.sg,AdHoc,study
+258,"29 February 2020, Saturday",SIS GSR 3-3,09:00-13:00,Confirmed,BK-20200228-000878,CHIA JUNG YEONG MARK,Student,mark.chia.2017@law.smu.edu.sg,AdHoc,s
+259,"29 February 2020, Saturday",SIS GSR 3-3,13:00-17:00,Confirmed,BK-20200228-000840,GLADYS LIM HINN TENG,Student,gladys.lim.2017@law.smu.edu.sg,AdHoc,n
+260,"29 February 2020, Saturday",SIS GSR 3-4,13:00-16:00,Confirmed,BK-20200229-000145,MUHAMMAD DANISH BIN ARIFIN,Student,danisha.2018@business.smu.edu.sg,Academic,Meeting
+261,"29 February 2020, Saturday",SIS GSR 3-5,13:00-17:00,Confirmed,BK-20200227-000387,HWANG LEY YI,Student,leyyi.hwang.2019@sis.smu.edu.sg,AdHoc,Study
+262,"29 February 2020, Saturday",SIS GSR 3-6,10:30-14:30,Confirmed,BK-20200228-001029,GAN SHAO HONG,Student,shgan.2019@sis.smu.edu.sg,AdHoc,Meeting
+263,"29 February 2020, Saturday",SIS GSR 3-6,14:30-17:00,Confirmed,BK-20200229-000253,CHUA JIA YANG,Student,jychua.2018@business.smu.edu.sg,AdHoc,Meeting
+264,"28 February 2020, Friday",SIS GSR 2-1,10:00-14:00,Confirmed,BK-20200221-000848,HENG ZHENG JIE,Student,zjheng.2017@economics.smu.edu.sg,AdHoc,study
+265,"28 February 2020, Friday",SIS GSR 2-1,14:00-17:00,Confirmed,BK-20191209-000398,KOH Kwan Chin,SIS Instructors,kckoh@smu.edu.sg,AdHoc,CT Consultations
+266,"28 February 2020, Friday",SIS GSR 2-2,09:00-11:30,Confirmed,BK-20200227-001204,RACHEL CHEONG TSI TING,Student,ttcheong.2018@business.smu.edu.sg,AdHoc,-
+267,"28 February 2020, Friday",SIS GSR 2-2,11:30-15:30,Confirmed,BK-20200217-000440,"CHUA ZHI NING, CHARLOTTE",Student,znchua.2019@sis.smu.edu.sg,AdHoc,study
+268,"28 February 2020, Friday",SIS GSR 2-2,16:00-20:00,Confirmed,BK-20200217-000442,SHAUN PHUA JIA HAO,Student,shaun.phua.2018@sis.smu.edu.sg,AdHoc,study
+269,"28 February 2020, Friday",SIS GSR 2-3,09:30-12:00,Confirmed,BK-20200227-000447,"NG XIN YI, FYRA FELIESYA",Student,fyra.ng.2018@business.smu.edu.sg,AdHoc,meeting
+270,"28 February 2020, Friday",SIS GSR 2-3,12:00-16:00,Confirmed,BK-20200217-001211,"CHUA WANG DA, ANSLEY",Student,ansley.chua.2017@sis.smu.edu.sg,AdHoc,meet
+271,"28 February 2020, Friday",SIS GSR 2-3,16:00-20:00,Confirmed,BK-20200217-001214,KANG YI QI,Student,yiqi.kang.2017@sis.smu.edu.sg,AdHoc,meeting
+272,"28 February 2020, Friday",SIS GSR 2-4,10:00-13:00,Confirmed,BK-20200223-000087,"SEAH SI QI, CHRISTEL",Student,sqseah.2018@sis.smu.edu.sg,Academic,meeting
+273,"28 February 2020, Friday",SIS GSR 2-4,13:00-15:30,Confirmed,BK-20200223-000294,"CHAN XIAN LUN, BRENDAN",Student,brendanchan.2018@business.smu.edu.sg,AdHoc,meeting
+274,"28 February 2020, Friday",SIS GSR 2-4,16:30-18:30,Confirmed,BK-20200228-000675,International Connections (ICON),Student,smuicon@sa.smu.edu.sg,Co-Curricular,Meeting
+275,"28 February 2020, Friday",SIS GSR 2-5,10:30-14:30,Confirmed,BK-20200222-000466,"TAN XIN YUE, JEWEL",Student,jewel.tan.2019@sis.smu.edu.sg,AdHoc,study
+276,"28 February 2020, Friday",SIS GSR 2-5,14:30-17:00,Confirmed,BK-20200224-000654,WONG HEJIAN JAVIER,Student,javier.wong.2018@sis.smu.edu.sg,AdHoc,meeting
+277,"28 February 2020, Friday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200214-000068,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+278,"28 February 2020, Friday",SIS GSR 2-6,11:00-14:00,Confirmed,BK-20200216-000202,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+279,"28 February 2020, Friday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200216-000057,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+280,"28 February 2020, Friday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200216-000105,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+281,"28 February 2020, Friday",SIS GSR 2-7,10:30-14:30,Confirmed,BK-20200216-000287,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+282,"28 February 2020, Friday",SIS GSR 2-7,14:30-18:30,Confirmed,BK-20200216-000298,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+283,"28 February 2020, Friday",SIS GSR 2-7,18:30-22:30,Confirmed,BK-20200216-000305,LEE SHUN HUI,Student,shunhui.lee.2019@sis.smu.edu.sg,AdHoc,"sadfdghj,"
+284,"28 February 2020, Friday",SIS GSR 3-1,09:00-12:00,Confirmed,BK-20200227-000534,"YAN, ZIFAN",Student,zifan.yan.2017@sis.smu.edu.sg,AdHoc,dasdasd
+285,"28 February 2020, Friday",SIS GSR 3-1,12:00-16:00,Confirmed,BK-20200214-000616,NG YING TING,Student,yingting.ng.2019@sis.smu.edu.sg,AdHoc,study
+286,"28 February 2020, Friday",SIS GSR 3-1,16:30-18:30,Confirmed,BK-20200214-000628,TAN JIA XUAN SEAN,Student,seantan.2019@sis.smu.edu.sg,AdHoc,study
+287,"28 February 2020, Friday",SIS GSR 3-1,18:30-21:30,Confirmed,BK-20200226-001156,KOH WEE HONG JEREMY,Student,jeremy.koh.2018@economics.smu.edu.sg,AdHoc,meeting
+288,"28 February 2020, Friday",SIS GSR 3-2,10:00-13:00,Confirmed,BK-20200225-000597,KHEMKA SHIVIKA,Student,shivikak.2017@sis.smu.edu.sg,AdHoc,meeting
+289,"28 February 2020, Friday",SIS GSR 3-2,13:00-16:00,Confirmed,BK-20200221-000214,KIMBERLY WONG TZE LEE,Student,tlwong.2016@socsc.smu.edu.sg,AdHoc,Edit
+290,"28 February 2020, Friday",SIS GSR 3-2,16:00-17:30,Confirmed,BK-20200227-001183,JOSE TAN WEN JING,Student,jose.tan.2018@sis.smu.edu.sg,AdHoc,-
+291,"28 February 2020, Friday",SIS GSR 3-2,19:00-22:00,Confirmed,BK-20200225-001157,"TAN HUI YI, VINDY",Student,vindy.tan.2017@sis.smu.edu.sg,Academic,Meeting
+292,"28 February 2020, Friday",SIS GSR 3-3,10:00-11:30,Confirmed,BK-20200227-001135,WONG KOK HOU JEREPH TRISTAN,Student,jereph.wong.2016@business.smu.edu.sg,AdHoc,Project Meeting
+293,"28 February 2020, Friday",SIS GSR 3-3,11:30-12:00,Confirmed,BK-20200228-000188,LOY RUI WEN GENEVIEVE,Student,rwloy.2018@business.smu.edu.sg,AdHoc,meeting
+294,"28 February 2020, Friday",SIS GSR 3-3,12:00-14:00,Confirmed,BK-20200222-000268,"TAY LE XUAN, TIMOTHY",Student,timothy.tay.2018@accountancy.smu.edu.sg,AdHoc,Meeting
+295,"28 February 2020, Friday",SIS GSR 3-3,14:00-15:30,Confirmed,BK-20200224-000777,ARCHANNA SELVARAJU,Student,archannas.2017@economics.smu.edu.sg,Academic,meeting
+296,"28 February 2020, Friday",SIS GSR 3-3,15:30-18:30,Confirmed,BK-20200214-000167,AMANDA CHOO YUN XUAN,Student,amanda.choo.2018@sis.smu.edu.sg,Academic,project meeting
+297,"28 February 2020, Friday",SIS GSR 3-3,19:00-21:00,Confirmed,BK-20200228-000801,IRIS HAR JING RU,Student,iris.har.2018@sis.smu.edu.sg,AdHoc,idk
+298,"28 February 2020, Friday",SIS GSR 3-4,09:00-12:00,Confirmed,BK-20200224-000608,YEO HUI XIN,Student,huixin.yeo.2018@sis.smu.edu.sg,AdHoc,project
+299,"28 February 2020, Friday",SIS GSR 3-4,12:00-12:30,Confirmed,BK-20200228-000245,HO REN JIE BRIAN,Student,brian.ho.2018@accountancy.smu.edu.sg,AdHoc,Meeting
+300,"28 February 2020, Friday",SIS GSR 3-4,12:30-16:30,Confirmed,BK-20200217-001462,NEO XIN PIN,Student,xinpin.neo.2018@sis.smu.edu.sg,AdHoc,study
+301,"28 February 2020, Friday",SIS GSR 3-4,16:30-20:30,Confirmed,BK-20200226-001043,EDDIE LEOW KIAN GIAP,Student,eddie.leow.2017@sis.smu.edu.sg,AdHoc,study
+302,"28 February 2020, Friday",SIS GSR 3-4,20:30-22:30,Confirmed,BK-20200226-001044,TAY WEI SHENG,Student,wstay.2017@sis.smu.edu.sg,AdHoc,study
+303,"28 February 2020, Friday",SIS GSR 3-5,09:00-13:00,Confirmed,BK-20200226-000100,LOW TINGZHEN,Student,tzlow.2019@sis.smu.edu.sg,AdHoc,studying
+304,"28 February 2020, Friday",SIS GSR 3-5,13:00-14:00,Confirmed,BK-20200224-000691,CHEONG EN SHUO,Student,escheong.2016@socsc.smu.edu.sg,AdHoc,meeting
+305,"28 February 2020, Friday",SIS GSR 3-5,14:00-18:00,Confirmed,BK-20200221-000720,"ZHANG, CHENGZI",Student,czzhang.2017@sis.smu.edu.sg,AdHoc,study
+306,"28 February 2020, Friday",SIS GSR 3-5,18:00-22:00,Confirmed,BK-20200227-001125,CHEN YUPENG,Student,yupeng.chen.2018@economics.smu.edu.sg,AdHoc,Study
+307,"28 February 2020, Friday",SIS GSR 3-6,09:00-12:00,Confirmed,BK-20200226-000541,LIM LI YING FELICIA,Student,felicia.lim.2018@economics.smu.edu.sg,AdHoc,abc
+308,"28 February 2020, Friday",SIS GSR 3-6,12:00-13:00,Confirmed,BK-20200227-000253,MATTHEW CHIANG,Student,matthewc.2018@sis.smu.edu.sg,Academic,Group meeting
+309,"28 February 2020, Friday",SIS GSR 3-6,13:00-16:00,Confirmed,BK-20200221-001019,HUM SHI JING,Student,shijing.hum.2017@sis.smu.edu.sg,AdHoc,Meeting
+310,"28 February 2020, Friday",SIS GSR 3-6,16:00-18:00,Confirmed,BK-20200226-001241,SHI HAOXIANG,Student,hxshi.2017@economics.smu.edu.sg,Academic,Project
+311,"27 February 2020, Thursday",SIS GSR 2-1,10:00-13:30,Confirmed,BK-20200213-001004,TAN YIN,Student,yin.tan.2018@sis.smu.edu.sg,Academic,Meeting
+312,"27 February 2020, Thursday",SIS GSR 2-1,13:30-17:30,Confirmed,BK-20200227-000162,CAO YUANYUAN,Student,yycao.2019@sis.smu.edu.sg,AdHoc,study
+313,"27 February 2020, Thursday",SIS GSR 2-1,18:00-22:00,Confirmed,BK-20200225-000550,AIDY RASHMAN BIN HAIZAN,Student,aidyrh.2018@business.smu.edu.sg,AdHoc,Meeting
+314,"27 February 2020, Thursday",SIS GSR 2-2,10:30-14:30,Confirmed,BK-20200216-000286,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+315,"27 February 2020, Thursday",SIS GSR 2-2,14:30-18:30,Confirmed,BK-20200216-000295,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+316,"27 February 2020, Thursday",SIS GSR 2-2,18:30-22:30,Confirmed,BK-20200216-000302,LEE SHUN HUI,Student,shunhui.lee.2019@sis.smu.edu.sg,AdHoc,sfdgfghj
+317,"27 February 2020, Thursday",SIS GSR 2-3,11:00-15:00,Confirmed,BK-20200216-000107,"LIM YUN JIA, ALLYSON",Student,allyson.lim.2017@sis.smu.edu.sg,AdHoc,proj meeting
+318,"27 February 2020, Thursday",SIS GSR 2-3,15:00-18:00,Confirmed,BK-20200219-000979,NG XUN JIE,Student,xunjie.ng.2018@sis.smu.edu.sg,AdHoc,CAT meeting
+319,"27 February 2020, Thursday",SIS GSR 2-3,18:00-22:00,Confirmed,BK-20200219-000982,LIONEL TAN CHUN SHU,Student,lionel.tan.2018@accountancy.smu.edu.sg,Academic,CAT
+320,"27 February 2020, Thursday",SIS GSR 2-4,10:00-14:00,Confirmed,BK-20200213-000270,NEO YIN LI AMELIA,Student,amelia.neo.2018@sis.smu.edu.sg,AdHoc,Study
+321,"27 February 2020, Thursday",SIS GSR 2-4,14:00-15:30,Confirmed,BK-20200216-000534,CHARMINE FOO ZHI MIN,Student,charminefoo.2018@sis.smu.edu.sg,AdHoc,study
+322,"27 February 2020, Thursday",SIS GSR 2-4,15:30-19:30,Confirmed,BK-20200214-000147,AMANDA CHOO YUN XUAN,Student,amanda.choo.2018@sis.smu.edu.sg,Academic,Project meeting
+323,"27 February 2020, Thursday",SIS GSR 2-5,11:00-14:00,Confirmed,BK-20200213-000132,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+324,"27 February 2020, Thursday",SIS GSR 2-5,14:00-17:00,Confirmed,BK-20200213-000571,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+325,"27 February 2020, Thursday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200214-000061,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+326,"27 February 2020, Thursday",SIS GSR 2-6,11:30-15:30,Confirmed,BK-20200213-001074,DANIAL ANG,Student,danialshahz.2018@sis.smu.edu.sg,AdHoc,meeting
+327,"27 February 2020, Thursday",SIS GSR 2-6,16:00-18:00,Confirmed,BK-20200219-000690,DEANNE MARIE NG HUI YU,Student,deanneng.2018@socsc.smu.edu.sg,AdHoc,meeting
+328,"27 February 2020, Thursday",SIS GSR 2-7,11:00-14:00,Confirmed,BK-20200216-000200,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+329,"27 February 2020, Thursday",SIS GSR 2-7,14:00-17:00,Confirmed,BK-20200216-000056,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+330,"27 February 2020, Thursday",SIS GSR 2-7,17:00-20:00,Confirmed,BK-20200216-000104,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+331,"27 February 2020, Thursday",SIS GSR 3-1,11:00-15:00,Confirmed,BK-20200213-000139,ONG SHI TING,Student,shiting.ong.2017@accountancy.smu.edu.sg,AdHoc,meeting
+332,"27 February 2020, Thursday",SIS GSR 3-1,15:00-19:00,Confirmed,BK-20200220-000906,RAYMOND LEOW LIANG XIONG,Student,raymondleow.2019@accountancy.smu.edu.sg,AdHoc,Project meeting
+333,"27 February 2020, Thursday",SIS GSR 3-2,10:00-12:00,Confirmed,BK-20200226-000294,SINDU D/O SELVAM,Student,sinduselvam.2018@business.smu.edu.sg,AdHoc,Meeting
+334,"27 February 2020, Thursday",SIS GSR 3-2,12:00-16:00,Confirmed,BK-20200226-000461,POH JIA WEI DANIEL,Student,daniel.poh.2018@law.smu.edu.sg,AdHoc,study
+335,"27 February 2020, Thursday",SIS GSR 3-2,16:30-18:30,Confirmed,BK-20200213-000198,TAN JIA XUAN SEAN,Student,seantan.2019@sis.smu.edu.sg,AdHoc,study
+336,"27 February 2020, Thursday",SIS GSR 3-2,18:30-22:30,Confirmed,BK-20200227-000976,"TAN QI QING, TESIA",Student,tesia.tan.2018@law.smu.edu.sg,AdHoc,meeting
+337,"27 February 2020, Thursday",SIS GSR 3-3,11:30-15:30,Confirmed,BK-20200213-000100,NG TSIN YING CLARIS,Student,claris.ng.2016@law.smu.edu.sg,AdHoc,s
+338,"27 February 2020, Thursday",SIS GSR 3-3,15:30-19:30,Confirmed,BK-20200213-000107,ONG CHUN EN,Student,chunen.ong.2016@socsc.smu.edu.sg,AdHoc,s
+339,"27 February 2020, Thursday",SIS GSR 3-4,11:00-12:00,Confirmed,BK-20200227-000104,LEE SEAN JIN,Student,seanjin.lee.2018@sis.smu.edu.sg,AdHoc,Meeting
+340,"27 February 2020, Thursday",SIS GSR 3-4,12:00-15:00,Confirmed,BK-20200113-000187,counseling,Student,counseling@smu.edu.sg,AdHoc,SMU PH Bookings 2020
+341,"27 February 2020, Thursday",SIS GSR 3-4,15:30-19:30,Confirmed,BK-20200213-000174,YEO JING LING,Student,jlyeo.2018@accountancy.smu.edu.sg,AdHoc,study
+342,"27 February 2020, Thursday",SIS GSR 3-5,10:30-14:30,Confirmed,BK-20200213-000310,CHELSEA ENG RIHUAI,Student,chelseaeng.2018@sis.smu.edu.sg,AdHoc,meeting
+343,"27 February 2020, Thursday",SIS GSR 3-5,14:30-18:30,Confirmed,BK-20200213-000340,CHEONG XUAN LIN,Student,xlcheong.2018@sis.smu.edu.sg,AdHoc,meeting
+344,"27 February 2020, Thursday",SIS GSR 3-5,19:00-22:30,Confirmed,BK-20200213-000887,PENG YOU XUAN,Student,yxpeng.2018@sis.smu.edu.sg,AdHoc,meeting
+345,"27 February 2020, Thursday",SIS GSR 3-6,11:00-15:00,Confirmed,BK-20200217-001458,NEO XIN PIN,Student,xinpin.neo.2018@sis.smu.edu.sg,AdHoc,study
+346,"27 February 2020, Thursday",SIS GSR 3-6,15:30-19:30,Confirmed,BK-20200216-000529,LIN XING,Student,xing.lin.2018@sis.smu.edu.sg,Academic,project meeting
+347,"26 February 2020, Wednesday",SIS GSR 2-1,09:00-11:30,Confirmed,BK-20200225-000575,"ZHANG, HAOYU",Student,haoyu.zhang.2016@sis.smu.edu.sg,AdHoc,interview
+348,"26 February 2020, Wednesday",SIS GSR 2-1,11:30-15:30,Confirmed,BK-20200212-000531,TEH SHUREEN,Student,shureen.teh.2019@sis.smu.edu.sg,Academic,study
+349,"26 February 2020, Wednesday",SIS GSR 2-1,15:30-19:30,Confirmed,BK-20200220-000966,"NG YU HONG, TREVOR",Student,trevor.ng.2018@sis.smu.edu.sg,AdHoc,asd
+350,"26 February 2020, Wednesday",SIS GSR 2-1,19:30-21:30,Confirmed,BK-20200220-001016,JEMIMA HOLLY ANG SIANG NING,Student,jemimaang.2018@law.smu.edu.sg,AdHoc,meeting
+351,"26 February 2020, Wednesday",SIS GSR 2-2,09:00-12:00,Confirmed,BK-20200218-000805,RENATA DHARMA,Student,renatad.2018@sis.smu.edu.sg,Academic,Meeting
+352,"26 February 2020, Wednesday",SIS GSR 2-2,12:00-16:00,Confirmed,BK-20200219-000948,ANZOLIN LIVIO KHAI-MINH,Student,livioa.2019@socsc.smu.edu.sg,Academic,Group project meeting
+353,"26 February 2020, Wednesday",SIS GSR 2-2,16:00-20:00,Confirmed,BK-20200222-000048,GLADYS LIM HINN TENG,Student,gladys.lim.2017@law.smu.edu.sg,AdHoc,n
+354,"26 February 2020, Wednesday",SIS GSR 2-3,08:30-12:00,Confirmed,BK-20200219-001109,TAY QIJIN,Student,qijin.tay.2018@sis.smu.edu.sg,AdHoc,Project Meeting
+355,"26 February 2020, Wednesday",SIS GSR 2-3,12:00-16:00,Confirmed,BK-20200212-000750,"KERH JIA LE, MARCUS",Student,marcus.kerh.2017@sis.smu.edu.sg,AdHoc,meeting
+356,"26 February 2020, Wednesday",SIS GSR 2-3,16:00-20:00,Confirmed,BK-20200217-001209,KANG YI QI,Student,yiqi.kang.2017@sis.smu.edu.sg,AdHoc,meeting
+357,"26 February 2020, Wednesday",SIS GSR 2-4,09:00-12:00,Confirmed,BK-20200223-000347,TNG ZI XIANG,Student,zixiang.tng.2018@sis.smu.edu.sg,Academic,study
+358,"26 February 2020, Wednesday",SIS GSR 2-4,12:00-14:30,Confirmed,BK-20200213-000262,NEO YIN LI AMELIA,Student,amelia.neo.2018@sis.smu.edu.sg,AdHoc,Study
+359,"26 February 2020, Wednesday",SIS GSR 2-4,14:30-15:30,Confirmed,BK-20200224-000981,"LIM ZI YUAN, CHARLESTON",Student,zylim.2016@economics.smu.edu.sg,AdHoc,Meeting
+360,"26 February 2020, Wednesday",SIS GSR 2-4,15:30-18:00,Confirmed,BK-20200224-000831,LOW HUI YING,Student,huiying.low.2019@accountancy.smu.edu.sg,AdHoc,meeting
+361,"26 February 2020, Wednesday",SIS GSR 2-4,18:00-20:00,Confirmed,BK-20200224-000302,"TAN SI LEI, SHERRY",Student,sherry.tan.2018@sis.smu.edu.sg,Academic,meeting
+362,"26 February 2020, Wednesday",SIS GSR 2-5,11:00-14:00,Confirmed,BK-20200212-000207,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+363,"26 February 2020, Wednesday",SIS GSR 2-5,14:00-17:00,Confirmed,BK-20200212-001386,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+364,"26 February 2020, Wednesday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200212-001389,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+365,"26 February 2020, Wednesday",SIS GSR 2-6,11:00-14:00,Confirmed,BK-20200212-000685,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+366,"26 February 2020, Wednesday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200212-000087,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+367,"26 February 2020, Wednesday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200213-000160,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+368,"26 February 2020, Wednesday",SIS GSR 2-7,10:00-14:00,Confirmed,BK-20200216-000285,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+369,"26 February 2020, Wednesday",SIS GSR 2-7,14:00-18:00,Confirmed,BK-20200216-000293,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+370,"26 February 2020, Wednesday",SIS GSR 2-7,18:00-22:00,Confirmed,BK-20200216-000301,LEE SHUN HUI,Student,shunhui.lee.2019@sis.smu.edu.sg,AdHoc,qdwafbe
+371,"26 February 2020, Wednesday",SIS GSR 3-1,10:00-12:00,Confirmed,BK-20200222-000283,PHAN HOANG LONG,Student,phlong.2016@socsc.smu.edu.sg,AdHoc,Group
+372,"26 February 2020, Wednesday",SIS GSR 3-1,12:00-16:00,Confirmed,BK-20200212-000114,NEO XIN PIN,Student,xinpin.neo.2018@sis.smu.edu.sg,AdHoc,study
+373,"26 February 2020, Wednesday",SIS GSR 3-1,16:00-20:00,Confirmed,BK-20200219-001240,"LOH KAR WEN, GERMAINE",Student,germaineloh.2018@economics.smu.edu.sg,AdHoc,meeting
+374,"26 February 2020, Wednesday",SIS GSR 3-2,10:00-14:00,Confirmed,BK-20200212-000319,LOH JIA QI,Student,jiaqi.loh.2018@sis.smu.edu.sg,Academic,Meeting
+375,"26 February 2020, Wednesday",SIS GSR 3-2,14:00-18:00,Confirmed,BK-20200212-000961,LIM HUI SIN,Student,huisin.lim.2018@sis.smu.edu.sg,AdHoc,Studying
+376,"26 February 2020, Wednesday",SIS GSR 3-3,11:00-15:00,Confirmed,BK-20200212-001308,"LIM YUN JIA, ALLYSON",Student,allyson.lim.2017@sis.smu.edu.sg,AdHoc,project
+377,"26 February 2020, Wednesday",SIS GSR 3-3,15:00-19:00,Confirmed,BK-20200212-001323,BAK ING SIN,Student,ingsin.bak.2017@sis.smu.edu.sg,Academic,Meeting
+378,"26 February 2020, Wednesday",SIS GSR 3-4,10:00-12:00,Confirmed,BK-20200224-000028,IRIS HAR JING RU,Student,iris.har.2018@sis.smu.edu.sg,AdHoc,cry @ AS
+379,"26 February 2020, Wednesday",SIS GSR 3-4,12:00-15:00,Confirmed,BK-20200226-000302,ITOKAZU MIKITO,Student,mitokazu.2019@exchange.smu.edu.sg,AdHoc,projects
+380,"26 February 2020, Wednesday",SIS GSR 3-4,16:00-19:30,Confirmed,BK-20200212-000587,TAN JIA XUAN SEAN,Student,seantan.2019@sis.smu.edu.sg,AdHoc,study
+381,"26 February 2020, Wednesday",SIS GSR 3-5,10:30-14:30,Confirmed,BK-20200212-000454,NG TSIN YING CLARIS,Student,claris.ng.2016@law.smu.edu.sg,AdHoc,s
+382,"26 February 2020, Wednesday",SIS GSR 3-5,14:30-18:30,Confirmed,BK-20200212-000459,ONG CHUN EN,Student,chunen.ong.2016@socsc.smu.edu.sg,AdHoc,s
+383,"26 February 2020, Wednesday",SIS GSR 3-6,09:00-11:30,Confirmed,BK-20200225-001062,JACKY ANG KAI JUN,Student,jacky.ang.2017@sis.smu.edu.sg,Academic,meeting
+384,"26 February 2020, Wednesday",SIS GSR 3-6,11:30-15:30,Confirmed,BK-20200217-000426,"CHUA ZHI NING, CHARLOTTE",Student,znchua.2019@sis.smu.edu.sg,AdHoc,study
+385,"26 February 2020, Wednesday",SIS GSR 3-6,16:00-20:00,Confirmed,BK-20200217-000427,SHAUN PHUA JIA HAO,Student,shaun.phua.2018@sis.smu.edu.sg,AdHoc,study
+386,"25 February 2020, Tuesday",SIS GSR 2-1,10:30-14:30,Confirmed,BK-20200216-000283,YEO YAO CONG,Student,ycyeo.2019@sis.smu.edu.sg,AdHoc,study
+387,"25 February 2020, Tuesday",SIS GSR 2-1,14:30-18:30,Confirmed,BK-20200216-000291,LIAU YI KUN KERSHAWN,Student,ykliau.2019@sis.smu.edu.sg,AdHoc,study
+388,"25 February 2020, Tuesday",SIS GSR 2-1,18:30-22:30,Confirmed,BK-20200216-000300,LEE SHUN HUI,Student,shunhui.lee.2019@sis.smu.edu.sg,AdHoc,dsadf
+389,"25 February 2020, Tuesday",SIS GSR 2-2,09:30-12:30,Confirmed,BK-20200215-000126,LEE SHANZHEN LEANDRA FAITH,Student,leandralee.2018@sis.smu.edu.sg,AdHoc,meeting
+390,"25 February 2020, Tuesday",SIS GSR 2-2,13:00-17:00,Confirmed,BK-20200217-001450,NEO XIN PIN,Student,xinpin.neo.2018@sis.smu.edu.sg,AdHoc,study
+391,"25 February 2020, Tuesday",SIS GSR 2-2,17:00-21:00,Confirmed,BK-20200224-000978,"QIN, ZHAOBO",Student,zhaobo.qin.2019@business.smu.edu.sg,AdHoc,Proj meeting
+392,"25 February 2020, Tuesday",SIS GSR 2-3,09:00-12:00,Confirmed,BK-20200223-000364,LIEW JUIN NENG IAN,Student,ian.liew.2018@sis.smu.edu.sg,Academic,project
+393,"25 February 2020, Tuesday",SIS GSR 2-3,12:00-16:00,Confirmed,BK-20200211-000943,TAN LYE JUN,Student,lyejun.tan.2016@sis.smu.edu.sg,Academic,Cry
+394,"25 February 2020, Tuesday",SIS GSR 2-3,16:00-20:00,Confirmed,BK-20200211-000946,CHUA KAI YUN,Student,kaiyun.chua.2016@sis.smu.edu.sg,Academic,Meeting
+395,"25 February 2020, Tuesday",SIS GSR 2-4,08:30-12:00,Confirmed,BK-20200224-000455,GAN SHAO HONG,Student,shgan.2019@sis.smu.edu.sg,AdHoc,Meeting
+396,"25 February 2020, Tuesday",SIS GSR 2-4,12:00-15:00,Confirmed,BK-20200213-000547,CHONG KAI YUN,Student,kychong.2018@sis.smu.edu.sg,AdHoc,meeting
+397,"25 February 2020, Tuesday",SIS GSR 2-4,15:00-19:00,Confirmed,BK-20200219-000318,PEH ANQI,Student,anqi.peh.2017@sis.smu.edu.sg,Academic,meeting
+398,"25 February 2020, Tuesday",SIS GSR 2-5,11:00-14:00,Confirmed,BK-20200211-000423,POON HAO JUN,Student,haojun.poon.2018@sis.smu.edu.sg,AdHoc,Discussion
+399,"25 February 2020, Tuesday",SIS GSR 2-5,14:00-17:00,Confirmed,BK-20200211-000326,BELLE LEE SI HUI,Student,belle.lee.2018@sis.smu.edu.sg,AdHoc,cry
+400,"25 February 2020, Tuesday",SIS GSR 2-5,17:00-20:00,Confirmed,BK-20200211-000329,MASTURAH BINTE SULAIMAN,Student,masturahs.2018@sis.smu.edu.sg,AdHoc,Study
+401,"25 February 2020, Tuesday",SIS GSR 2-6,11:00-14:00,Confirmed,BK-20200212-000683,BRYCE JEREMAEL ONG,Student,bryceong.2018@accountancy.smu.edu.sg,AdHoc,study
+402,"25 February 2020, Tuesday",SIS GSR 2-6,14:00-17:00,Confirmed,BK-20200212-000086,BENJAMIN WONG WEI EN,Student,wewong.2018@sis.smu.edu.sg,AdHoc,Study
+403,"25 February 2020, Tuesday",SIS GSR 2-6,17:00-20:00,Confirmed,BK-20200213-000158,VANIA NG TSIN EE,Student,vania.ng.2018@sis.smu.edu.sg,AdHoc,study
+404,"25 February 2020, Tuesday",SIS GSR 2-7,10:00-14:00,Confirmed,BK-20200219-000556,WIN WINT AUNG,Student,wwaung.2018@economics.smu.edu.sg,AdHoc,Meeting
+405,"25 February 2020, Tuesday",SIS GSR 2-7,14:00-18:00,Confirmed,BK-20200211-000601,KOH TECK YUN,Student,teckyun.koh.2017@sis.smu.edu.sg,AdHoc,Meeting
+406,"25 February 2020, Tuesday",SIS GSR 2-7,18:00-21:00,Confirmed,BK-20200225-000232,CHONG SUET TING,Student,stchong.2017@sis.smu.edu.sg,AdHoc,Meeting
+407,"25 February 2020, Tuesday",SIS GSR 3-1,09:00-12:00,Confirmed,BK-20200224-000114,JASLYN WONG,Student,jaslyn.wong.2017@sis.smu.edu.sg,AdHoc,meeting
+408,"25 February 2020, Tuesday",SIS GSR 3-1,12:00-16:00,Confirmed,BK-20200211-000097,NG YING TING,Student,yingting.ng.2019@sis.smu.edu.sg,AdHoc,study
+409,"25 February 2020, Tuesday",SIS GSR 3-1,16:30-20:00,Confirmed,BK-20200211-001037,TAN JIA XUAN SEAN,Student,seantan.2019@sis.smu.edu.sg,AdHoc,study
+410,"25 February 2020, Tuesday",SIS GSR 3-2,08:30-11:00,Confirmed,BK-20200220-001128,CHO XIU QI,Student,xiuqi.cho.2017@sis.smu.edu.sg,AdHoc,meeting
+411,"25 February 2020, Tuesday",SIS GSR 3-2,11:00-15:00,Confirmed,BK-20200212-001307,"LIM YUN JIA, ALLYSON",Student,allyson.lim.2017@sis.smu.edu.sg,AdHoc,project
+412,"25 February 2020, Tuesday",SIS GSR 3-2,15:00-19:00,Confirmed,BK-20200212-001322,BAK ING SIN,Student,ingsin.bak.2017@sis.smu.edu.sg,Academic,Meeting
+413,"25 February 2020, Tuesday",SIS GSR 3-3,09:00-11:30,Confirmed,BK-20200224-000931,LIM PAO LING RACHEL,Student,rachel.lim.2017@sis.smu.edu.sg,AdHoc,Project Meeting
+414,"25 February 2020, Tuesday",SIS GSR 3-3,11:30-15:30,Confirmed,BK-20200211-000351,NG TSIN YING CLARIS,Student,claris.ng.2016@law.smu.edu.sg,AdHoc,meeting
+415,"25 February 2020, Tuesday",SIS GSR 3-3,15:30-19:30,Confirmed,BK-20200211-000354,ONG CHUN EN,Student,chunen.ong.2016@socsc.smu.edu.sg,AdHoc,s
+416,"25 February 2020, Tuesday",SIS GSR 3-3,19:30-22:30,Confirmed,BK-20200225-000272,TAN JUN XIONG JOHANN,Student,johann.tan.2017@business.smu.edu.sg,AdHoc,hqh
+417,"25 February 2020, Tuesday",SIS GSR 3-4,10:00-14:00,Confirmed,BK-20200219-000409,CHEN JIA HUI,Student,jiahui.chen.2017@socsc.smu.edu.sg,Academic,meeting
+418,"25 February 2020, Tuesday",SIS GSR 3-4,14:00-18:00,Confirmed,BK-20200213-000928,KARISSE KHOO JING WEN,Student,karissekhoo.2018@sis.smu.edu.sg,AdHoc,meeting
+419,"25 February 2020, Tuesday",SIS GSR 3-4,18:00-22:00,Confirmed,BK-20200224-000031,IRIS HAR JING RU,Student,iris.har.2018@sis.smu.edu.sg,AdHoc,sigh pie apple pie @ ESM
+420,"25 February 2020, Tuesday",SIS GSR 3-5,10:00-11:00,Confirmed,BK-20200225-000071,ONG Rong Sheng,SIS Research Centre (Extenal Funded),darrylong@smu.edu.sg,AdHoc,Discussion
+421,"25 February 2020, Tuesday",SIS GSR 3-5,11:00-19:00,Confirmed,BK-20200210-000486,ONG Rong Sheng,SIS Research Centre (Extenal Funded),darrylong@smu.edu.sg,AdHoc,Discussion
+422,"25 February 2020, Tuesday",SIS GSR 3-5,19:30-22:30,Confirmed,BK-20200225-001036,RITA HUANG YANYU,Student,ritahuang.2018@economics.smu.edu.sg,AdHoc,study
+423,"25 February 2020, Tuesday",SIS GSR 3-6,10:30-14:30,Confirmed,BK-20200215-000055,KYMBERLYN NG TING TING,Student,kymberlynng.2017@sis.smu.edu.sg,AdHoc,study
+424,"25 February 2020, Tuesday",SIS GSR 3-6,15:00-19:00,Confirmed,BK-20200218-000532,LEE YING SEOW,Student,yslee.2015@sis.smu.edu.sg,AdHoc,meeting
